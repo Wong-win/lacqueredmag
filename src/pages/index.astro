@@ -41,11 +41,18 @@ const issueSkin = sectionTwo.slice(0, 2);
 const sectionDecor = rest.filter(a => a.data.categorySlugs.includes('decor'));
 const issueDecor = sectionDecor.slice(0, 2);
 
+// Issue 04 — Fragrance & Hair (max 2 cards)
+const sectionFragranceHair = rest.filter(a =>
+  a.data.categorySlugs.includes('fragrance') || a.data.categorySlugs.includes('hair')
+);
+const issueFragranceHair = sectionFragranceHair.slice(0, 2);
+
 // Latest dispatches — everything else (some may have DISPATCH kicker; if empty, section hidden)
 const dispatches = rest.filter(a =>
   !issueAtelier.includes(a) &&
   !issueSkin.includes(a) &&
-  !issueDecor.includes(a)
+  !issueDecor.includes(a) &&
+  !issueFragranceHair.includes(a)
 );
 ---
 
@@ -147,10 +154,32 @@ const dispatches = rest.filter(a =>
     </>
   )}
 
+  <!-- Issue № 04 — Fragrance & Hair -->
+  {issueFragranceHair.length > 0 && (
+    <>
+      <IssueBand issueNumber={4} categoryLabel="Fragrance & Hair" archiveSlug="#fragrance" />
+      <TwoColumn>
+        {issueFragranceHair.map(a => (
+          <MagazineCard
+            article={{
+              title: a.data.title,
+              kicker: a.data.kicker,
+              image: a.data.image,
+              imageAlt: a.data.imageAlt,
+              slug: a.data.slug,
+              author: a.data.author,
+              date: a.data.date,
+            }}
+          />
+        ))}
+      </TwoColumn>
+    </>
+  )}
+
   <!-- Dispatches from the counter -->
   {dispatches.length > 0 && (
     <>
-      <IssueBand issueNumber={4} categoryLabel="Dispatches" archiveSlug="#dispatches" />
+      <IssueBand issueNumber={5} categoryLabel="Dispatches" archiveSlug="#dispatches" />
       <div class="home-grid-3 home-section">
         {dispatches.map(a => (
           <MagazineCard
