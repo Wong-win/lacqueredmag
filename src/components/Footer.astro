@@ -1,0 +1,52 @@
+---
+import { CATEGORIES } from '../content.config';
+
+const categoryList = Object.values(CATEGORIES);
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="site-footer__inner">
+    <div class="site-footer__col">
+      <h4>Sections</h4>
+      <ul>
+        {categoryList.map(cat => (
+          <li><a href={`#${cat.slug}`}>{cat.label}</a></li>
+        ))}
+      </ul>
+    </div>
+
+    <div class="site-footer__col">
+      <h4>The Magazine</h4>
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="mailto:editors@lacqueredmag.com">Submissions</a></li>
+      </ul>
+    </div>
+
+    <div class="site-footer__col">
+      <h4>Legal</h4>
+      <ul>
+        <li><a href="/privacy-policy/">Privacy</a></li>
+        <li><a href="/privacy-policy/#disclosure">Disclosure</a></li>
+        <li><a href="/privacy-policy/#editorial">Editorial Policy</a></li>
+      </ul>
+    </div>
+
+    <div class="site-footer__col">
+      <h4>The Dispatches</h4>
+      <p style="font-family:var(--font-body); font-size:13px; color:var(--mute); margin:0 0 16px; line-height:1.5;">
+        A weekly note from the counter. No spam, ever.
+      </p>
+      <form class="newsletter__form" method="POST" action="#" aria-label="Subscribe">
+        <input class="newsletter__input" type="email" name="email" placeholder="you@email.com" required aria-required="true" aria-label="Email" />
+        <button class="newsletter__button" type="submit">Join</button>
+      </form>
+    </div>
+  </div>
+
+  <div class="site-footer__bottom">
+    © {year} LacqueredMag — A print sensibility on a web page.
+  </div>
+</footer>

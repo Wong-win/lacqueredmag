@@ -1,0 +1,66 @@
+---
+import '@fontsource-variable/fraunces';
+import '@fontsource-variable/inter';
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+export interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+}
+
+const {
+  title,
+  description = 'LacqueredMag — A print sensibility on a web page. Editorial essays on skin, makeup, fragrance, hair, and the lacquered life.',
+  image = 'https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1200&q=80',
+  type = 'website',
+} = Astro.props;
+
+const siteTitle = title === 'LacqueredMag' ? title : `${title} — LacqueredMag`;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="canonical" href={canonicalURL} />
+
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content="LacqueredMag" />
+    <meta property="og:title" content={siteTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:locale" content="en_US" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+
+    <title>{siteTitle}</title>
+
+    <!-- GA4 — placeholder ID; replace once provisioned -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-PLACEHOLDER');
+    </script>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

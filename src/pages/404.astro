@@ -1,0 +1,86 @@
+---
+// Self-contained inline CSS — see 2024-2025 GA4/Astro pitfalls; no external dependency.
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>404 — LacqueredMag</title>
+    <style is:global>
+      :root {
+        --paper: #F8F6F1;
+        --ink: #0A0A0A;
+        --rule: #1A1A1A;
+        --mute: #6B6B6B;
+        --accent: #8B2A1F;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; padding: 0; }
+      body {
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Georgia, "Times New Roman", serif;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 32px;
+      }
+      .nf-card {
+        max-width: 640px;
+        width: 100%;
+        padding: 80px 48px;
+        background: var(--paper);
+        border: 1px solid var(--rule);
+        text-align: center;
+      }
+      .nf-code {
+        font-family: "Fraunces", Georgia, serif;
+        font-weight: 800;
+        font-size: clamp(6rem, 18vw, 9rem);
+        line-height: 1;
+        color: var(--accent);
+        margin: 0 0 24px;
+        letter-spacing: -0.02em;
+      }
+      .nf-msg {
+        font-family: Georgia, serif;
+        font-size: 18px;
+        font-style: italic;
+        color: var(--ink);
+        margin: 0 0 8px;
+      }
+      .nf-sub {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+        font-size: 14px;
+        color: var(--mute);
+        margin: 0 0 32px;
+        line-height: 1.5;
+      }
+      .nf-link {
+        display: inline-block;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        color: var(--accent);
+        text-decoration: none;
+        padding: 14px 28px;
+        border: 1px solid var(--accent);
+        transition: background 180ms ease, color 180ms ease;
+      }
+      .nf-link:hover { background: var(--accent); color: var(--paper); }
+    </style>
+  </head>
+  <body>
+    <main class="nf-card">
+      <p class="nf-code">404</p>
+      <p class="nf-msg">This page has been retired.</p>
+      <p class="nf-sub">The piece you were looking for is no longer at this address. Try the cover, or browse the issue index.</p>
+      <a class="nf-link" href="/">← Return to cover</a>
+    </main>
+  </body>
+</html>

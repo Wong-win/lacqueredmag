@@ -1,0 +1,30 @@
+---
+export interface Props {
+  article: {
+    title: string;
+    kicker?: string;
+    image: string;
+    imageAlt: string;
+    slug: string;
+    author?: string;
+    date?: Date;
+  };
+}
+
+const { article } = Astro.props;
+
+const fmtDate = article.date
+  ? new Date(article.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
+  : '';
+---
+
+<a href={`/${article.slug}/`} class="mag-card" aria-label={article.title}>
+  <img class="mag-card__image" src={article.image} alt={article.imageAlt} loading="lazy" />
+  {article.kicker && <span class="mag-card__kicker eyebrow kicker--accent">{article.kicker}</span>}
+  <h3 class="mag-card__title">{article.title}</h3>
+  <div class="mag-card__meta">
+    {article.author && <span class="byline">{article.author}</span>}
+    {article.author && fmtDate && <span class="meta" aria-hidden="true">·</span>}
+    {fmtDate && <span class="meta">{fmtDate}</span>}
+  </div>
+</a>

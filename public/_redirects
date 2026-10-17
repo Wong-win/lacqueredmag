@@ -1,0 +1,5 @@
+# sitemap.xml → sitemap-index.xml (Astro @astrojs/sitemap default)
+/sitemap.xml /sitemap-index.xml 301
+
+# future GSC verification (placeholder)
+/google*.html /google*.html 200

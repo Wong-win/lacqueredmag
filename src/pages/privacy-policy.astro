@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const updated = new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+---
+
+<Layout
+  title="Privacy"
+  description="LacqueredMag privacy policy and editorial disclosures."
+>
+  <article style="max-width: 720px; margin: 80px auto; padding: 0 24px;">
+    <span class="eyebrow kicker--accent">Privacy</span>
+    <h1 style="margin-top: 16px; font-size: clamp(2rem, 4vw, 3rem); line-height: 1.1;">Privacy &amp; disclosure</h1>
+    <p style="font-family: var(--font-body); font-size: 14px; color: var(--mute); margin-top: 8px;">Last updated {updated}.</p>
+
+    <div style="font-family: var(--font-body); font-size: 17px; line-height: 1.75; margin-top: 32px;">
+
+      <h2 style="font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; margin: 2.5em 0 1em; padding-top: 1.5em; border-top: 1px solid var(--rule);">What we collect</h2>
+      <p>
+        We use Google Analytics 4 to count visitors and understand which pieces are read. We do not collect names, addresses, or any personally identifiable information except an email address you choose to give us via the dispatches form.
+      </p>
+
+      <h2 id="disclosure" style="font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; margin: 2.5em 0 1em; padding-top: 1.5em; border-top: 1px solid var(--rule);">Editorial disclosure</h2>
+      <p>
+        Where LacqueredMag contains affiliate links or receives compensation from brands, we disclose that relationship in line. Editorial coverage is independent of any commercial arrangement.
+      </p>
+      <p style="color: var(--mute); font-size: 14px;">
+        Affiliate integration is planned for v2. As of v1, we carry no affiliate links and receive no compensation for product coverage.
+      </p>
+
+      <h2 id="editorial" style="font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; margin: 2.5em 0 1em; padding-top: 1.5em; border-top: 1px solid var(--rule);">Editorial policy</h2>
+      <p>
+        We commission, we edit, and we run a two-pass review on every piece we publish. Product mentions are context — never the spine. Our reviewers are not paid by the brands they write about.
+      </p>
+
+      <h2 style="font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; margin: 2.5em 0 1em; padding-top: 1.5em; border-top: 1px solid var(--rule);">Cookies</h2>
+      <p>
+        We use only the cookies required by Google Analytics to count visits. We do not run advertising cookies, third-party tracker pixels, or social-network retargeting tags.
+      </p>
+
+      <h2 style="font-family: var(--font-body); font-size: 12px; font-weight: 600; letter-spacing: 0.2em; text-transform: uppercase; margin: 2.5em 0 1em; padding-top: 1.5em; border-top: 1px solid var(--rule);">Reach us</h2>
+      <p>
+        Questions about this policy? Write to <a href="mailto:editors@lacqueredmag.com" style="color: var(--accent);">editors@lacqueredmag.com</a>.
+      </p>
+    </div>
+  </article>
+</Layout>

@@ -1,0 +1,17 @@
+---
+export interface Props {
+  issueNumber: number;
+  categoryLabel: string;
+  archiveSlug?: string;
+}
+
+const { issueNumber, categoryLabel, archiveSlug = '#' } = Astro.props;
+---
+
+<div class="issue-band" role="region" aria-label={`Issue ${issueNumber} ${categoryLabel}`}>
+  <span class="issue-band__label">
+    <span class="issue-band__dot" aria-hidden="true"></span>
+    Issue № {String(issueNumber).padStart(2, '0')} — {categoryLabel}
+  </span>
+  <a class="issue-band__archive" href={archiveSlug}>View {categoryLabel} archive →</a>
+</div>

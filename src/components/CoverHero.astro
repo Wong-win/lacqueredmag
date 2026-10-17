@@ -1,0 +1,34 @@
+---
+export interface Props {
+  article: {
+    title: string;
+    kicker?: string;
+    dek?: string;
+    image: string;
+    imageAlt: string;
+    slug: string;
+    issueNumber?: number;
+    categories?: string[];
+  };
+  issueLabel?: string;
+}
+
+const { article, issueLabel } = Astro.props;
+---
+
+<a href={`/${article.slug}/`} class="cover" aria-label={article.title}>
+  <img class="cover__image" src={article.image} alt={article.imageAlt} loading="eager" />
+  {issueLabel && (
+    <span class="cover__badge">
+      <span class="cover__badge-dot" aria-hidden="true"></span>
+      {issueLabel}
+    </span>
+  )}
+  <div class="cover__overlay">
+    {article.kicker && (
+      <span class={`cover__kicker ${article.kicker === 'ESSAY' ? 'cover__kicker--accent' : ''} eyebrow`}>{article.kicker}</span>
+    )}
+    <h1 class="cover__title">{article.title}</h1>
+    {article.dek && <p class="cover__dek">{article.dek}</p>}
+  </div>
+</a>

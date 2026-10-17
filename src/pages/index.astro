@@ -1,0 +1,143 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CoverHero from '../components/CoverHero.astro';
+import IssueBand from '../components/IssueBand.astro';
+import TwoColumn from '../components/TwoColumn.astro';
+import MagazineCard from '../components/MagazineCard.astro';
+import Dropquote from '../components/Dropquote.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+
+// Sort: pinned first, then by date desc
+const sorted = articles.sort((a, b) => {
+  const ap = a.data.pinned ? 1 : 0;
+  const bp = b.data.pinned ? 1 : 0;
+  if (ap !== bp) return bp - ap;
+  return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+});
+
+// Cover = first article (pinned or most recent), but only if it's in atelier category
+let cover = sorted.find(a => a.data.categorySlugs.includes('atelier')) ?? sorted[0];
+const coverIssueLabel = cover.data.issueNumber
+  ? `Issue № ${String(cover.data.issueNumber).padStart(2, '0')}`
+  : undefined;
+
+// Remaining articles for the issue sections
+const rest = sorted.filter(a => a.id !== cover.id);
+
+// Issue 01 — Atelier (max 2 cards)
+const atelierArticles = rest.filter(a => a.data.categorySlugs.includes('atelier'));
+const issueAtelier = atelierArticles.slice(0, 2);
+
+// Issue 02 — Skin & Makeup (max 2 cards)
+const sectionTwo = rest.filter(a =>
+  a.data.categorySlugs.includes('skin') || a.data.categorySlugs.includes('makeup')
+);
+const issueSkin = sectionTwo.slice(0, 2);
+
+// Latest dispatches — everything else (some may have DISPATCH kicker; if empty, section hidden)
+const dispatches = rest.filter(a => !issueAtelier.includes(a) && !issueSkin.includes(a));
+---
+
+<Layout
+  title="LacqueredMag"
+  description="Editorial essays on skin, makeup, fragrance, hair, and the lacquered life. A print sensibility on a web page."
+>
+  <!-- Cover spread (Issue № 01) -->
+  <CoverHero
+    article={{
+      title: cover.data.title,
+      kicker: cover.data.kicker,
+      dek: cover.data.dek,
+      image: cover.data.image,
+      imageAlt: cover.data.imageAlt,
+      slug: cover.data.slug,
+      issueNumber: cover.data.issueNumber,
+      categories: cover.data.categories,
+    }}
+    issueLabel={coverIssueLabel}
+  />
+
+  <!-- Home intro -->
+  <div class="home-intro">
+    <p class="home-intro__lede">
+      An editorial beauty magazine that argues back — to product lists, to algorithmic sameness, to the dull shine of consensus. We publish essays on gloss, skin, and the lacquered life, one issue at a time.
+    </p>
+  </div>
+
+  <!-- Issue № 01 — Atelier -->
+  {issueAtelier.length > 0 && (
+    <>
+      <IssueBand issueNumber={1} categoryLabel="Atelier" archiveSlug="#atelier" />
+      <TwoColumn>
+        {issueAtelier.map(a => (
+          <MagazineCard
+            article={{
+              title: a.data.title,
+              kicker: a.data.kicker,
+              image: a.data.image,
+              imageAlt: a.data.imageAlt,
+              slug: a.data.slug,
+              author: a.data.author,
+              date: a.data.date,
+            }}
+          />
+        ))}
+      </TwoColumn>
+    </>
+  )}
+
+  <!-- Dropquote break -->
+  <Dropquote
+    text="Gloss is not a finish. It is a posture — the deliberate refusal to look unfinished in public."
+    attribution="The Lacquer Files, Issue № 01"
+  />
+
+  <!-- Issue № 02 — Skin & Makeup -->
+  {issueSkin.length > 0 && (
+    <>
+      <IssueBand issueNumber={2} categoryLabel="Skin & Makeup" archiveSlug="#skin" />
+      <TwoColumn>
+        {issueSkin.map(a => (
+          <MagazineCard
+            article={{
+              title: a.data.title,
+              kicker: a.data.kicker,
+              image: a.data.image,
+              imageAlt: a.data.imageAlt,
+              slug: a.data.slug,
+              author: a.data.author,
+              date: a.data.date,
+            }}
+          />
+        ))}
+      </TwoColumn>
+    </>
+  )}
+
+  <!-- Dispatches from the counter -->
+  {dispatches.length > 0 && (
+    <>
+      <IssueBand issueNumber={3} categoryLabel="Dispatches" archiveSlug="#dispatches" />
+      <div class="home-grid-3 home-section">
+        {dispatches.map(a => (
+          <MagazineCard
+            article={{
+              title: a.data.title,
+              kicker: a.data.kicker,
+              image: a.data.image,
+              imageAlt: a.data.imageAlt,
+              slug: a.data.slug,
+              author: a.data.author,
+              date: a.data.date,
+            }}
+          />
+        ))}
+      </div>
+    </>
+  )}
+
+  <Newsletter />
+</Layout>

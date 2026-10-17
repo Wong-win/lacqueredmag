@@ -1,0 +1,15 @@
+---
+export interface Props {
+  text: string;
+  attribution?: string;
+}
+
+const { text, attribution } = Astro.props;
+---
+
+<aside class="dropquote" role="complementary">
+  <div class="dropquote-inner">
+    <p class="dropquote-text">{text}</p>
+    {attribution && <p class="dropquote-attribution">— {attribution}</p>}
+  </div>
+</aside>

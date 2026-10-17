@@ -1,0 +1,71 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ArticleBody from '../components/ArticleBody.astro';
+import Newsletter from '../components/Newsletter.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map(article => ({
+    params: { slug: article.data.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const fmtDate = new Date(article.data.date).toLocaleDateString('en-US', {
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+});
+
+const wordCount = article.body?.split(/\s+/).length ?? 0;
+const readMinutes = Math.max(2, Math.round(wordCount / 220));
+
+const kickerColor = (article.data.kicker === 'ESSAY' || article.data.kicker === 'INTERVIEW')
+  ? 'kicke--accent'
+  : '';
+---
+
+<Layout
+  title={article.data.title}
+  description={article.data.excerpt}
+  image={article.data.image}
+  type="article"
+>
+  <article>
+    <header class="article-header">
+      {article.data.kicker && (
+        <span class={`article-header__kicker eyebrow kicker--accent`}>{article.data.kicker}</span>
+      )}
+      <h1 class="article-header__title">{article.data.title}</h1>
+      {article.data.dek && (
+        <p class="article-header__dek">{article.data.dek}</p>
+      )}
+      <div class="article-header__meta">
+        <span class="byline">{article.data.author}</span>
+        <span class="meta" aria-hidden="true">·</span>
+        <span class="meta">{fmtDate}</span>
+        <span class="meta" aria-hidden="true">·</span>
+        <span class="meta">{readMinutes} min read</span>
+      </div>
+    </header>
+
+    <figure class="article-header__hero">
+      <img src={article.data.image} alt={article.data.imageAlt} loading="eager" />
+      {article.data.imageCaption && (
+        <figcaption class="article-header__caption">
+          <strong>PHOTOGRAPHY</strong>{article.data.imageCaption}
+        </figcaption>
+      )}
+    </figure>
+
+    <ArticleBody>
+      <Content />
+    </ArticleBody>
+  </article>
+
+  <Newsletter />
+</Layout>
