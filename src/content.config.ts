@@ -1,7 +1,7 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
-const CATEGORY_SLUGS = ['skin', 'makeup', 'fragrance', 'hair', 'atelier'] as const;
+const CATEGORY_SLUGS = ['skin', 'makeup', 'fragrance', 'hair', 'atelier', 'decor'] as const;
 
 const articles = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/articles' }),
@@ -26,11 +26,12 @@ const articles = defineCollection({
 export const collections = { articles };
 
 export const CATEGORIES = {
-  skin:      { label: 'Skin',      slug: 'skin',      color: '#8B2A1F' },
-  makeup:    { label: 'Makeup',    slug: 'makeup',    color: '#6B1E13' },
-  fragrance: { label: 'Fragrance', slug: 'fragrance', color: '#A66A4A' },
-  hair:      { label: 'Hair',      slug: 'hair',      color: '#3E2A20' },
-  atelier:   { label: 'Atelier',   slug: 'atelier',   color: '#0A0A0A' },
+  skin:      { label: 'Skin',         slug: 'skin',      color: '#8B2A1F' },
+  makeup:    { label: 'Makeup',       slug: 'makeup',    color: '#6B1E13' },
+  fragrance: { label: 'Fragrance',    slug: 'fragrance', color: '#A66A4A' },
+  hair:      { label: 'Hair',         slug: 'hair',      color: '#3E2A20' },
+  atelier:   { label: 'Atelier',      slug: 'atelier',   color: '#0A0A0A' },
+  decor:     { label: 'Home & Decor', slug: 'decor',     color: '#5C3A21' },
 } as const;
 
 export { CATEGORY_SLUGS };

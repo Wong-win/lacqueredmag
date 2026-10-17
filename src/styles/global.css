@@ -17,6 +17,9 @@
   --accent-warm:  #A03B2D;
   --accent-soft:  #C25E50;
 
+  /* Category accent — Home & Decor */
+  --decor:        #5C3A21;
+
   /* Type */
   --font-display: "Fraunces Variable", "Fraunces", Georgia, serif;
   --font-body:    "Inter Variable", "Inter", system-ui, -apple-system, sans-serif;

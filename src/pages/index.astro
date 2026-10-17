@@ -37,8 +37,16 @@ const sectionTwo = rest.filter(a =>
 );
 const issueSkin = sectionTwo.slice(0, 2);
 
+// Issue 03 — Home & Decor (max 2 cards)
+const sectionDecor = rest.filter(a => a.data.categorySlugs.includes('decor'));
+const issueDecor = sectionDecor.slice(0, 2);
+
 // Latest dispatches — everything else (some may have DISPATCH kicker; if empty, section hidden)
-const dispatches = rest.filter(a => !issueAtelier.includes(a) && !issueSkin.includes(a));
+const dispatches = rest.filter(a =>
+  !issueAtelier.includes(a) &&
+  !issueSkin.includes(a) &&
+  !issueDecor.includes(a)
+);
 ---
 
 <Layout
@@ -117,10 +125,32 @@ const dispatches = rest.filter(a => !issueAtelier.includes(a) && !issueSkin.incl
     </>
   )}
 
+  <!-- Issue № 03 — Home & Decor -->
+  {issueDecor.length > 0 && (
+    <>
+      <IssueBand issueNumber={3} categoryLabel="Home & Decor" archiveSlug="#decor" />
+      <TwoColumn>
+        {issueDecor.map(a => (
+          <MagazineCard
+            article={{
+              title: a.data.title,
+              kicker: a.data.kicker,
+              image: a.data.image,
+              imageAlt: a.data.imageAlt,
+              slug: a.data.slug,
+              author: a.data.author,
+              date: a.data.date,
+            }}
+          />
+        ))}
+      </TwoColumn>
+    </>
+  )}
+
   <!-- Dispatches from the counter -->
   {dispatches.length > 0 && (
     <>
-      <IssueBand issueNumber={3} categoryLabel="Dispatches" archiveSlug="#dispatches" />
+      <IssueBand issueNumber={4} categoryLabel="Dispatches" archiveSlug="#dispatches" />
       <div class="home-grid-3 home-section">
         {dispatches.map(a => (
           <MagazineCard
