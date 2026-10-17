@@ -2,8 +2,8 @@
 title: "On the Counter: A Conversation with a Parisian Compounder"
 date: 2026-10-12
 slug: "conversation-parisian-compounder"
-image: "https://images.unsplash.com/photo-1583241800698-9c2e94b59c1c?auto=format&fit=crop&w=1600&q=80"
-imageAlt: "Five lipsticks arranged in a row on a marble surface, with soft natural light from a north-facing window."
+image: "https://images.unsplash.com/photo-1535683577427-740aaac4ec25?auto=format&fit=crop&w=1600&q=80"
+imageAlt: "A flat-lay of perfume bottles and small cosmetics arranged on a pale surface, lit by soft north-facing daylight."
 imageCaption: "Atelier of Camille Marchetti, 11e arrondissement. Photo: H.V. for LacqueredMag."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]

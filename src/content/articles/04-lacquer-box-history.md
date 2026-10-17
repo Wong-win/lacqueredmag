@@ -2,8 +2,8 @@
 title: "The Lacquer Box: A Brief Visual History of the Vanity"
 date: 2026-10-08
 slug: "lacquer-box-history"
-image: "https://images.unsplash.com/photo-1583241475880-083f843f25fa?auto=format&fit=crop&w=2000&q=80"
-imageAlt: "A vintage vanity table with brass-handled drawers and a single mirror under warm tungsten light."
+image: "https://images.unsplash.com/photo-1753251957291-cee22a19c2fd?auto=format&fit=crop&w=2000&q=80"
+imageAlt: "A small decorative lacquered box resting on a softly draped white fabric, photographed in flat daylight."
 imageCaption: "Private collection, Aix-en-Provence. The lacquer box at the foreground dates to c. 1925."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
