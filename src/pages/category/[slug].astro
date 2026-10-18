@@ -1,0 +1,231 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import MagazineCard from '../../components/MagazineCard.astro';
+import { getCollection } from 'astro:content';
+import { CATEGORIES, CATEGORY_SLUGS } from '../../content.config';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+
+  // 6 category pages
+  const categoryPaths = CATEGORY_SLUGS.map(slug => {
+    const cat = CATEGORIES[slug];
+    const list = articles
+      .filter(a => a.data.categorySlugs.includes(slug))
+      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+    return {
+      params: { slug },
+      props: { kind: 'category' as const, slug, list },
+    };
+  });
+
+  // 1 dispatches page — any article with kicker === 'DISPATCH'
+  const dispatchesList = articles
+    .filter(a => a.data.kicker === 'DISPATCH')
+    .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+  return [
+    ...categoryPaths,
+    {
+      params: { slug: 'dispatches' },
+      props: { kind: 'dispatches' as const, slug: 'dispatches', list: dispatchesList },
+    },
+  ];
+}
+
+const { kind, slug, list } = Astro.props;
+
+const INTROS: Record<string, { title: string; intro: string; rule: string }> = {
+  atelier: {
+    title: 'Atelier',
+    intro: 'Long-form essays from the counter — practitioners, compounder interviews, the editorial position of the magazine itself. The slow architecture of beauty writing.',
+    rule: 'From the workbench',
+  },
+  skin: {
+    title: 'Skin',
+    intro: 'Barrier, cleanser, moisturizer, the practice of skin as material. Essays and guides written for the woman who has stopped believing the press release.',
+    rule: 'On the surface',
+  },
+  makeup: {
+    title: 'Makeup',
+    intro: 'Foundation, lip, mascara, eye. Histories, how-tos, and dispatches — without the influencer voice. Makeup as a craft, not a content vertical.',
+    rule: 'On the face',
+  },
+  fragrance: {
+    title: 'Fragrance',
+    intro: 'Composition, longevity, gender, the family tree of chypre. Six-voice essays, monthly wardrobes, and the longer arc of how a scent gets made.',
+    rule: 'On the air',
+  },
+  hair: {
+    title: 'Hair',
+    intro: 'Grey, lacquered, dried, oiled. The cultural history and the at-home practice. Hair as a politics and as a craft, both at once.',
+    rule: 'On the head',
+  },
+  decor: {
+    title: 'Home & Decor',
+    intro: 'The vanity, the apothecary, the bathroom as ritual space. Not the general home — only the surfaces where the lacquered life gets assembled.',
+    rule: 'On the counter',
+  },
+};
+
+const page = kind === 'category'
+  ? INTROS[slug]
+  : { title: 'Dispatches', intro: 'Short notes from the counter — a new mascara, a hair oil worth the second look, a lacquer drop. Brief on purpose, written on the day.', rule: 'From the field' };
+---
+
+<Layout
+  title={`${page.title} — LacqueredMag`}
+  description={page.intro}
+>
+  <div class="category-page">
+    <header class="category-page__header">
+      <p class="category-page__rule">{page.rule}</p>
+      <h1 class="category-page__title">{page.title}</h1>
+      <p class="category-page__intro">{page.intro}</p>
+      <p class="category-page__count">{list.length} {list.length === 1 ? 'piece' : 'pieces'}</p>
+    </header>
+
+    {list.length === 0 ? (
+      <p class="category-page__empty">Nothing in this section yet. The lacquer takes time to dry.</p>
+    ) : (
+      <div class="category-page__list">
+        {list.map(article => (
+          <MagazineCard
+            article={{
+              title: article.data.title,
+              kicker: article.data.kicker,
+              image: article.data.image,
+              imageAlt: article.data.imageAlt,
+              slug: article.data.slug,
+              author: article.data.author,
+              date: article.data.date,
+            }}
+          />
+        ))}
+      </div>
+    )}
+
+    <nav class="category-page__nav" aria-label="Other sections">
+      <p class="category-page__nav-label">Other sections</p>
+      <ul>
+        {Object.values(CATEGORIES).filter(c => c.slug !== slug).map(c => (
+          <li><a href={`/category/${c.slug}/`}>{c.label}</a></li>
+        ))}
+        {kind !== 'dispatches' && (
+          <li><a href="/category/dispatches/">Dispatches</a></li>
+        )}
+        {kind === 'dispatches' && (
+          <li><a href="/">← All issues</a></li>
+        )}
+      </ul>
+    </nav>
+  </div>
+</Layout>
+
+<style>
+  .category-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 6rem;
+  }
+  .category-page__header {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 2.5rem 0 3rem;
+    margin-bottom: 3rem;
+  }
+  .category-page__rule {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 1rem;
+    font-weight: 500;
+  }
+  .category-page__title {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    margin: 0 0 1.25rem;
+    color: var(--ink);
+  }
+  .category-page__intro {
+    font-family: 'Fraunces', serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    max-width: 56ch;
+    margin: 0 0 1.25rem;
+    color: var(--ink);
+  }
+  .category-page__count {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    opacity: 0.55;
+    margin: 0;
+  }
+  .category-page__empty {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 1.125rem;
+    text-align: center;
+    padding: 4rem 0;
+    color: var(--ink);
+    opacity: 0.6;
+  }
+  .category-page__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem 2rem;
+  }
+  @media (max-width: 720px) {
+    .category-page__list {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+  }
+  .category-page__nav {
+    border-top: 1px solid var(--rule);
+    margin-top: 5rem;
+    padding-top: 2rem;
+  }
+  .category-page__nav-label {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    opacity: 0.55;
+    margin: 0 0 1rem;
+  }
+  .category-page__nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+  }
+  .category-page__nav li a {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .category-page__nav li a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>

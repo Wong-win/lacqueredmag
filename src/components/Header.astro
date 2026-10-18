@@ -13,7 +13,7 @@ const categoryList = Object.values(CATEGORIES);
       {categoryList.map((cat, i) => (
         <>
           {i > 0 && <span aria-hidden="true" style="color:var(--accent)">·</span>}
-          <a href={`#${cat.slug}`}>{cat.label}</a>
+          <a href={`/category/${cat.slug}/`}>{cat.label}</a>
         </>
       ))}
     </nav>

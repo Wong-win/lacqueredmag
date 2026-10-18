@@ -85,7 +85,7 @@ const dispatches = rest.filter(a =>
   <!-- Issue № 01 — Atelier -->
   {issueAtelier.length > 0 && (
     <>
-      <IssueBand issueNumber={1} categoryLabel="Atelier" archiveSlug="#atelier" />
+      <IssueBand issueNumber={1} categoryLabel="Atelier" archiveSlug="/category/atelier/" />
       <TwoColumn>
         {issueAtelier.map(a => (
           <MagazineCard
@@ -113,7 +113,7 @@ const dispatches = rest.filter(a =>
   <!-- Issue № 02 — Skin & Makeup -->
   {issueSkin.length > 0 && (
     <>
-      <IssueBand issueNumber={2} categoryLabel="Skin & Makeup" archiveSlug="#skin" />
+      <IssueBand issueNumber={2} categoryLabel="Skin & Makeup" archiveSlug="/category/skin/" />
       <TwoColumn>
         {issueSkin.map(a => (
           <MagazineCard
@@ -135,7 +135,7 @@ const dispatches = rest.filter(a =>
   <!-- Issue № 03 — Home & Decor -->
   {issueDecor.length > 0 && (
     <>
-      <IssueBand issueNumber={3} categoryLabel="Home & Decor" archiveSlug="#decor" />
+      <IssueBand issueNumber={3} categoryLabel="Home & Decor" archiveSlug="/category/decor/" />
       <TwoColumn>
         {issueDecor.map(a => (
           <MagazineCard
@@ -157,7 +157,7 @@ const dispatches = rest.filter(a =>
   <!-- Issue № 04 — Fragrance & Hair -->
   {issueFragranceHair.length > 0 && (
     <>
-      <IssueBand issueNumber={4} categoryLabel="Fragrance & Hair" archiveSlug="#fragrance" />
+      <IssueBand issueNumber={4} categoryLabel="Fragrance & Hair" archiveSlug="/category/fragrance/" />
       <TwoColumn>
         {issueFragranceHair.map(a => (
           <MagazineCard
@@ -179,7 +179,7 @@ const dispatches = rest.filter(a =>
   <!-- Dispatches from the counter -->
   {dispatches.length > 0 && (
     <>
-      <IssueBand issueNumber={5} categoryLabel="Dispatches" archiveSlug="#dispatches" />
+      <IssueBand issueNumber={5} categoryLabel="Dispatches" archiveSlug="/category/dispatches/" />
       <div class="home-grid-3 home-section">
         {dispatches.map(a => (
           <MagazineCard
