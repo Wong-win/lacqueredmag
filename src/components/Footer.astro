@@ -11,8 +11,9 @@ const year = new Date().getFullYear();
       <h4>Sections</h4>
       <ul>
         {categoryList.map(cat => (
-          <li><a href={`#${cat.slug}`}>{cat.label}</a></li>
+          <li><a href={`/category/${cat.slug}/`}>{cat.label}</a></li>
         ))}
+        <li><a href="/category/dispatches/">Dispatches</a></li>
       </ul>
     </div>
 
