@@ -1,0 +1,177 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import MagazineCard from '../../components/MagazineCard.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const ISSUE_DEFS = [
+    { n: '01', title: 'The Atelier', categories: ['atelier'], rule: 'From the workbench' },
+    { n: '02', title: 'Skin & Makeup', categories: ['skin', 'makeup'], rule: 'On the surface' },
+    { n: '03', title: 'Home & Decor', categories: ['decor'], rule: 'On the counter' },
+    { n: '04', title: 'Fragrance & Hair', categories: ['fragrance', 'hair'], rule: 'On the air' },
+    { n: '05', title: 'Dispatches', categories: [], rule: 'From the field', dispatch: true },
+  ];
+  return ISSUE_DEFS.map(def => ({ params: { n: def.n }, props: { def } }));
+}
+
+const { def } = Astro.props;
+const ISSUE_DEFS = [
+  { n: '01', title: 'The Atelier', categories: ['atelier'], rule: 'From the workbench' },
+  { n: '02', title: 'Skin & Makeup', categories: ['skin', 'makeup'], rule: 'On the surface' },
+  { n: '03', title: 'Home & Decor', categories: ['decor'], rule: 'On the counter' },
+  { n: '04', title: 'Fragrance & Hair', categories: ['fragrance', 'hair'], rule: 'On the air' },
+  { n: '05', title: 'Dispatches', categories: [], rule: 'From the field', dispatch: true },
+];
+
+const allArticles = await getCollection('articles');
+
+let list;
+if (def.dispatch) {
+  list = allArticles
+    .filter(a => a.data.kicker === 'DISPATCH')
+    .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+} else {
+  list = allArticles
+    .filter(a => a.data.categorySlugs.some(s => def.categories.includes(s)))
+    .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+}
+
+const fmtDate = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' });
+---
+
+<Layout
+  title={`Issue № ${def.n} — ${def.title}`}
+  description={`The articles in Issue № ${def.n} (${def.title}) of LacqueredMag — ${list.length} pieces, ${fmtDate}.`}
+>
+  <div class="issue-page">
+    <header class="issue-page__header">
+      <p class="issue-page__rule">{def.rule}</p>
+      <h1 class="issue-page__title">Issue № {def.n} — {def.title}</h1>
+      <p class="issue-page__count">{list.length} {list.length === 1 ? 'piece' : 'pieces'} · {fmtDate}</p>
+    </header>
+
+    {list.length === 0 ? (
+      <p class="issue-page__empty">No pieces in this issue yet. The lacquer is still drying.</p>
+    ) : (
+      <div class="issue-page__list">
+        {list.map(article => (
+          <MagazineCard
+            article={{
+              title: article.data.title,
+              kicker: article.data.kicker,
+              image: article.data.image,
+              imageAlt: article.data.imageAlt,
+              slug: article.data.slug,
+              author: article.data.author,
+              date: article.data.date,
+            }}
+          />
+        ))}
+      </div>
+    )}
+
+    <nav class="issue-page__nav" aria-label="Other issues">
+      <p class="issue-page__nav-label">Other issues</p>
+      <ul>
+        {ISSUE_DEFS.filter(d => d.n !== def.n).map(d => (
+          <li><a href={`/issues/${d.n}/`}>Issue № {d.n} — {d.title}</a></li>
+        ))}
+        <li><a href="/">← Home</a></li>
+      </ul>
+    </nav>
+  </div>
+</Layout>
+
+<style>
+  .issue-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem 6rem;
+  }
+  .issue-page__header {
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    padding: 2.5rem 0 3rem;
+    margin-bottom: 3rem;
+  }
+  .issue-page__rule {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 1rem;
+    font-weight: 500;
+  }
+  .issue-page__title {
+    font-family: 'Fraunces', serif;
+    font-weight: 800;
+    font-size: clamp(2.5rem, 6vw, 4.5rem);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    margin: 0 0 1.25rem;
+  }
+  .issue-page__count {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    opacity: 0.55;
+    margin: 0;
+  }
+  .issue-page__empty {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 1.125rem;
+    text-align: center;
+    padding: 4rem 0;
+    color: var(--ink);
+    opacity: 0.6;
+  }
+  .issue-page__list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem 2rem;
+  }
+  @media (max-width: 720px) {
+    .issue-page__list { grid-template-columns: 1fr; gap: 2.5rem; }
+  }
+  .issue-page__nav {
+    border-top: 1px solid var(--rule);
+    margin-top: 5rem;
+    padding-top: 2rem;
+  }
+  .issue-page__nav-label {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    opacity: 0.55;
+    margin: 0 0 1rem;
+  }
+  .issue-page__nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+  }
+  .issue-page__nav li a {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .issue-page__nav li a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+</style>

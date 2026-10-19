@@ -27,6 +27,18 @@ const readMinutes = Math.max(2, Math.round(wordCount / 220));
 const kickerColor = (article.data.kicker === 'ESSAY' || article.data.kicker === 'INTERVIEW')
   ? 'kicke--accent'
   : '';
+
+// Map primary categorySlug → human section name for OG / JSON-LD
+const sectionMap: Record<string, string> = {
+  atelier: 'Atelier',
+  skin: 'Skin',
+  makeup: 'Makeup',
+  fragrance: 'Fragrance',
+  hair: 'Hair',
+  decor: 'Home & Decor',
+};
+const primarySection = sectionMap[article.data.categorySlugs[0]] ?? article.data.categories[0];
+const publishedISO = new Date(article.data.date).toISOString();
 ---
 
 <Layout
@@ -34,6 +46,9 @@ const kickerColor = (article.data.kicker === 'ESSAY' || article.data.kicker === 
   description={article.data.excerpt}
   image={article.data.image}
   type="article"
+  publishedTime={publishedISO}
+  author={article.data.author}
+  section={primarySection}
 >
   <article>
     <header class="article-header">
