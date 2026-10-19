@@ -46,15 +46,6 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
     <meta name="twitter:image" content={image} />
 
     <title>{siteTitle}</title>
-
-    <!-- GA4 — placeholder ID; replace once provisioned -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-PLACEHOLDER"></script>
-    <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-PLACEHOLDER');
-    </script>
   </head>
   <body>
     <Header />
