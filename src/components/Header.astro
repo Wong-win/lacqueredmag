@@ -17,7 +17,260 @@ const categoryList = Object.values(CATEGORIES);
         </>
       ))}
     </nav>
-    <a href="/search/" class="site-header__contact" aria-label="Search">Search</a>
+    <div class="site-header__search" id="site-search">
+      <input
+        type="search"
+        id="site-search-input"
+        class="site-header__search-input"
+        placeholder="Search the magazine…"
+        autocomplete="off"
+        aria-label="Search articles"
+      />
+      <div id="site-search-panel" class="site-header__search-panel" hidden>
+        <div id="site-search-status" class="site-header__search-status" aria-live="polite"></div>
+        <ol id="site-search-results" class="site-header__search-results"></ol>
+        <a href="/search/" class="site-header__search-all">Open full search →</a>
+      </div>
+    </div>
     <a href="/contact/" class="site-header__contact">Contact</a>
   </div>
 </header>
+
+<script is:inline>
+  (async () => {
+    try {
+      // @ts-ignore
+      await import('/pagefind/pagefind.js');
+    } catch {
+      return;
+    }
+    // @ts-ignore
+    const pf = window.pagefind;
+    if (!pf) return;
+
+    const input = document.getElementById('site-search-input');
+    const panel = document.getElementById('site-search-panel');
+    const status = document.getElementById('site-search-status');
+    const results = document.getElementById('site-search-results');
+    if (!input || !panel || !status || !results) return;
+
+    const escapeHTML = (s) => String(s).replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+    }[c]));
+
+    let debounce;
+    let open = false;
+    let activeIndex = -1;
+
+    const openPanel = () => {
+      panel.hidden = false;
+      open = true;
+    };
+    const closePanel = () => {
+      panel.hidden = true;
+      open = false;
+      activeIndex = -1;
+    };
+
+    const updateActive = () => {
+      results.querySelectorAll('.site-search-hit').forEach((el, i) => {
+        el.classList.toggle('is-active', i === activeIndex);
+      });
+    };
+
+    input.addEventListener('input', () => {
+      clearTimeout(debounce);
+      const q = input.value.trim();
+      if (q.length < 2) {
+        status.textContent = '';
+        results.innerHTML = '';
+        closePanel();
+        return;
+      }
+      debounce = setTimeout(async () => {
+        const search = await pf.search(q);
+        const n = search.results.length;
+        status.textContent = n === 0 ? 'No matches.' : `${n} ${n === 1 ? 'result' : 'results'}`;
+        results.innerHTML = '';
+        const top = search.results.slice(0, 8);
+        for (const r of top) {
+          const data = await r.data();
+          const li = document.createElement('li');
+          li.className = 'site-search-hit';
+          const kicker = data.meta?.kicker
+            ? `<span class="site-search-hit__kicker">${escapeHTML(data.meta.kicker)}</span>`
+            : '';
+          const img = data.meta?.image
+            ? `<img class="site-search-hit__image" src="${escapeHTML(data.meta.image)}" alt="" loading="lazy" />`
+            : '';
+          li.innerHTML = `
+            <a href="${data.url}" class="site-search-hit__link">
+              ${img}
+              <div class="site-search-hit__body">
+                ${kicker}
+                <h3 class="site-search-hit__title">${escapeHTML(data.meta?.title || data.url)}</h3>
+              </div>
+            </a>
+          `;
+          results.appendChild(li);
+        }
+        activeIndex = -1;
+        openPanel();
+      }, 150);
+    });
+
+    input.addEventListener('focus', () => {
+      if (input.value.trim().length >= 2) openPanel();
+    });
+
+    input.addEventListener('keydown', (e) => {
+      const items = results.querySelectorAll('.site-search-hit__link');
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        activeIndex = Math.min(activeIndex + 1, items.length - 1);
+        updateActive();
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        activeIndex = Math.max(activeIndex - 1, 0);
+        updateActive();
+      } else if (e.key === 'Enter') {
+        if (activeIndex >= 0 && items[activeIndex]) {
+          e.preventDefault();
+          items[activeIndex].click();
+        } else if (items.length === 1) {
+          e.preventDefault();
+          items[0].click();
+        }
+      } else if (e.key === 'Escape') {
+        closePanel();
+        input.blur();
+      }
+    });
+
+    document.addEventListener('click', (e) => {
+      if (!open) return;
+      const root = document.getElementById('site-search');
+      if (root && !root.contains(e.target)) closePanel();
+    });
+  })();
+</script>
+
+<style>
+  .site-header__search {
+    position: relative;
+  }
+  .site-header__search-input {
+    font-family: 'Inter', sans-serif;
+    font-size: 13px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid transparent;
+    padding: 4px 8px;
+    width: 180px;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s ease, width 0.2s ease;
+  }
+  .site-header__search-input::placeholder {
+    color: var(--ink);
+    opacity: 0.45;
+    font-style: italic;
+  }
+  .site-header__search-input:focus {
+    border-bottom-color: var(--accent);
+    width: 240px;
+  }
+  .site-header__search-panel {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    width: 420px;
+    max-width: 90vw;
+    background: var(--paper);
+    border: 1px solid var(--rule);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: 1rem 1.25rem;
+    z-index: 50;
+  }
+  .site-header__search-status {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink);
+    opacity: 0.55;
+    margin: 0 0 0.5rem;
+  }
+  .site-header__search-results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  .site-search-hit {
+    border-top: 1px solid var(--rule);
+  }
+  .site-search-hit:first-child { border-top: none; }
+  .site-search-hit.is-active .site-search-hit__link {
+    background: rgba(139, 42, 31, 0.06);
+  }
+  .site-search-hit__link {
+    display: flex;
+    gap: 0.875rem;
+    padding: 0.625rem 0.5rem;
+    text-decoration: none;
+    color: var(--ink);
+    align-items: center;
+  }
+  .site-search-hit__image {
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .site-search-hit__body {
+    flex: 1;
+    min-width: 0;
+  }
+  .site-search-hit__kicker {
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .site-search-hit__title {
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.25;
+    margin: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .site-header__search-all {
+    display: block;
+    margin-top: 0.75rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--rule);
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .site-header__search-all:hover {
+    color: var(--ink);
+  }
+  @media (max-width: 720px) {
+    .site-header__search-input { width: 140px; }
+    .site-header__search-input:focus { width: 180px; }
+    .site-header__search-panel { right: -1rem; }
+  }
+</style>
