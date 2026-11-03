@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "gender-in-fragrance-six"
 image: "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A single perfume bottle photographed in three-quarter view against a pale background"
-imageCaption: "A single bottle, photographed in three-quarter view. The gender of the bottle is, finally, the gender of the wearer."
+imageCaption: "A single bottle, photographed in three-quarter view."
 categories: ["Fragrance"]
 categorySlugs: ["fragrance"]
 excerpt: "Six voices — one perfumer, one critic, one editor, one brand founder, one nose, and one chemist — on whether gender matters in fragrance."

@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "hair-dryer-history"
 image: "https://images.unsplash.com/photo-1621607510248-9c78bbab941b?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A vintage hair dryer from the mid-20th century, photographed on a pale background"
-imageCaption: "A 1950s salon bonnet dryer, photographed in the editorial light. The dryer is, in our view, the most under-rated beauty appliance."
+imageCaption: "A 1950s salon bonnet dryer, photographed in the editorial light."
 categories: ["Hair"]
 categorySlugs: ["hair"]
 excerpt: "The hair dryer is the most under-rated beauty appliance. A short history, from the 1900 bonnet dryer to the Dyson Supersonic."

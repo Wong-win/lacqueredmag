@@ -4,13 +4,13 @@ date: 2026-10-17
 slug: "foundation-eight-steps"
 image: "https://images.unsplash.com/photo-1560879311-370fd4561a0d?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A foundation bottle photographed against a pale neutral background"
-imageCaption: "The foundation, photographed in the same flat light we use to read the colour on skin. The bottle is, finally, less important than the formula inside."
+imageCaption: "A foundation bottle photographed in the same flat light we use to read the colour on skin."
 categories: ["Makeup"]
 categorySlugs: ["makeup"]
 excerpt: "Finding a foundation is, properly, an eight-step process. We walk you through the steps in the order they will actually help."
 author: "Lacquered Editorial"
 kicker: "GUIDE"
-dek: "The eight-step process for finding a foundation that is, finally, right for your skin. A practical guide, drawn from the practitioners we trust."
+dek: "The eight-step process for finding a foundation that is right for your skin. A practical guide, drawn from the practitioners we trust."
 ---
 
 The foundation is the most counter-intuitive cosmetic in the modern bag — the cosmetic that the buyer spends the most time choosing, and the one she is most likely to get wrong. The woman who has found her foundation is, statistically, the exception.

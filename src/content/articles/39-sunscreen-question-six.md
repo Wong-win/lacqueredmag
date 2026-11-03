@@ -4,7 +4,7 @@ date: 2026-10-18
 slug: "sunscreen-question-six"
 image: "https://images.unsplash.com/photo-1689414748960-0498d6675f20?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A bottle of sun product resting on a beach surface, photographed in warm summer light."
-imageCaption: "A sunscreen bottle, photographed in summer light. The bottle is, in our view, the most over-researched and under-used product on the modern shelf."
+imageCaption: "A sunscreen bottle, photographed in summer light."
 categories: ["Skin"]
 categorySlugs: ["skin"]
 excerpt: "Six voices on mineral versus chemical, SPF rating, reapplication, white cast, daily use. The science is settled; the behaviour is not."

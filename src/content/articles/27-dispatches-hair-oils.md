@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "dispatches-hair-oils"
 image: "https://images.unsplash.com/photo-1667242003572-96caaf8ac5c4?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A small hair oil bottle photographed in flat daylight with a soft background"
-imageCaption: "Three hair oils, photographed on the editorial counter. The bottles are smaller than they look. The oil is, finally, less than the application."
+imageCaption: "Three hair oils, photographed on the editorial counter. The bottles are smaller than they look."
 categories: ["Hair"]
 categorySlugs: ["hair"]
 excerpt: "Three hair oils, three different ideas of what an oil on the hair is for. Dispatches from the counter, autumn 2026."

@@ -4,7 +4,7 @@ date: 2026-10-18
 slug: "the-beauty-editor-voice"
 image: "https://images.unsplash.com/photo-1524862655266-89c67a10c4b3?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A clear glass perfume bottle photographed on a pale surface, the light catching the etched lettering."
-imageCaption: "A 1960s perfume bottle, photographed in the side light of an autumn afternoon. The bottle was, in our view, the bottle the modern beauty editor was, in the early 1960s, paid to write about."
+imageCaption: "A 1960s perfume bottle, photographed in the side light of an autumn afternoon."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
 excerpt: "What does a beauty editor actually do? A short job description, written by one, in the hope of clarifying what the consumer is paying for."

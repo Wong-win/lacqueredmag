@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "chypre-history"
 image: "https://images.unsplash.com/photo-1659415435912-b82c4c4da275?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A vintage perfume bottle photographed on a dark surface with soft side light"
-imageCaption: "A 1940s chypre bottle, photographed in the side light of an autumn afternoon. The dark surface is, in our view, the right surface for a chypre."
+imageCaption: "A 1940s chypre bottle, photographed in the side light of an autumn afternoon. Oakmoss reads best against a dark surface."
 categories: ["Fragrance"]
 categorySlugs: ["fragrance"]
 excerpt: "The chypre is the most constructed, the most argued, and the most regulated family in modern perfumery. A short history."

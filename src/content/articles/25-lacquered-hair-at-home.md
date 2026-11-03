@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "lacquered-hair-at-home"
 image: "https://images.unsplash.com/photo-1734111719430-fe4a3973f8af?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A person drying their hair at home, photographed in soft window light"
-imageCaption: "Lacquered hair in the making. The window light is, finally, the right light."
+imageCaption: "Lacquered hair in the making, in soft window light."
 categories: ["Hair"]
 categorySlugs: ["hair"]
 excerpt: "Lacquered hair at home, in five steps, drawn from the stylists we trust. The lacquer is a process, not a product."

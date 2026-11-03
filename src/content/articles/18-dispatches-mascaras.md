@@ -4,10 +4,10 @@ date: 2026-10-17
 slug: "dispatches-mascaras"
 image: "https://images.unsplash.com/photo-1631214540553-ff044a3ff1d4?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A mascara wand photographed close-up, with a soft focus background"
-imageCaption: "Three mascaras, photographed in the morning light. The wands are, in our view, the most under-photographed part of the cosmetic."
+imageCaption: "Three mascaras, photographed in the morning light. The wand is the part of a mascara you actually use."
 categories: ["Makeup"]
 categorySlugs: ["makeup"]
-excerpt: "Three mascaras, three mascaras, one of which is, finally, the mascara we have been waiting for. Dispatches from the counter."
+excerpt: "Three mascaras, one of which is the mascara we have been waiting for. Dispatches from the counter."
 author: "Lacquered Editorial"
 kicker: "DISPATCH"
 dek: "Three mascaras, photographed and worn, in the autumn light. One is the mascara we have been waiting for."

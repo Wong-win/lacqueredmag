@@ -10,6 +10,7 @@
     "postbuild": "pagefind --site dist --output-subdir pagefind",
     "preview": "astro preview",
     "check": "astro check",
+    "lint:articles": "node scripts/lint-articles.mjs",
     "astro": "astro"
   },
   "dependencies": {

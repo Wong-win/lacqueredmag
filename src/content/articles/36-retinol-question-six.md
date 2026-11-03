@@ -4,7 +4,7 @@ date: 2026-10-18
 slug: "retinol-question-six"
 image: "https://images.unsplash.com/photo-1696025522422-aa9a74e4f3d5?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A small bottle of treatment oil photographed on a dark stone, the surface just catching the side light."
-imageCaption: "A retinol bottle, photographed in the late afternoon light. The bottle is, in our view, the bottle the modern consumer most often buys without asking the question the active deserves."
+imageCaption: "A retinol bottle, photographed in the late afternoon light."
 categories: ["Skin"]
 categorySlugs: ["skin"]
 excerpt: "Six practitioners — a dermatologist, a formulator, an esthetician, a magazine editor, a chemist, a brand founder — on retinol. The answers diverge."

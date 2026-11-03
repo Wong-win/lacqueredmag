@@ -4,13 +4,13 @@ date: 2026-10-17
 slug: "five-eye-makeup-looks"
 image: "https://images.unsplash.com/photo-1709477542149-f4e0e21d590b?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "An editorial eye makeup look photographed in three-quarter profile"
-imageCaption: "The eye in three-quarter profile. The makeup should, finally, support the architecture."
+imageCaption: "The eye in three-quarter profile. The makeup supports the architecture; it does not supply it."
 categories: ["Makeup"]
 categorySlugs: ["makeup"]
 excerpt: "Five eye makeup looks, drawn from the editorial archive. The eye is a frame; the makeup should support the architecture."
 author: "Lacquered Editorial"
 kicker: "GUIDE"
-dek: "Five eye looks, each one chosen for a particular kind of day. The eye, finally, is a frame."
+dek: "Five eye looks, each one chosen for a particular kind of day. The eye is a frame."
 ---
 
 The eye is, in our view, the most expressive feature of the face. The eye is also the feature that the makeup industry has, for the last fifteen years, been most aggressively trying to *re-shape*. The eye has been contoured, smoked, cut, foiled, lined, unlined, lined-only-at-the-outer-corner, glittered, and glazed, and, in some recent iterations, made to look as though it had no makeup on at all.

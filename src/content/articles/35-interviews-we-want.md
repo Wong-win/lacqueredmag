@@ -4,7 +4,7 @@ date: 2026-10-18
 slug: "interviews-we-want"
 image: "https://images.unsplash.com/photo-1778434505577-28b8e26384f2?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A delicate white peony resting in a crystal vase against a soft neutral background."
-imageCaption: "A peony in the studio of a perfumer we have long wanted to interview. The peony was, in our view, the perfumer's signature flower. The interview, eventually, was conducted."
+imageCaption: "A peony in the studio of a perfumer we have long wanted to interview."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
 excerpt: "Five people we want to interview this year — and the five hundred words we want to ask each of them. A dispatch from the editorial desk."

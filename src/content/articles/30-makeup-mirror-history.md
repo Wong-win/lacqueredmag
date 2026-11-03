@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "makeup-mirror-history"
 image: "https://images.unsplash.com/photo-1602164091410-255d1bf88959?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A vintage lit makeup mirror photographed on a draped surface in three-quarter view"
-imageCaption: "A 1950s Hollywood vanity mirror, photographed in the editorial light. The bulbs are, in our view, the most under-photographed part of the cosmetic."
+imageCaption: "A 1950s Hollywood vanity mirror, photographed in the editorial light."
 categories: ["Home & Decor"]
 categorySlugs: ["decor"]
 excerpt: "The lit makeup mirror is the only piece of beauty furniture that has gotten dramatically better in a hundred years. A short history."

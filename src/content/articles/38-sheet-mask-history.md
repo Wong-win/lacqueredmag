@@ -4,7 +4,7 @@ date: 2026-10-18
 slug: "sheet-mask-history"
 image: "https://images.unsplash.com/photo-1617778368431-f97343a411ac?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A skincare bottle and a sheet mask folded on a pale surface, photographed in flat daylight."
-imageCaption: "A sheet mask, photographed in flat daylight, on a pale surface. The mask is, in our view, the consumer's first introduction to the technology the K-beauty export most popularised."
+imageCaption: "A sheet mask, photographed in flat daylight, on a pale surface."
 categories: ["Skin"]
 categorySlugs: ["skin"]
 excerpt: "The sheet mask is a technology, not a category. A short cultural history from Shiseido 1973 to the modern pared-back mask."

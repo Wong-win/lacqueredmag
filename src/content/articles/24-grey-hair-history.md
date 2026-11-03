@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "grey-hair-history"
 image: "https://images.unsplash.com/photo-1495914510314-ba3164b1321f?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A portrait of a woman with natural grey hair, photographed in soft daylight"
-imageCaption: "A portrait of natural grey hair, photographed in daylight. The grey is, in our view, the colour the hair has decided to be."
+imageCaption: "A portrait of natural grey hair, photographed in daylight."
 categories: ["Hair"]
 categorySlugs: ["hair"]
 excerpt: "The grey hair is the most politicised hair colour in the Western tradition. A short cultural history, from henna to the 2020s return."

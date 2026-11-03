@@ -4,7 +4,7 @@ date: 2026-10-17
 slug: "apothecary-bottle-history"
 image: "https://images.unsplash.com/photo-1761482769317-97f8caf7e34c?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A row of small vintage apothecary bottles arranged on a wooden surface"
-imageCaption: "A row of late-nineteenth-century apothecary bottles, photographed in the editorial light. The amber glass was, in our view, the original cosmetic packaging."
+imageCaption: "A row of late-nineteenth-century apothecary bottles, photographed in the editorial light. The amber glass darkened the contents to keep the light out."
 categories: ["Home & Decor"]
 categorySlugs: ["decor"]
 excerpt: "The apothecary bottle is the ancestor of every beauty bottle on the modern shelf. A short visual history, from pharmacy to vanity."
