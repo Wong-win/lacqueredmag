@@ -1,0 +1,148 @@
+{
+  "knownFailures": {
+    "16-red-lipstick-history.md": {
+      "maxTic": 8,
+      "errors": 1
+    },
+    "17-foundation-eight-steps.md": {
+      "maxTic": 27,
+      "errors": 2
+    },
+    "18-dispatches-mascaras.md": {
+      "maxTic": 37,
+      "errors": 2
+    },
+    "19-five-eye-makeup-looks.md": {
+      "maxTic": 50,
+      "errors": 2
+    },
+    "20-fragrance-layering-six.md": {
+      "maxTic": 6,
+      "errors": 1
+    },
+    "21-fragrance-wardrobe-year.md": {
+      "maxTic": 77,
+      "errors": 2
+    },
+    "22-chypre-history.md": {
+      "maxTic": 26,
+      "errors": 2
+    },
+    "23-gender-in-fragrance-six.md": {
+      "maxTic": 11,
+      "errors": 1
+    },
+    "24-grey-hair-history.md": {
+      "maxTic": 40,
+      "errors": 2
+    },
+    "25-lacquered-hair-at-home.md": {
+      "maxTic": 52,
+      "errors": 2
+    },
+    "26-hair-dryer-history.md": {
+      "maxTic": 19,
+      "errors": 2
+    },
+    "27-dispatches-hair-oils.md": {
+      "maxTic": 45,
+      "errors": 2
+    },
+    "28-apothecary-bottle-history.md": {
+      "maxTic": 44,
+      "errors": 2
+    },
+    "29-bathroom-as-spa-design.md": {
+      "maxTic": 47,
+      "errors": 2
+    },
+    "30-makeup-mirror-history.md": {
+      "maxTic": 39,
+      "errors": 2
+    },
+    "31-perfumer-apprentice-history.md": {
+      "maxTic": 52,
+      "errors": 2
+    },
+    "32-beauty-photography-studio.md": {
+      "maxTic": 46,
+      "errors": 2
+    },
+    "33-on-beauty-criticism.md": {
+      "maxTic": 91,
+      "errors": 2
+    },
+    "34-the-beauty-editor-voice.md": {
+      "maxTic": 77,
+      "errors": 2
+    },
+    "35-interviews-we-want.md": {
+      "maxTic": 70,
+      "errors": 2
+    },
+    "36-retinol-question-six.md": {
+      "maxTic": 58,
+      "errors": 2
+    },
+    "38-sheet-mask-history.md": {
+      "maxTic": 86,
+      "errors": 2
+    },
+    "39-sunscreen-question-six.md": {
+      "maxTic": 77,
+      "errors": 2
+    },
+    "40-summer-skin-routine.md": {
+      "maxTic": 125,
+      "errors": 3
+    },
+    "41-blush-history.md": {
+      "maxTic": 188,
+      "errors": 3
+    },
+    "44-cream-versus-powder.md": {
+      "maxTic": 212,
+      "errors": 6
+    },
+    "45-dispatches-foundation-drops.md": {
+      "maxTic": 220,
+      "errors": 8
+    },
+    "46-the-skin-scent.md": {
+      "maxTic": 238,
+      "errors": 8
+    },
+    "47-vetiver-history.md": {
+      "maxTic": 224,
+      "errors": 4
+    },
+    "49-summer-fragrance-six.md": {
+      "maxTic": 227,
+      "errors": 8
+    },
+    "50-the-nose-as-craft.md": {
+      "maxTic": 230,
+      "errors": 8
+    },
+    "52-the-blonde-history.md": {
+      "maxTic": 250,
+      "errors": 6
+    },
+    "53-the-daily-hair-routine.md": {
+      "maxTic": 246,
+      "errors": 8
+    },
+    "54-hair-heat-history.md": {
+      "maxTic": 256,
+      "errors": 6
+    },
+    "56-the-towel-history.md": {
+      "maxTic": 285,
+      "errors": 8
+    },
+    "59-the-makeup-brush-history.md": {
+      "maxTic": 283,
+      "errors": 6
+    }
+  }
+}

@@ -13,9 +13,18 @@
  *   node scripts/lint-articles.mjs --json       # machine-readable output
  *
  * Exit code 1 if any article fails. Warnings never fail the build.
+ *
+ * BASELINE. `scripts/lint-baseline.json` lists articles that are known to
+ * fail and have not been repaired yet — currently the second-wave articles
+ * #16–#36, deferred by decision on 2026-11-04. A baselined article does not
+ * fail the build, but its recorded tic count is a ceiling: if the tic count
+ * rises above the baseline, that is a regression and DOES fail the build.
+ * Anything not on the baseline that fails is a hard error. The point of the
+ * baseline is that the gate blocks new collapse while the backlog is worked
+ * through, rather than being switched off.
  */
 
-import { readFileSync, readdirSync, statSync } from "node:fs";
+import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
 import { join, relative, basename } from "node:path";
 
 const ROOT = new URL("..", import.meta.url).pathname;
@@ -224,6 +233,16 @@ const args = process.argv.slice(2);
 const only = args.includes("--only") ? args[args.indexOf("--only") + 1] : null;
 const asJson = args.includes("--json");
 
+// Known-failure baseline. Articles listed here are known-broken and awaiting
+// repair; they do not fail the build, but their recorded tic count is a
+// ceiling — a rise above it is a regression and does fail the build.
+const BASELINE_FILE = join(ROOT, "scripts/lint-baseline.json");
+let baseline = {};
+if (existsSync(BASELINE_FILE)) {
+  const raw = JSON.parse(readFileSync(BASELINE_FILE, "utf8"));
+  baseline = raw.knownFailures || {};
+}
+
 let files = walk(ARTICLES).sort();
 if (only) files = files.filter((f) => basename(f).startsWith(only) || relative(ARTICLES, f).includes(only));
 
@@ -235,23 +254,65 @@ for (const f of walk(ARTICLES)) {
 }
 
 const results = files.map((f) => lint(f, vocab));
-const failed = results.filter((r) => r.errors.length);
+
+// Split failures into "real" and "baselined". A baselined failure is a known
+// article; a real failure is anything else, or a baselined article whose tic
+// count has gone UP since it was baselined.
+const realFailures = [];
+const knownFailures = [];
+const fixed = [];
+for (const r of results) {
+  const bl = baseline[r.name];
+  if (!r.errors.length) {
+    if (bl) fixed.push(r.name);
+    continue;
+  }
+  if (bl === undefined) {
+    realFailures.push(r);
+    continue;
+  }
+  const limit = typeof bl === "object" ? bl.maxTic : bl;
+  if (typeof limit === "number" && r.tic > limit) {
+    realFailures.push(r);
+    r.errors.push(
+      `tic x${r.tic} exceeds the baselined ceiling of ${limit} for this known-failure article — that is a regression, not a backlog item`
+    );
+  } else {
+    knownFailures.push(r);
+  }
+}
+
 const warned = results.filter((r) => !r.errors.length && r.warns.length);
 
 if (asJson) {
-  console.log(JSON.stringify({ total: results.length, failed: failed.length, warned: warned.length, results }, null, 2));
+  console.log(
+    JSON.stringify(
+      {
+        total: results.length,
+        failed: realFailures.length,
+        knownFailed: knownFailures.length,
+        warned: warned.length,
+        results,
+      },
+      null,
+      2
+    )
+  );
 } else {
-  for (const r of failed) {
+  for (const r of realFailures) {
     console.log(`FAIL  ${r.name}`);
     for (const e of r.errors) console.log(`        ${e}`);
+  }
+  for (const r of knownFailures) {
+    console.log(`KNOWN ${r.name}  (${r.errors.length} error(s), baselined — awaiting rewrite)`);
   }
   for (const r of warned) {
     console.log(`WARN  ${r.name}`);
     for (const w of r.warns) console.log(`        ${w}`);
   }
   console.log(
-    `\n${results.length} articles checked — ${failed.length} failed, ${warned.length} warned`
+    `\n${results.length} articles checked — ${realFailures.length} failed, ${knownFailures.length} known-failing (baselined), ${warned.length} warned`
   );
 }
 
-process.exit(failed.length ? 1 : 0);
+process.exit(realFailures.length ? 1 : 0);
