@@ -10,7 +10,7 @@ categorySlugs: ["makeup"]
 excerpt: "Five steps, one camera, nine hours: a working-day review of the face that survives contact with real light."
 author: "Lacquered Editorial"
 kicker: "REVIEW"
-dek: "Five steps, one camera, nine hours: a working-day review of the face that survives contact with real light."
+dek: "Five steps and one camera, filmed across a full working day. The question is not whether the makeup looks good in a photograph, but whether it survives nine hours of real light."
 ---
 
 The verdict, stated early, because a review that withholds its conclusion is an advertisement. Four of the five steps of this face survived a full working day; the fifth, the lip, did not. That is not a verdict on the products but on a category, and the category is the lipstick — the only one of the five steps engineered to be noticed, and therefore the only one engineered to fail in public. We spent a Tuesday with a $46 tinted moisturizer, a $38 cream bronzer, a $24 blush, a $19.50 brow pencil and a $42 lipstick, and photographed the result at the first hour, the fifth and the ninth: office light, a commute, a lunch, and finally a video call with the camera on. A face that survives a bathroom mirror and a selfie has not survived a working day.
