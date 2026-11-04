@@ -37,6 +37,7 @@ const T = {
   maxAdjacentDupRatio: 0.4, // share of adjacent sentence pairs sharing a shape
   minFacts: 3, // concrete checkable details (price/year/brand/measure)
   minFactsForRewrite: 3,
+  maxItalicsPerSentence: 0.45, // the collapse italicises a word in nearly every sentence
 };
 
 // ------------------------------------------------------------------ patterns
@@ -212,6 +213,26 @@ function lint(file, vocab) {
     const m = fm.match(new RegExp(`^${fd}:\\s*"(.*)"\\s*$`, "m"));
     if (m && /\bin our view\b/i.test(m[1])) errors.push(`${fd} contains the tic`);
     if (m && /\bfinally\b(?=[^.]*[,;])/i.test(m[1])) errors.push(`${fd} uses filler "finally"`);
+  }
+
+  // 7 — the collapsed writer's other tics. Italic density is the sharpest
+  // separator: the healthy corpus runs 0.00–0.40 italicised terms per
+  // sentence, the collapsed articles run 0.46–3.57.
+  const italics = (body.match(/(?<!\*)\*([^*\n]+)\*(?!\*)/g) || []).length;
+  const perSentence = sents.length ? italics / sents.length : 0;
+  if (perSentence > T.maxItalicsPerSentence) {
+    errors.push(
+      `${italics} italicised terms in ${sents.length} sentences (${perSentence.toFixed(2)} per sentence, limit ${T.maxItalicsPerSentence}) — the collapse italicises a word in nearly every sentence`
+    );
+  }
+  // The stock pair only counts as the tic when both halves sit in the same
+  // sentence — "the most over-engineered product category" on its own is
+  // ordinary English.
+  const stockPair = body.match(
+    /most\s+over-[^.]*?most\s+under-|most\s+under-[^.]*?most\s+over-/gi
+  );
+  if (stockPair) {
+    errors.push('uses the stock pair "most over-X and most under-Y"');
   }
 
   return {
