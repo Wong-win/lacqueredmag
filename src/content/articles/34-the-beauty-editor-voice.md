@@ -4,75 +4,85 @@ date: 2026-10-18
 slug: "the-beauty-editor-voice"
 image: "https://images.unsplash.com/photo-1524862655266-89c67a10c4b3?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A clear glass perfume bottle photographed on a pale surface, the light catching the etched lettering."
-imageCaption: "A 1960s perfume bottle, photographed in the side light of an autumn afternoon."
+imageCaption: "A clear glass perfume bottle on a pale surface, photographed close in afternoon window light, the etched lettering catching a thin line of sun along its edge."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
-excerpt: "What does a beauty editor actually do? A short job description, written by one, in the hope of clarifying what the consumer is paying for."
+excerpt: "What a beauty editor actually does, hour by hour: the meetings, the sample cupboard, the copy desk, and the small fraction that looks like the job."
 author: "Lacquered Editorial"
 kicker: "ESSAY"
-dek: "What does a beauty editor actually do? A short job description, written by one, in the hope of clarifying what the consumer is paying for."
+dek: "The launches are the visible part. The work is the calendar, the cupboard and the line edits, and the arguments that keep a page from becoming an advert."
 ---
 
-The beauty editor is, in our view, the most under-described job in the modern media. The job is, in our view, also the most over-romanticised. The romance is, in our view, mostly a matter of the *event* — the launch, the photo shoot, the trip to Grasse, the dinner with the perfumer. The romance is, in our view, also the thing the consumer most often sees, and the thing the consumer most often mistakes for the work.
+At 9.30 on a Tuesday, Pauline Hui joins a three-person team catch-up on new projects and approaching deadlines. By three in the afternoon she is tasting fifteen lasagnes with the food team. At 5.30 she leaves for a gym class.
 
-The work is, in our view, mostly the 80% that the romance hides. The 80% is, in our view, the meetings, the sample management, the copy editing, the photographer booking, the brand liaison, the press release triage, the deadline management, the editor's meetings, the calendar management, the invoice chasing, and the constant, low-grade anxiety that the next launch will be the launch the publication misses. The romance is, in our view, the 20%. The work is, in our view, finally, the job.
+Hui manages beauty testing at the Good Housekeeping Institute, which has run for 95 years and puts about 1,200 products a year through trials. Her published day contains one item resembling choosing a product: an hour at one o'clock editing products for features.
 
-The job has, in our view, not changed much since Helen Gurley Brown, in the 1960s, made it a magazine fixture. The medium has changed — the print magazine has, in our view, mostly given way to the website, the website has given way to the newsletter, the newsletter has given way to the Instagram grid, the Instagram grid has given way to the TikTok — but the work, in our view, has not. The work is, in our view, still the work of looking, smelling, testing, writing, editing, and pushing back on the brand. The medium is, in our view, finally, the surface. The work is, in our view, finally, the substance.
+The reader pictures a woman in a room of bottles, deciding. The record shows a woman in a room of meetings, deciding what to answer and what to decline. The 80/20 split here is an accounting, not a measurement — no survey, time diary or trade benchmark divides a beauty editor's week. Read the percentages as a description of where the hours go.
 
 ## The 80% — meetings
 
-The meetings are, in our view, the largest single category of the work. The meetings are, in most cases, with the brands. The brand meeting is, in most cases, a one-hour presentation, in which the brand pitches its next launch to the editor, in the hope that the editor will, in her next issue, write about the launch.
+Hallie Gould, editor in chief of Byrdie, receives about 100 products a month and keeps 20ish on her desk at any given time. Editors in a Coveteur panel put their intake at 30 lipsticks or face creams a week. One PR agency estimates two hundred similar emails a week.
 
-The brand meeting is, in our view, mostly a *performance*. The performance is, in most cases, the performance of *excitement* — the brand wants the editor to be excited, the editor wants the brand to be excited, and the meeting is, in our view, mostly the moment at which the two performances are, in some sense, agreed upon. The agreement is, in our view, the contract that governs the rest of the work.
+Most of that mail is deleted, and the reason is structural rather than rude. An introduction — "I'd love to introduce our brand" — is about the sender, not about anything a reader could be given. A question about changing dermatologist recommendations is a commission waiting to happen.
 
-The meetings are, in our view, also with the *photographers*. The photographer meeting is, in most cases, a much shorter meeting — fifteen minutes, half an hour — in which the photographer and the editor agree on the concept, the subject, the light, the prop list, and the deadline for the shoot. The photographer meeting is, in our view, mostly a meeting about *execution* — the meeting is, in most cases, the moment at which the photograph, in the editor's mind, becomes *real*.
+What survives is judged on assets as heavily as on the idea. The trade's media kit asks for the product on white for cutouts, styled lifestyle imagery and a texture frame, high resolution and assembled before the pitch. A product announcement is a SKU with a photograph attached.
 
-The meetings are, in our view, finally, with the *publication*. The publication meeting is, in most cases, the weekly editorial meeting — an hour in which the editor reports to her editor-in-chief on the state of the section, on the launches that are coming, on the shoots that are planned, on the writers who are pitching. The publication meeting is, in our view, mostly the meeting in which the editor's work becomes, in some sense, *visible*.
+None of this appears in the diaries. No editor on record gives a day that combines a morning press meeting, sample testing and a hard deadline. The closest is Hui's, and at least 75% of her institute's consumer trials are lab-based — a lab schedule, not a magazine desk's.
 
 ## The 80% — sample management
 
-The sample management is, in our view, the second largest category of the work. The samples arrive, in most cases, in the mail. The samples are, in most cases, in boxes. The boxes are, in most cases, on the editor's desk, in the editor's office, in some cases overflowing into the corridor.
+The physical problem is storage. Gould's apartment holds roughly 50 products, about 25 of which she uses regularly; the rest live under the bed and in the closet. She runs a one-in-one-out rule and purges every three months, and tests a product at her desk for days before taking it home.
 
-The samples are, in our view, mostly *unrequested* and mostly *unreturnable*. The brand, in most cases, does not want the samples back. The samples are, in our view, finally, mostly the editor's to keep, or to give away, or to throw away.
+Organisation is by frequency rather than price. Hair and skincare sit in the medicine cabinet, makeup in the drawer beneath it, daily makeup in a large case, body products with the blow-dryer in a junk drawer. Margaux Anbouba keeps one shelf for "things I need to try for work"; Kayla Greaves keeps one of each type in her vanity, the surplus stacked in drawers.
 
-The sample management is, in our view, the discipline of *keeping*. The editor needs to know, at any moment, what she has on her desk, what she has tested, what she has written about, what she has not, and what she has decided to write about next month.
+Others give up the space. Christina Grasso devotes "nearly an entire closet" to products in New York, where she calls the closets tiny; Amber Kallor has a whole closet for the same purpose. Domino's list for Gould's cabinet includes SkinCeuticals C E Ferulic at $185 and Dr. Barbara Sturm Face Cream Rich at $240.
+
+Surplus leaves by donation: Greaves ships boxes to loved ones, Grasso gives to charities, Kallor decides what to keep or sell for charity. No source says what any of it is worth. The FTC's Endorsement Guides, revised in 2023, require disclosure of material connections, and a sample can be one.
 
 ## The 80% — copy editing
 
-The copy editing is, in our view, the third largest category. The copy editing is, in most cases, the work of *correcting*. The correcting is, in our view, mostly a matter of *fact*. The editor needs to know that the brand has, in some sense, told the truth. The editor needs to know that the chemist has not overstated the science. The editor needs to know, finally, that the consumer will not be misled.
+Copy editing is the least photographed part of the job and the one with the cleanest definition: revising written material for readability, removing grammar and style errors, improving accuracy, at three intensities — light, medium and heavy. In print it happens twice, before typesetting and again before proofreading.
 
-The copy editing is, in our view, also the work of *styling*. The styling is, in our view, mostly the work of *matching the voice of the publication*. The voice is, in our view, a thing the editor develops over years. The voice is, in our view, also a thing the consumer, in the end, pays for.
+The trade separates it from substantive editing, where sections get reordered and cuts recommended. A copy editor corrects mechanics while preserving the author's main message; on a beauty desk one person does both in an afternoon. The checklist is house style — spelling, hyphenation, numbers, captions, permissions flags. Chicago is in its 18th edition, text copyrighted 2024, with more than 1.75 million copies sold.
 
-The copy editing is, in our view, finally, the work of *cutting*. The cutting is, in most cases, the hardest part. The editor needs to cut her own work, her writers' work, and the brand's promised copy, in order to make the publication fit the page. The cut is, in our view, also the part of the job that most distinguishes the editor from the writer.
+Facts sit oddly in that hierarchy. Copy editors do not bear final responsibility for accuracy, but may flag apparent falsehoods, conflicting dates or misleading claims when they know the subject. The mechanism is the query, in the margin or as an on-screen comment, and its frequency and tone affect the working relationship. No house style guide turned up from any beauty title, and no beauty-specific corrections policy.
 
 ## The 20% — the science
 
-The 20% is, in our view, the part of the job the consumer most identifies as the *beauty editor* — the part the consumer is, in the end, paying for. The 20% is, in our view, mostly a matter of *reading*. The science is, in our view, mostly a matter of the *active ingredients* — the retinoids, the peptides, the acids, the antioxidants, the SPF — that the modern cosmetic counter is mostly selling.
+American law sorts cosmetics from drugs by intended use, not by ingredient. A cosmetic is applied for cleansing, beautifying, promoting attractiveness or altering the appearance. A drug is intended for diagnosis, cure, mitigation, treatment or prevention of disease. Some products meet both definitions. The FDA is blunt about the middle ground: "The FD&C Act does not recognize any such category as 'cosmeceuticals.'"
 
-The reading is, in our view, the discipline of *keeping up*. The keeping up is, in most cases, a matter of *reading the journals* — the dermatology journals, the formulation journals, the journals the consumer has never heard of. The reading is, in our view, also the discipline of *asking the chemist* — the chemist who is not paid by the brand, who is, in most cases, an academic or a retired formulator.
+The claims that move a product across the line are specific. A cream promising to regenerate cells has crossed into drug territory, as has an aromatherapy fragrance claimed to help you sleep. So has a fluoride toothpaste, on the strength of a well-known therapeutic use.
 
-The science is, in our view, finally, the part of the job the modern consumer most benefits from. The consumer is, in our view, paying for the editor's *literacy* — the literacy that allows the editor to tell the consumer whether the active has, in any meaningful sense, been *proven* to do what the brand says.
+Then comes the part readers are rarely told. Ingredients are listed in descending order of predominance, except that anything at 1% or less may appear in any order, provided it follows everything above 1%. "Fragrance" may be declared as a single word rather than component by component. A formula can be legally opaque at both ends, and the declaration still has to be prominent — at least 1/16 inch high.
+
+The names are a convention too. INCI was established in 1973 and is maintained by the Personal Care Products Council; the EU mandates it under Article 19 of Regulation (EC) No 1223/2009. What an editor is trusted to interpret is often a labelling system rather than a measurement of the bottle.
+
+Where claims are concerned the standard is higher and vaguer. The FTC asks for competent and reliable scientific evidence, sufficient in quality and quantity across the whole body of evidence, and for health benefits it generally expects randomised, controlled human trials. How much science this demands of the editor is unrecorded — no curriculum or trade certification turned up.
 
 ## The 20% — the perfumer
 
-The perfumer is, in our view, the second 20% category. The perfumer is, in our view, mostly a *person* — the person the editor knows by name, the person the editor has, in most cases, visited at the house, the person the editor trusts to tell her whether the new launch is, in any meaningful sense, *new*. The perfumer is, in our view, also a *gatekeeper*. The gatekeeping is, in most cases, the work of *telling the editor the truth*.
+The perfume desk is where the job still cannot be hurried. A blotter strip is called a *mouillette*, generally 8 to 12 cm long, and the principle is that blotters triage while skin evaluates. Ten or fifteen candidates go on paper, one spray each, every strip labelled; you fan them, smell at arm's length, and judge the opening over five minutes.
 
-The perfumer relationship is, in our view, the longest relationship the editor has. The relationship is, in our view, also the relationship the consumer most benefits from — the consumer is, in our view, paying for the editor's *trust*. The trust is, in our view, finally, the thing the consumer most often mistakes for *friendship*.
+Three survive to skin, each on a separate clean zone — the inner wrists and the inside of one elbow. The alcohol evaporates without rubbing, at least 15 minutes pass between applications, and evaluation runs 15 to 30 minutes. Skin sits at 32 to 34 °C and carries pH, sebum and a microbiome paper lacks, so tops read sharper on the strip while bases turn muddy on the body.
+
+The clock is fixed and long. Opening takes 15 to 30 minutes, the heart 20 minutes to an hour, the drydown from 90 minutes onward, and a full arc three to five hours on an Eau de Parfum. An untrained nose holds about three fragrances before adaptation blurs the differences. The last pass is domestic — strips re-smelled next morning, the sample worn all day. A launch can be summarised in thirty seconds; a wear cannot.
 
 ## The 20% — pushing back on the PR
 
-The pushing back is, in our view, the third 20% category. The pushing back is, in our view, mostly the work of *saying no*. The saying no is, in most cases, a matter of the *launch* the brand wants the editor to write about, but the editor does not, in good conscience, want to write about. The pushing back is, in most cases, invisible — the work the editor does *for the consumer*, the willingness to say no to the brand.
+The clearest account of pressure on a beauty desk is a J-Source excerpt of 9 May 2012, from Stephanie Fereiro's Ryerson Review of Journalism feature "Beauty and the (editorial/advertising) brawl." An exclusive, it explains, is a launch where one magazine gets priority access and can cover it before its competitors.
+
+At Fashion, beauty director Laura Fraioli-Keogh ran one and named other products the makeup artist had used on the same page. The publicist for a luxury beauty advertiser objected: "How dare you put someone else's product on my page!" Fraioli-Keogh's reply has survived fourteen years. "It's not anyone's page but mine," she said. "Last time I checked, my card said I was beauty director."
+
+Advertisers once showed Fraioli-Keogh pie charts assessing coverage against competitors'. L'Oréal Group, Estée Lauder and Procter & Gamble owned many brands on the page. Ceri Marsh, formerly editor in chief of Fashion, said nobody threatened to pull ads, only that "people definitely let you know if they're happy or not happy with the coverage they're receiving." Her economic point: "There would be no fashion magazine publishing in Canada without beauty advertisers." Rita Silvan of Elle Canada: "The reader had better be your primary client."
+
+The quieter machinery is the embargo: a source's request that information not be published before a date or conditions are met. It rests on a gentlemen's agreement, has no standard duration, and breaking one costs future access. The FTC's native-advertising guidance draws another line: implying paid content is independent is deceptive, and "Promoted" is at best ambiguous. Independence, in the end, is not declared in a masthead; it is renegotiated page by page.
 
 ## The job, in 2026
 
-The job, in 2026, is, in our view, harder than it has ever been. The supply of launches has, in the last twenty years, increased by an order of magnitude. The demand for the editor's voice has, in the same period, increased by an order of magnitude as well. The medium is changing faster than the work — the medium changes every season, the work does not change at all.
+CEW published its interview with Lisa Marie Ringus on 27 April 2026. Ringus is EVP of global client strategy and growth at 24 Seven. She describes companies expanding, cutting and "rightsizing" at once, and worries about highly tenured women who suddenly find themselves out of work. The piece offers no layoff counts.
 
-The job is, in our view, also more important than it has ever been. The consumer, in 2026, is overwhelmed by the supply. The consumer, in 2026, is exhausted by the marketing. The consumer is dependent, in a way she has never been before, on the editor to do the 80% so that she does not have to.
+Hiring is intense because brands believe they have one shot. Creative candidates are now expected to show AI integration, video and fast-moving storytelling — static work is no longer sufficient — alongside performance marketing. 24 Seven has bought three agencies, Futureman, SketchDeck and Markacy, and its 2026 Salary Guide cites lower pay satisfaction as a retention risk.
 
-The work is, in our view, finally, the work the beauty editor is for. The work is, in our view, mostly the 80%. The work is, in our view, also, in 2026, mostly *unpaid* — the modern market has been most willing to pay for the 20% (the launch, the trip, the photograph) and most unwilling to pay for the 80% (the meetings, the samples, the copy editing). The unwillingness is, in our view, also the loss.
+The title is dissolving faster than the work. The Makeup Insider episode of 4 May 2026 is built around the claim that the traditional beauty editor role no longer exists; its guest, Sadaf Razi, describes editors working across "websites, video, social and podcasts", interviewing dermatologists on TikTok as the new normal. The Bureau of Labor Statistics has no headcount series for beauty editor.
 
----
-
-The beauty editor, in sum, is the person whose job is to look at the cosmetic counter on the consumer's behalf. The looking is, in our view, mostly the 80% — the meetings, the samples, the copy editing. The 20% is, in our view, the part the consumer most sees. The work is, in our view, finally, the 80%. The work is, in our view, finally, the job.
-
-The job has, in our view, not changed since the 1960s. The medium has changed. The work has not. The consumer has changed. The work has not. The brand has changed. The work has not. The work is, in our view, finally, the work. The work is, in our view, finally, what the beauty editor is for.
+Which leaves the skill no tool performs. A filter can sort two hundred emails; a model can draft the caption and cut the video. Neither can decide that a launch is not a story, that a claim has no study behind it, or that a page owed to an advertiser would be better left empty. Refusal is the part of the job never photographed and never automated, and the part the reader is paying for.
