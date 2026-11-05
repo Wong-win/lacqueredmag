@@ -1,74 +1,82 @@
 ---
-title: "Dispatches from the Counter: Three New Mascaras Worth a Second Look"
+title: "Dispatches from the Counter: Three Mascaras Worth a Second Look"
 date: 2026-10-17
 slug: "dispatches-mascaras"
 image: "https://images.unsplash.com/photo-1631214540553-ff044a3ff1d4?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A mascara wand photographed close-up, with a soft focus background"
-imageCaption: "Three mascaras, photographed in the morning light. The wand is the part of a mascara you actually use."
+imageCaption: "A mascara wand held close to the lens, its bristles lit from the left against a blurred pale background."
 categories: ["Makeup"]
 categorySlugs: ["makeup"]
-excerpt: "Three mascaras, one of which is the mascara we have been waiting for. Dispatches from the counter."
+excerpt: "Three mascaras at $34, $14.99 and $12.99, read through their ingredient lists — and why the wand is the least interesting part of the tube."
 author: "Lacquered Editorial"
 kicker: "DISPATCH"
-dek: "Three mascaras, photographed and worn, in the autumn light. One is the mascara we have been waiting for."
+dek: "Définicils, Dailism and Sky High are none of them new. What separates them is how much water each carries, and how fast it leaves."
 ---
 
-The mascara is the hardest cosmetic in the modern bag to write about. The mascara is, in many ways, the hardest cosmetic in the modern bag to *judge*. The mascara is the product whose effect you can only see, in the end, on the eye, in motion, in light. The mascara is the product whose effect the photograph, by definition, does not capture.
+Three tubes sit on the counter: a black one from Lancôme, a white one from Heimish, a silver-capped cylinder from Maybelline. Between them they cover the three architectures a mascara can have — a soap-stabilised wax cream, an acrylate sleeve, a solvent-flashed volumiser — and in November 2026 they are listed at $34.00, $14.99 and $12.99.
 
-We have, over the last three months, tried three new mascaras. We are writing them up because each of them, in a different way, does a thing that the other mascaras on the market do not do. The three mascaras are, on the whole, doing different work. The work, in each case, is the work of *making the lash do something it was not, on its own, doing*.
+None of the three is new this year. Définicils dates to the early 1990s; 1991 is the year most often attached to it, though Lancôme publishes none. Heimish's Curling formula first appears in retailer metadata in February 2018 and Volume in March 2023, with no brand date for either. Sky High launched on 18 November 2020, with US mass retail from January 2021.
 
-The mascara, in 2026, is the cosmetic that the wearer applies most often. The mascara is also the cosmetic that the wearer is, on average, the most loyal to. The loyalty is, in our view, both earned and unearned — earned because the mascara is the cosmetic where the difference between the right product and the wrong product is the largest, and unearned because the wearer has, in most cases, only tried one or two mascaras, ever, and has no way of knowing what the others do.
+The wand is what the counter invites you to judge — length, spacing, the small theatre of the bend. The record is less glamorous. A kilogram of DuPont nylon 612 fibre yields roughly 10,000 brushes; as of 2013 the brush market split about 60/40 between fibre and injected moulded; the standard Tynex 0900 grade dates to the 1960s, its filaments running 0.051 to 0.127 mm.
 
-Three mascaras, in the autumn of 2026, are worth a second look.
+Nobody publishes what a wand costs against what a formula costs, and this piece will not invent the number. The differentiating work in these three tubes sits in the polymer, the wax and the water, and in the drying clock that follows from them.
 
 ## One — a lengthening mascara from a French house
 
-The first mascara is a lengthening mascara from a French house. The mascara is, in formulation terms, a fairly conventional wax-based formula — beeswax, carnauba wax, a small amount of a film-forming polymer — but the *wand* is the innovation. The wand is, in this mascara, a *plastic spiral* with very short, very densely packed bristles. The bristles are, in cross-section, almost rectangular. The shape of the bristles is doing the work.
+Lancôme was founded in 1935 as a fragrance house by Armand Petitjean, a former collaborator of François Coty; its five debut scents — Tropiques, Conquête, Kypre, Tendres Nuits, Bocages — were shown at the Brussels Universal Exposition that year, and the house joined L'Oréal in 1964. Définicils came much later, in the early 1990s.
 
-The mascara, applied with the spiral wand, does what the wand suggests it will do. The mascara lengthens. The mascara does not, in any meaningful sense, *thicken*. The mascara is, on the lash, almost invisible. The mascara is, on the eye, almost invisible. The mascara is, in the photograph, almost invisible. The mascara is, in the mirror, almost invisible.
+The full size is 6.5 ml, listed at $34.00 in US retail in November 2026; Ulta sells a 0.13 oz tube at $16.00. The brush is dense bristle, not moulded elastomer: Lancôme specifies specially grooved bristles that hold a metered amount of product, in what retail copy calls a comb-like hedgehog pattern.
 
-The mascara is, in our view, doing one thing well. The mascara is, in our view, the mascara to wear on the days when the eye is meant to *not* be the focal point of the face. The mascara is the mascara to wear with a strong lip. The mascara is the mascara to wear with a strong cheek. The mascara is the mascara to wear when the eye, finally, is supporting the rest of the face rather than competing with it.
+Read the US ingredient list in order and the architecture appears at once. Water, paraffin, stearic acid, triethanolamine. Stearic acid and triethanolamine in positions three and four form triethanolamine stearate *in situ* — a soap emulsifier — so the product is a water-and-wax emulsion stabilised by soap, the oldest mascara design still on a counter.
 
-The mascara is, in formulation terms, a fairly easy mascara to remove. The mascara is, in our view, also a fairly easy mascara to *re-apply*. The mascara does not, in our view, build up to a *too-much* point. The mascara can be applied three or four times in a row without looking heavy. The mascara is, in our view, the mascara of the long day.
+Paraffin sits second and there is no volatile at all: no isododecane, no alcohol denat. This is a heavy oil-phase cream rather than a quick-flash emulsion, which is why it reads as wet on the wand and stays workable there. It dries by water loss, slowly, on a different clock from the other two.
 
-The mascara is, at $36, fairly expensive for a mascara. The mascara is, in our view, worth the price.
+The film-formers are Acacia Senegal gum and sodium polymethacrylate — no acrylate copolymer, no polyurethane. The second is what Lancôme's bio-selective polymers language refers to. The preservative system is the tell of era and market: the US list carries imidazolidinyl urea with methylparaben and propylparaben, while one EU version, F.I.L. B272407/1, uses phenoxyethanol instead.
+
+Lancôme's numbers are consumer perception, not measurement: 73% saw visible lengthening and 91% said it felt lightweight, in 100 women over one week, with no instrument and no control stated. No page claims hours. Reviews praise separation and definition, and name the failure the architecture predicts — it will not build volume, and it has a reputation for arriving dried out.
 
 ## Two — a tubing mascara from a Korean brand
 
-The second mascara is a tubing mascara from a Korean brand. The tubing mascara is, in formulation terms, a *polymer emulsion* — a water-based preparation that, when it dries, forms tiny tubes around each individual lash. The tubes are not, in any meaningful sense, *mascara* in the traditional sense. The tubes are, in fact, *sleeves*.
+Heimish launched in Seoul in March 2016 — announced on 24 February, listed at the Hyundai Department Store in Pangyo on the 26th — and Dailism was the debut line. Dailism Smudge Stop comes in 9 g at $14.99 list and $12.74 on sale in November 2026, about $1.67 a gram, in Curling and Volume.
 
-The tubing mascara is, in the eye, doing a very different work than the conventional mascara. The conventional mascara *paints* the lash — the pigment, in a conventional mascara, is laid on the surface of the lash, where it stays until it is removed. The tubing mascara *encloses* the lash — the polymer, in a tubing mascara, forms a sleeve around the lash, which stays in place until it is removed by being *slid off*.
+Curling is the older formula: retailer metadata has it first available in February 2018, Volume in March 2023, and Heimish publishes no launch date for either. They are not the same liquid in different tubes. Curling leads with acrylates/ethylhexyl acrylate copolymer, glyceryl stearate SE, glycerin and alcohol denat.; Volume swaps in plain acrylates copolymer, drops the stearic-palmitic pair, and adds argan and castor oils.
 
-The tubing mascara is, in our view, the mascara of the smudge-proof lash. The tubing mascara is the mascara of the long flight. The tubing mascara is the mascara of the wedding. The tubing mascara is, in short, the mascara for the day when the mascara must, no matter what, stay in place.
+Tubing is a polymer film, not a wax. The acrylate coalesces into a continuous sleeve around each lash, which is why it survives tears and rubbing and slides off whole under warm water and pressure. Blinc developed the process from the mid-1990s; its own history dates tubing to 1999 and Kiss Me Mascara, other sources to 1995.
 
-The tubing mascara is also, in our view, doing one thing that no conventional mascara does. The tubing mascara is, in fact, *easy to remove*. The tubing mascara comes off, in the evening, with warm water and a gentle pull. The conventional mascara comes off, in the evening, with an oil-based cleanser and a cotton pad and several minutes of work. The difference is, in our view, larger than the mascara market currently acknowledges.
+The wands differ too — a micro and curvy wand for Curling, a Double-Cutting Volume Brush for Volume — a rare case of a brand changing the brush to match the polymer load rather than the campaign. The wear claim is all day and AM to PM, with resistance to smudging, clumping, flaking, tears and rubbing, and no number of hours anywhere.
 
-The tubing mascara is, at $22, fairly inexpensive for a mascara. The tubing mascara is, in our view, the mascara of the most-underpriced category in the modern cosmetic market.
+The strongest evidence for the water-load thesis here comes from users, not a laboratory. They report that the mascara is too wet when new, that it prints onto the lid, and that it needs one to two weeks — some say months — to thicken into its best consistency as water leaves the tube. No brand would print that.
+
+What dismantles the tubes is immersion: swimming, heavy crying. Tears and humidity do not. The other failure is over-delivery from a large wand and a wet bulk — clumping, spidery lashes — the same problem the Maybelline has, from the opposite cause.
 
 ## Three — a volumizing mascara from a heritage American house
 
-The third mascara is a volumizing mascara from a heritage American house. The mascara is, in formulation terms, a fairly heavy wax-based formula — a high wax load, a high pigment load, and a wand that is, in cross-section, almost spherical. The wand is doing the work of *pushing* the lashes together, in the way that a comb pushes hair together, in a way that makes the lashes look, in the eye, thicker.
+Maybelline's heritage is in the trade press, not the advertising: the first filaments twisted brush, the spiral, in 1959, and Ultra Lash, the first mass-market tubed mascara, in 1964. Sky High launched on 18 November 2020 at $11.49, with mass retail from January 2021; it is now about $12.99 for 7.1 ml, $11.59 at Target in Cosmic Black, $10.82 at Walmart.
 
-The mascara, applied with the spherical wand, does what the wand suggests. The mascara thickens. The mascara does not, in any meaningful sense, *lengthen*. The mascara is, on the lash, very visible. The mascara is, on the eye, very visible. The mascara is, in the photograph, very visible.
+That is roughly $1.83 a millilitre, about a third of the Définicils figure. The brush is the Flex Tower: a flexible, conical, spiral-wound bristle brush that bends along its axis so the tip reaches the inner and outer corners. Maybelline's instruction is to wiggle side to side from root to tip.
 
-The mascara is, in our view, doing one thing well. The mascara is, in our view, the mascara to wear on the days when the eye is meant to *be* the focal point of the face. The mascara is the mascara to wear with a bare lip. The mascara is the mascara to wear with a bare cheek. The mascara is the mascara to wear when the eye is, finally, the only thing in the frame that is meant to be looked at.
+The washable formula carries two film-formers — a styrene/acrylates/ammonium methacrylate copolymer and polyurethane-35 — with beeswax, carnauba, stearic and palmitic acids, alcohol denat., paraffin, rayon, silica, soluble collagen and Bambusa Vulgaris extract (F.I.L. D268569/1). Two film-formers plus a volatile is the signature of a fast-drying volumiser: the alcohol flashes off, the polymer solids lock the wax column, the rayon adds bulk.
 
-The mascara is, in our view, also doing one thing badly. The mascara is, in our view, the mascara that is most likely to *clump*. The mascara is, in our view, the mascara that is most likely to *flake* by the end of the day. The mascara is, in our view, the mascara that requires the most skill to apply well — the mascara that punishes a heavy hand, and rewards the patient, comb-through application that the heritage American houses have, for forty years, been trying to sell to a market that, mostly, did not want to listen.
+Définicils has neither volatile nor acrylate. The same lengthening job is being done on two different drying clocks, and the wand does not decide which. Bamboo extract and fibres resolves on the label to Bambusa Vulgaris Extract plus Rayon — the fibres are regenerated cellulose, the same class of fibre the category has used for decades, not a bamboo-derived material.
 
-The mascara is, at $30, fairly mid-priced for a mascara. The mascara is, in our view, the mascara for the wearer who is willing to put in the work.
+Volume here is not a separate technology. It is solids loading — waxes, silica, rayon and pigment at high percentage — deposited by a brush whose spacing controls coat mass, and the same architecture produces the lengthening claim in the same tube. The wear claim is up to 12 hours; the waterproof variant is the one most often reported to smudge.
 
----
+Review volume is the largest in the category: 4.3 from 34,000 to 36,000 ratings on Amazon NL, 4.5 from about 104,000 on Google Shopping. The consistent criticism is clumping on the second coat and, for the waterproof, removal difficulty. It went viral on TikTok in early 2021 and sold out at Ulta four times.
 
 ## A note on mascara
 
-The mascara is, in our view, the hardest cosmetic in the modern bag to write about. The mascara is, in our view, the cosmetic where the difference between *good* and *bad* is the largest. The mascara is, in our view, also the cosmetic where the difference between *one good* and *another good* is the smallest.
+In Europe, mascara is governed by Regulation (EC) No 1223/2009, applied in full since 11 July 2013, a regime of positive lists: colourants in Annex IV, preservatives in Annex V, UV filters in Annex VI. The duties fall on the brand — a Responsible Person in the EU, a Product Information File kept ten years, notification on CPNP before sale.
 
-The mascara is, in our view, the cosmetic that the wearer should be most loyal to. The wearer who has found the mascara that, for her, lengthens correctly, thickens correctly, holds correctly, and removes correctly — that wearer has, in our view, no reason to switch. The market is, in our view, doing a disservice to the wearer by introducing, every season, twenty new mascaras. The twenty new mascaras are, in most cases, doing, in slightly different combinations, what the existing mascaras are already doing.
+Claims sit under a separate instrument, Commission Regulation (EU) No 655/2013, whose six common criteria include evidential support: adequate and verifiable evidence from well-designed, well-conducted, valid, reliable and reproducible methods. Hyperbole is exempt. A 73% figure from a hundred women is not hyperbole; it is a claim, and this regulation exists to test it.
 
-The mascara is, in our view, the cosmetic that most rewards patience. The mascara is, in our view, the cosmetic that most rewards *one product*, chosen carefully, and stuck with. The three mascaras named above are, in our view, three mascaras worth trying — not, in most cases, all at once, but one at a time, for a month each, on the same lashes, in the same light, before the same mirror.
+In the United States, colour additives are the only cosmetic ingredient class subject to pre-market approval, and the eye is a restricted site of use. The FDA states that a number of colour additives approved for cosmetic use in general are not approved for the eye area. No US colour additive is approved for permanently dyeing or tinting lashes or brows.
 
-The trial is, in our view, the only way to know which of the three — or which of the three hundred others — is, finally, the mascara for your eye. The trial is also, in our view, the practice that the contemporary mascara market has been, for twenty years, trying to make unnecessary. The market would prefer that you trust the marketing. The marketing is, in most cases, less reliable than your own lashes.
+The sole permitted route is silver nitrate at up to 4% in a viscous gel, professional use only, applied for no more than one minute, not for anyone under 16. Carbon black is permitted in mascara by name under 21 CFR 74.2053. Kohl is the standing counter-example: unapproved, salts of antimony and lead, linked by the FDA to lead poisoning in children.
 
-We have, in this dispatch, named three mascaras. We have not, in this dispatch, told you which one is, finally, the mascara we have been waiting for. The mascara we have been waiting for is, in our view, the mascara that does *one* thing well, that does *no* things badly, and that removes easily at the end of the day. The mascara we have been waiting for is, in 2026, on the market. The mascara is, in our view, the second one.
+American cosmetics law exists because of a mascara. In 1933 Lash Lure, a permanent lash dye containing p-phenylenediamine, blinded more than a dozen women — the sources disagree on the exact count, and at least one death from secondary infection is reported but not settled. The outcry helped pass the Federal Food, Drug, and Cosmetic Act of 1938.
 
-The mascara, in the end, is the cosmetic of the small surface. The small surface is the eye. The eye is the face's most expressive feature. The mascara is, finally, the cosmetic that helps the eye *be* expressive. The expressiveness, in our view, is the work. The work is what the mascara is for.
+The replacement interval is advice, not law. The FDA attributes two to four months to manufacturers; the American Academy of Ophthalmology says three months; no statute sets either. The rest of the FDA's guidance is behavioural — don't share, don't add saliva or water to a dried tube, never apply or remove in a moving vehicle.
+
+The three-month rule has a supporting case: a 2018 report in Ophthalmology described a woman who wore mascara 25 years without proper removal and developed calcified concretions and follicular conjunctivitis under the eyelid. The contamination literature is usually misquoted. Bashir and Lambert, published in October 2019, found 79 to 90% of used cosmetic products contaminated, including 93 mascara samples, carrying Staphylococcus aureus, E. coli and Citrobacter freundii — bacteria in products, not infection in people.
+
+Which returns the dispatch to the part of the tube you cannot see. The wand is what the counter lets you touch; the water load, the polymer, the preservative and the drying clock decide how it behaves at four in the afternoon. These three fail differently. One will not build volume, one resists removal, one clumps from a wet bulk. The question is not which is best. It is which failure you can live with.
