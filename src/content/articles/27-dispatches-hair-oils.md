@@ -4,73 +4,79 @@ date: 2026-10-17
 slug: "dispatches-hair-oils"
 image: "https://images.unsplash.com/photo-1667242003572-96caaf8ac5c4?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A small hair oil bottle photographed in flat daylight with a soft background"
-imageCaption: "Three hair oils, photographed on the editorial counter. The bottles are smaller than they look."
+imageCaption: "A single small bottle of hair oil, shot straight on in flat daylight against an out-of-focus background. The light is even and casts no shadow."
 categories: ["Hair"]
 categorySlugs: ["hair"]
-excerpt: "Three hair oils, three different ideas of what an oil on the hair is for. Dispatches from the counter, autumn 2026."
+excerpt: "Three new hair oils read from the ingredient list down: what the bottles call argan and amla are really carriers, and one 2003 experiment still says more than any of them."
 author: "Lacquered Editorial"
 kicker: "DISPATCH"
-dek: "Three new hair oils, photographed and worn, in the autumn light. One is the oil we have been waiting for."
+dek: "The expensive one, the cheap one and the spray fail in opposite directions for the same reason. Nothing in any of them is designed to get inside the hair."
 ---
 
-The hair oil is, in our view, the most *over-marketed* and most *under-explained* hair product in the contemporary market. The marketing is, in most cases, focused on the *ingredient* — an argan, a coconut, a marula, a *moroccan*, a *brazilian*. The ingredient is, in our view, less important than the *formulation*. The formulation is, in our view, the work.
+The first ingredient in Moroccanoil Treatment Light is not argan oil. It is cyclomethicone, a volatile silicone, and the argan kernel oil arrives third, behind a second silicone, dimethicone. None of that is dishonest. It is a formulation, and it explains the feel of the product better than the copy does — but the bottle is not selling what the copy implies.
 
-The hair oil is, in our view, also the hair product that the contemporary wearer is, on average, the most *uncertain* about. The wearer is, in most cases, unsure *how much* to apply. The wearer is, in most cases, unsure *where* to apply. The wearer is, in most cases, unsure *when* to apply. The wearer is, in most cases, also unsure *whether* to apply — the wearer is, in many cases, the wearer who, in 2026, has heard that *oils are bad* for the hair, in a way that the wearer is, in many cases, no longer able to evaluate.
+Three hair oils arrived at the counter — a 50 mL pump, a 300 mL bottle, a 100 mL mist. Put their ingredient lists side by side and a pattern appears that no campaign mentions: the names on the front are never the first names on the back. What separates the three is not which oil each contains. It is the carrier — the fluid that spreads the oil and sets how long any of it stays on the fibre.
 
-The hair oil is, in our view, *not* bad for the hair. The hair oil is, in our view, the product that, properly chosen, properly applied, is the product that the contemporary hair *most needs*. The need is, in most cases, the need for *shine*. The shine is, in our view, what the hair oil is, finally, for.
+That distinction has a deadline attached. Commission Regulation 2024/1328 restricts the cyclic siloxanes D4, D5 and D6 to under 0.1% in leave-on cosmetics from 6 June 2027; D4 and D5 have been capped in rinse-off products since 31 January 2020. The link between that rule and the formulas now on shelf is an inference from timing, not a brand statement. What the shelves show is a move onto branched hydrocarbons — isododecane in a spray, undecane in a reformulated batch.
 
-We have, over the last three months, tried three new hair oils. We are writing them up because each of them, in a different way, does a thing that the other oils on the market do not do. The three oils are, on the whole, doing different work. The work, in each case, is the work of *making the hair catch the light*.
+What has not changed is the question a reader brings to the shelf: whether any of this reaches the hair at all. Three bottles, three delivery systems, and one controlled experiment from 2003 that answers it more precisely than any of the packaging does. Start with the bottle that began the category.
 
 ## One — a weightless argan
 
-The first oil is a weightless argan. The argan is, in formulation terms, an *argan oil* — an oil pressed from the kernels of the *Argania spinosa*, a tree native to Morocco. The argan oil has, in the last twenty years, become the most-marketed hair oil in the Western market. The argan oil has, in our view, become, in the contemporary market, *synonymous* with hair oil.
+It is a 50 mL pump, sold as the version for "fine and light-coloured hair" and separated from the original Treatment by one addition: linseed seed extract, listed as *Linum usitatissimum*. That is the whole of the public difference between the two products. The back label holds the rest.
 
-The weightless argan is, in formulation terms, doing a particular thing. The argan oil is, in most argan oils, a *medium-weight* oil — heavier than a silicone, lighter than a coconut. The argan oil, on most hair types, *feels* like an oil. The argan oil, on most hair types, *looks* like an oil.
+Cyclomethicone first, dimethicone second, argan third, then fragrance, then the linseed extract, then two dyes, CI 26100 and CI 47000. The oil that names the product is a minority ingredient, outranked by two substances no buyer would call an oil.
 
-The weightless argan is, in formulation terms, an argan oil that has been *re-engineered* to feel lighter. The re-engineering has, in most cases, been done by *fractionation* — the heavier fractions of the argan oil have been removed, leaving only the lightest. The re-engineering has also, in some formulations, been done by *blending* the argan oil with a small amount of a *very light* silicone, in a way that *cuts* the weight.
+Cyclomethicone is volatile — a physical description rather than a mood. It spreads, it carries, it evaporates, and the evaporation is what "weightless" means in this bottle. What stays behind is the dimethicone: a non-volatile film on the surface of the fibre, with nothing beneath it. No part of this formula is designed to enter the cortex.
 
-The weightless argan is, in our view, the oil for the *fine* hair. The fine hair is, in most cases, the hair that is, by default, *too easily weighed down* by a standard hair oil. The fine hair is, in most cases, the hair that the standard hair oil *flattens*. The weightless argan is, in our view, the oil that, on the fine hair, *adds shine without adding weight*. The added shine, on the fine hair, is, in our view, the most useful shine the fine hair can have.
+The argan itself deserves better than the label gives it. *Argania spinosa* grows in the Souss-Massa region of south-western Morocco; UNESCO designated the biosphere reserve in 1998 and added the associated knowledge and practices to its Intangible Cultural Heritage list in 2014. Cooperatives began forming in the mid-1990s, and L'Oréal signed a fair-trade sourcing partnership in 2008.
 
-The weightless argan is, in our view, also the oil for the *humid* day. The humid day is, in most cases, the day on which the standard hair oil *swells the hair* — the hair, on the humid day, *frizzes*. The weightless argan is, in most cases, the oil that, on the humid day, *does not swell the hair*. The non-swelling is, in our view, the most useful behaviour the oil can have on the humid day.
+The company's account of itself is thinner. Its "Our Story" page is deliberately vague about place — "miles from home", "travelling" — and a New York Times correction in 2011 records that headquarters moved from Montreal to New York in late 2010. The argan is Moroccan. The company selling it has never been so specific about where it comes from.
 
-The weightless argan is, at $28, fairly mid-priced for a hair oil. The weightless argan is, in our view, the oil of the *everyday*.
+Recent batches, as listed by one UK retailer, drop cyclomethicone entirely: dimethicone, trisiloxane, dimethiconol, undecane, argan. Undecane and tridecane are volatile hydrocarbons doing the job the siloxane did. That listing is not a brand statement, and the reason for the change is an inference. The architecture is intact either way. The oil is still third.
 
 ## Two — a heavy Indian oil
 
-The second oil is a heavy Indian oil. The Indian oil is, in formulation terms, a *traditional* hair oil — a blend of coconut oil, sesame oil, and a small amount of a *herbal* extract, often amla or bhringraj. The Indian oil has, in the Western market, been, until recently, a *niche* product — available, mostly, at Indian grocery stores, used, mostly, by women of South Asian heritage.
+Dabur Amla Hair Oil costs $12.99 for 300 mL on Amazon in the US, about $1.29 a fluid ounce. The standard description of it — sesame, coconut and amla — does not survive contact with the label. Neither sesame nor coconut appears on the US ingredient list at all.
 
-The heavy Indian oil is, in our view, the oil for the *thick, dark, often wavy* hair. The thick hair is, in most cases, the hair that *needs* the weight. The thick hair is, in most cases, the hair that the weightless argan *cannot* nourish. The thick hair is, in most cases, the hair that, in our view, is *under-served* by the contemporary Western market.
+Paraffinum liquidum comes first, which is mineral oil. Then canola oil, then palm oil, then fragrance, and only then Phyllanthus emblica fruit extract — amla, in fifth place. A long tail of fragrance allergens follows: citral, eugenol, linalool, limonene, coumarin, geraniol, benzyl alcohol. Two independent ingredient summaries agree on mineral oil first.
 
-The heavy Indian oil is, in formulation terms, doing a particular thing. The coconut oil is, in most cases, the *penetrating* oil — the coconut oil is, in most cases, the oil that *absorbs into* the hair shaft, rather than sitting on the surface. The sesame oil is, in most cases, the *coating* oil — the sesame oil is, in most cases, the oil that *sits on* the hair shaft, in a way that *protects* the hair. The amla or bhringraj is, in most cases, the *traditional* ingredient — the herbal that has, in the Ayurvedic tradition, been used for hair care for centuries.
+Heaviness here is a hydrocarbon, not a cold-pressed seed. Paraffin has no affinity for hair protein and no route into the shaft; it sits, it coats, and it waits to be washed off. This is the correction the piece rests on, because the product's reputation for depth is built on an ingredient that never gets deep.
 
-The heavy Indian oil is, in our view, the oil that *nourishes*. The nourishment is, in our view, the work that the standard hair oil *does not do*. The standard hair oil is, in most cases, a *surface* product. The Indian oil is, in most cases, a *deep* product.
+Dabur was founded in 1884 by S. K. Burman in Kolkata, and the company's own history confirms it. When this particular oil first went on sale I could not establish — the Indian product pages return 404, and nothing I found dates the SKU. For a bottle sold in this volume, that is a strange absence.
 
-The heavy Indian oil is, in our view, also the oil for the *scalp*. The scalp, in most cases, is the part of the head that the standard hair oil *avoids*. The scalp, in most cases, is the part of the head that, in the Ayurvedic tradition, has been the primary site of the hair oil application. The scalp, in our view, is the part of the head that the contemporary hair care has, in the last twenty years, *forgotten*.
-
-The heavy Indian oil is, at $18, fairly inexpensive for a hair oil. The heavy Indian oil is, in our view, the oil of the *deep care*.
+Reviewers complain about the smell first: intense, herbal, soap-like, lingering. Residue comes second, and it depends on dose — a few drops on wet hair, or a pre-wash treatment, is fine, while a liberal pour is sticky. The claims are the usual cosmetic ones. "For long, strong and dark hair" implies a darkening effect that no substantiated evidence supports.
 
 ## Three — a silicone-spray hybrid
 
-The third oil is a silicone-spray hybrid. The hybrid is, in formulation terms, a *silicone emulsion* — a water-based preparation, with a small amount of a heavy silicone (most often dimethicone, in some form), dispensed, in most cases, as a *spray*. The hybrid is, in our view, the most *engineered* of the three oils. The hybrid is also, in our view, the most *useful* of the three oils, in a particular way.
+HASK's Weightless Repair + Argan Oil Hair Oil Mist is 100 mL for $10.99, or about $3.33 a fluid ounce. That makes it the cheaper bottle and the dearer fluid beside the Dabur.
 
-The silicone-spray hybrid is, in formulation terms, doing a particular thing. The silicone is, in most cases, the *shine* molecule — the silicone is, in most cases, the molecule that *reflects the light*. The water is, in most cases, the *carrier* — the water is, in most cases, the molecule that *carries the silicone* to the hair, in a way that distributes it evenly. The spray is, in most cases, the *delivery* — the spray is, in most case, the delivery that *atomises* the silicone into a fine mist, in a way that *avoids* the wet patch.
+Dimethicone first, isododecane second, C12-15 alkyl benzoate third, argan kernel oil fourth, then tannic acid, arginine, panthenol, linseed and chia seed extracts. There is no cyclopentasiloxane and no cyclomethicone anywhere in it. Of the three products, this is the one whose label most honestly describes what it does.
 
-The silicone-spray hybrid is, in our view, the oil for the *long hair*. The long hair is, in most cases, the hair that *needs* the shine. The long hair is, in most cases, the hair that is, in most cases, *under-served* by the standard hair oil, because the standard hair oil *does not distribute* evenly on the long hair. The spray, in most cases, distributes evenly.
+The dry feel comes from isododecane — a branched hydrocarbon, not a cyclic siloxane. A cyclomethicone spray and an isododecane spray both vanish fast enough to feel like nothing on the hand, and only one of them is a substance ECHA lists as of very high concern. In leave-on hair care, D5 has been used at a median of about 20% and as much as 95% by weight, which is not what a trace ingredient looks like.
 
-The silicone-spray hybrid is, in our view, also the oil for the *quick* application. The quick application is, in most cases, the application that the contemporary wearer *needs* — the contemporary wearer is, in most cases, the wearer who has, in the morning, two minutes for the hair oil. The spray, in most cases, is, in those two minutes, the *only* delivery that distributes evenly.
+Format is dosage, and dosage is the argument. A fine mist deposits far less per spray than a pump, which is its virtue, and it also makes over-application invisible, which is its failure. You cannot see the film arriving. With a pump you can at least count the drops.
 
-The silicone-spray hybrid is, at $24, fairly inexpensive for a hair oil. The silicone-spray hybrid is, in our view, the oil of the *morning*.
+Removal is the part the marketing skips. Dimethicone is not water-soluble and needs a surfactant, traditionally a sulfate, to clear. Whether successive films accumulate into damage is a claim I could not corroborate in any primary or regulatory source. That silicones suffocate hair is asserted constantly and demonstrated, in anything I read, nowhere.
 
----
+The same brand's non-mist argan serum, from $8.99, uses dimethiconol in C13-14 isoalkane instead — a higher-molecular-weight silicone that deposits more heavily. One company, two chemistries, two very different weights on the fibre.
 
 ## A note on the shine
 
-The hair oil is, in our view, finally, the product that *makes the hair catch the light*. The shine is, in our view, the work that the hair oil is, finally, for. The shine is, in our view, also the work that the contemporary hair care market has, in the last twenty years, been *most aggressive* in trying to *replace* — with the silicone spray, with the gloss spray, with the light-reflecting finish. The replacements are, in most cases, *surface* products. The replacements are, in most cases, products that *reflect the light* without *nourishing the hair*.
+Shine is an optical measurement, not a condition. What an instrument records is the ratio of *specular* reflection, which is mirror-like and coherent, to *diffuse* reflection, which is light scattered off roughness. A smooth, aligned cuticle returns more of the first and less of the second. The standard tools are goniophotometry and image analysis of the kind SAMBA performs.
 
-The hair oil is, in our view, the product that *does both*. The hair oil is, in most cases, the product that *reflects the light* — in the way the silicone spray does. The hair oil is, in most cases, also the product that *nourishes the hair* — in the way the standard hair oil does. The hair oil is, in our view, the *only* product that does both.
+The 2003 luster study in the Journal of Cosmetic Science found that phenyl trimethicone, amodimethicone and castor oil all raised measured luster, with phenyl trimethicone the most effective of the three. Hairspray and styling resins raised it too, by laying down thin films. Volume 54, number 4, page 351. The controls are the part worth keeping: micronised zinc oxide broadened and intensified both kinds of reflection, and synthetic sebum lowered luster.
 
-The hair oil is, in our view, also the product that the contemporary wearer is, in 2026, *most in need of*. The wearer is, in 2026, the wearer who has, in many cases, been told that *oils are bad*. The wearer is, in 2026, the wearer who has, in many cases, been told that the hair *does not need* the oil. The wearer is, in 2026, the wearer who has, in many cases, *forgotten* the oil.
+A coating can therefore be optically bright without being good for the hair, and the greasy sheen of an oily scalp is not gloss — two phenomena, one word, and the word is doing a great deal of commercial work. A 2008 TRI study of surface smoothness refined the picture: thin, uniform silicone and PBEM films raise shine, while uneven deposition, the ordinary result of applying oil badly, can reduce it. The variable is not the ingredient. It is the hand, and the hand is not on the ingredient list.
 
-The forgetting is, in our view, a mistake. The oil is, in our view, what the hair has been waiting for. The oil is, in our view, what the hair is, finally, for.
+The instrument cannot tell a silicone film from a resin film from castor oil. It cannot tell a well-applied product from a badly applied one except by recording less shine. An instrument that cannot distinguish hairspray from argan oil cannot underwrite the word healthy.
 
-The three oils named above are, in our view, three oils worth trying. The three oils are not, in most cases, *all* oils. The oil for the wearer's hair is, in our view, *one* oil, chosen carefully, used sparingly, and applied to the right place, at the right time. The oil is, in our view, finally, the most personal hair product the wearer owns. The product is, finally, what the wearer makes of it. The making is, in our view, what the oil is for.
+This is why the percentages on the pack are not evidence. HASK's claim of repair "up to 98%" carries an asterisk whose method was not visible on any page I could open. Moroccanoil's "shine up to 118%" is a figure with no protocol attached. A number without a stated method is a mood.
+
+Penetration is the different question, and the one that matters. Rele and Mohile, in the Journal of Cosmetic Science for 2003, volume 54, number 2, pages 175 to 192, tested Indian hair tresses — straight, wavy, curly and permed — under bleaching, UV and boiling water. Coconut oil was the only oil that significantly reduced protein loss, before or after washing. Mineral oil and sunflower oil reduced it not at all.
+
+One of the two authors worked at Marico R&D, an Indian hair-oil company. The study that undercuts the best-selling Indian hair oil was not written by a competitor. Coconut oil works because it is a triglyceride of lauric acid — small, straight-chained, close enough to hair protein to pass inside the shaft. Mineral oil has no such route, and none of the three bottles here lists coconut oil on its US label.
+
+So the three fail in opposite directions, and the mechanism is a single question: how long something stays on the fibre. The light bottle leaves a thin dimethicone film and asks to be reapplied; the heavy one leaves mineral oil that never penetrates and must be washed out; the mist is the same film in a format that lets you apply too much without noticing. All three sit above the cortex.
+
+Two weeks with one, then two weeks with another, and the scalp reports what the labels will not. The light bottle is a finish; the heavy one is an occlusive; the mist is a finish you cannot see going on. The shine from all three is real, measurable and temporary, and it is the least interesting thing about any of them.
