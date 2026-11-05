@@ -4,75 +4,81 @@ date: 2026-10-17
 slug: "grey-hair-history"
 image: "https://images.unsplash.com/photo-1495914510314-ba3164b1321f?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A portrait of a woman with natural grey hair, photographed in soft daylight"
-imageCaption: "A portrait of natural grey hair, photographed in daylight."
+imageCaption: "A portrait of natural grey hair in soft daylight, photographed against a plain background. The light comes from one side of the frame."
 categories: ["Hair"]
 categorySlugs: ["hair"]
-excerpt: "The grey hair is the most politicised hair colour in the Western tradition. A short cultural history, from henna to the 2020s return."
+excerpt: "A short cultural history of grey hair, from lead paste and henna to the salon's gray blending, and why the cover came before the choice."
 author: "Lacquered Editorial"
 kicker: "ARCHIVE"
-dek: "The grey hair has been, for a hundred years, the most politicised hair colour in the Western tradition. A short history."
+dek: "Grey arrives on its own. The industry spent seventy years covering it, then discovered it could sell the covering and the refusal in the same aisle."
 ---
 
-The grey hair is, in our view, the most politicised hair colour in the Western tradition. The grey is, in most cases, the colour the hair *becomes* — it is, in most cases, not the colour the hair is *born*. The grey is, in most cases, the colour that the wearer must, at some point, decide what to *do* with. The decision is, in our view, the most interesting decision in the modern hair wardrobe.
+The earliest grey-covering recipe still reconstructable is a paste of lead oxide and slaked lime, mixed with a little water and worked through the hair until it darkened. Lead from the paste met sulfur in the keratin and the two precipitated as galena crystals, a mineral grown inside the fibre. The formula runs from the Greco-Roman period through medieval Arabian texts and Diderot's *Encyclopédie* — roughly fifteen hundred years on one preparation.
 
-The grey is, in most cases, also the colour with the most history. The grey has been, in the Western tradition, *dyeable*, *coverable*, *reversible*, *irreversible*, *fashionable*, *unfashionable*, *professional*, *unprofessional*, *maternal*, *paternal*, *sexual*, *asexual*, *political*, and *apparently biological*. The grey has been, in other words, almost everything except a *colour*.
+It is an odd amount of effort to spend on a colour that arrives on its own. Grey is the only hair colour nobody mixes and nobody chooses; it comes in one follicle at a time, whether or not the person underneath has agreed. A colour you choose is a product, and a colour that happens to you is a problem — which is why the mass cover did not arrive until 1950, seventy years after the chemistry was patented.
 
-The grey is, finally, a colour that *announces itself*. The grey does not, in most cases, need to be introduced — the grey arrives, in most cases, without the wearer's permission. The arrival is, in our view, what makes the grey *political*. The grey has not, in the Western tradition, ever been allowed to arrive without an accompanying argument.
-
-This essay is, in part, a history of the politics. It is also, in part, an argument that the grey hair, in 2026, is having a moment — and that the moment is, in our view, worth taking seriously. The grey is, in 2026, finally, allowed to be a colour. The grey is, in our view, also allowed to be a *decision*. The decision is, in our view, what the grey is for.
+The assumption worth testing is that wearing grey is a refusal of the beauty industry — that leaving the dye alone is a small act of independence. The record points elsewhere. Covering grey is ancient, the routine is post-war, and grey as a chosen colour has been a retail category since 2015, with its own shampoos, toners and serums. Independence, in this aisle, is a line item.
 
 ## The pre-modern — henna and lead
 
-The grey hair, in the pre-modern Western tradition, was, in most cases, *covered*. The covering was, in most cases, done with one of two materials: henna, which produced a *red* cover, or a lead-based dye, which produced a *black* cover. The henna was, in most cases, the cheaper option, and was, in most cases, available to working women. The lead was, in most cases, the more expensive option, and was, in most cases, available to women of means.
+Henna came first, and it came with a limitation. *Lawsonia inermis* dyes through lawsone, which binds to keratin in a Michael addition and gives a "relatively intense, permanent" orange-red. Black is beyond it, and so is any cool brown.
 
-The covering was, in the pre-modern tradition, almost universal. The grey was, in the pre-modern tradition, almost always read as a sign of *age* — and age was, in most pre-modern societies, read as a sign of *decline*. The grey was, in most cases, hidden.
+The fix was structural: henna first, then an indigo preparation laid over the red, giving brown-black. That pairing is the oldest grey-coverage system still in continuous use. It was not a women's practice either — beards were hennaed as freely as scalps, which complicates a history usually told as a story about female vanity.
 
-The hiding was, in some cases, dangerous. The lead-based dye was, in most cases, *toxic* — the lead, in some formulations, was absorbed through the scalp, and produced, in some cases, lead poisoning. The lead-based dye was, in the 18th and 19th centuries, one of the leading causes of *occupational* poisoning in the hairdressing trade.
+Roman practice went further. Lead acetate appears in the sources as "the agent of lead poisoning" and, in the same breath, as "highly prized by the Romans". Mercury belongs to the same family: a microscopy study of ancient hair found cinnabar and metacinnabar particles — mercury sulfide — grown inside the fibre alongside the lead.
 
-## The 19th century — the *respectable* grey
+Silver nitrate was the other metallic route, oxidising in air to black silver oxide. Metal cyanides were used as well and were "particularly toxic" because they are more soluble. None of this was folk medicine; it was industrial chemistry applied to the head.
 
-The 19th century was, in many ways, the period when the grey was, for the first time in the Western tradition, *allowed* to be visible. The allowance was, in most cases, restricted to *men*. The man of a certain age, in the 19th century, was *expected* to grey — the grey was, on a man of a certain standing, a sign of *maturity*, of *wisdom*, of *arrival*.
+The toxicity is the through-line. Lead, mercury, silver and cyanide gave the modern dye trade its founding argument, which was not colour but safety — and a safety claim only reads as a claim against a record like this one. Fifteen hundred years is a long time to spend being the thing the next product is measured against.
 
-The woman, in the same period, was *not* allowed to grey. The woman's grey was, in the 19th century, almost universally read as a sign of *decline* — the grey was, on a woman, a sign that the woman had, in some sense, *failed* to remain youthful. The woman's grey was, in most cases, hidden.
+## The 19th century — the respectable grey
 
-The 19th century was, in other words, the period when the grey was, for the first time, *politically* gendered. The grey was, on a man, *good*. The grey was, on a woman, *bad*. The gendered grey was, in our view, the founding moment of the modern politics of the grey.
+Grey became visible again for a reason that had nothing to do with taste. In 1795 William Pitt's government taxed hair powder, and anyone using it had to buy an annual certificate from a Justice of the Peace at one guinea — about £127 in current money.
+
+The revenue record measures the collapse precisely: 46,664 payers in 1812, 997 by 1855, and repeal in June 1869, when the duty was bringing in roughly £1,000 a year. The Wiltshire and Swindon History Centre records that the tax "accelerated the decline of wigs in favour of natural hairstyles".
+
+In a powdered century, uncovered hair meant grey with nowhere to hide. A stamp duty did what no beauty argument managed, and it is the best-documented cause of the switch. The decisive event in the early history of grey hair was fiscal.
+
+*Personal Beauty*, an 1870 household manual, treats grey as physiology rather than symbol: "Gray hair is not always a sign of years", it can arrive in childhood, and darker hair changes sooner, while one light-brown shade "seems almost never to turn gray." The same book records the Empress Eugenie setting a fashion for gold powder in 1860, the cheaper bronze powder that stood in for it, and a warning that "probably both of these metallic substances are hurtful to the hair."
+
+Then the chemistry changed. Perkin's synthetic dye is dated to 1856; aniline black was observed by Runge in 1834, synthesised by Lightfoot in 1859, patented in 1863 and made industrially viable by Lauth in 1864. Aniline dyes reached hair products after 1880.
+
+The trade noticed. A Paris paper advertised a two-bottle "oxidant" black dye and called the result "even too beautiful" while conceding that the process was dangerous. In the same wave, 41 French trademarks containing *Noir* were registered at INPI — a pigment rush, not a revival of plant colour.
+
+The makers were not cosmetics houses. AGFA, founded in Berlin in 1867, sold a black hair dye called Primal — p-toluenediamine and sodium sulfite, DRP 234462. The first industrial hair colours came out of the German dye industry, not the perfumer's studio.
+
+The industry's founding document is a name. In 1909 Eugène Schueller registered the Société Française des Teintures Inoffensives pour Cheveux, and the product took its title, L'Auréale, from the fashionable Auréole hairstyle. Safety was the pitch from the first invoice.
 
 ## The 20th century — the universal cover
 
-The 20th century was, in most ways, the period when the *cover* became universal. The cover was, in the early 20th century, made possible by the development of the *modern* hair dye — a dye based on synthetic organic chemistry, with a much lower toxicity than the lead-based dye of the previous century. The modern dye was, by the 1930s, available in every pharmacy. The modern dye was, by the 1950s, used by the majority of Western women over the age of 40.
+The chemistry that made covering grey routine was ready long before the routine. Hydrogen peroxide was discovered by Louis Jacques Thénard in 1818 and in cosmetic use by about 1860. It is the engine of every permanent colour: it develops the dye and bleaches the natural melanin in the same pass.
 
-The cover was, in the 20th century, almost universal. The cover was, in the 20th century, almost unquestioned. The cover was, in the 20th century, the *default*. The grey was, in most cases, hidden.
+The permanent triad is ammonia, hydrogen peroxide and a para-dye, usually PPD — para-phenylenediamine, discovered by A. W. von Hofmann in the 1860s. Ammonia swells the cuticle so the precursors reach the cortex, and the peroxide does the rest.
 
-The cover was, in the 20th century, also a *professional* requirement. The grey was, in most 20th-century professions, almost universally read as a sign of *being past one's prime*. The grey was, in most cases, hidden in order to remain employed. The cover was, in many cases, *expected* by the employer.
+Between the first oxidative hair-dye patent in 1883 and 1930, about 79 more followed, most of them from German textile-dye firms. Covering grey was a spillover from the cloth trade: the machinery that dyed a bolt of cotton was adapted to dye a head.
 
-The 20th century was, in other words, the period when the grey was, for the first time in the Western tradition, *universally* hidden. The hiding was, in our view, the most extreme moment of the politics of the grey.
+The companies sorted themselves out around that technology. Schueller's formula was called L'Auréale in 1907, his company was registered in 1909 and renamed L'Oréal in 1939; Clairol was founded in 1931, its own account tracing the formula to a trip to France.
 
-## The 2010s — *going grey* as statement
+1950 is the hinge. Clairol introduced the first one-step colour, sold as Miss Clairol Hair Color Bath, and Wella launched Koleston as the first cream colorant to worldwide success in the same year. One-step meant lift and colour in a single application, which removed the pre-lightening stage that had kept permanent colour behind a salon door.
 
-The 2010s were, in many ways, the first period in which the grey was, for a significant number of women in the Western tradition, *not* hidden. The not-hiding was, in most cases, framed as a *statement*. The statement was, in most cases, framed as *feminist*.
+At-home followed quickly. Clairol's 1956 kit carried the line "hair color so natural only her hairdresser knows for sure", and 1965 brought Nice 'n Easy, the first at-home shampoo-in colour, which turned top-up coverage from an appointment into a household routine. Put those dates together and the familiar century shrinks: permanent chemistry existed from the 1880s, but the mass habit of covering grey is post-1950, and the universal cover is about seventy years old, not a hundred.
 
-The feminist framing was, in our view, both correct and insufficient. The framing was correct in that the *decision* to stop covering was, in most cases, a decision about *refusal* — a refusal of the 20th-century expectation that the grey should be hidden. The framing was insufficient in that the framing, in some cases, made the *decision* into a *performance* — a way of *announcing* the grey rather than simply *wearing* it.
+## The 2010s — going grey as statement
 
-The 2010s grey was, in our view, also a *celebrity* phenomenon. The celebrity grey — the grey of, in particular, the magazine covers of the period — was, in our view, both a *legitimisation* and a *commodification* of the grey. The grey was, in the celebrity form, a *look*. The grey was, in the non-celebrity form, also a look. The grey was, in our view, finally, a *colour* — but the colour was, in the 2010s, a colour with a *backstory*.
+The retail record dates the next turn, and it dates it to a month. On 5 May 2015 CNBC reported that sales of grey hair colouring products on Amazon's UK site had risen 83 per cent year on year; Renbow's Hair Colour Cream in Silver was up more than 200 per cent since January; men's products were up 20 per cent. Amazon's UK manager, Xavier Garambois, called grey hair "the latest beauty trend".
+
+A year later the high street agreed. City AM reported on 13 April 2016 that Superdrug's grey and silver colorant sales were up more than 30 per cent after a post by the vlogger Zoella, with Rihanna, Kylie Jenner and Jade Thirlwall named as the look's faces. The framing ran #grannyhair for women, *silver fox* for men, and "grey is the new black" in the style pages.
+
+Here is the contradiction the decade rarely examined. The grey being sold was not grey hair; it was bleached hair, lightened to platinum and then toned blue-purple, maintained with purple or silver shampoo. Reaching the colour took more chemistry and more upkeep than covering it, and the products that moved were lighteners and toners, not coverage.
+
+What the trade tracked was the opposite market. The figures that exist for 2015 and 2016 measure silver dye, and sales data for grey coverage in the same years was not found. The record also declines to name a first: the trend is dated by retail coverage, not by an originating celebrity or designer.
 
 ## The 2020s — the intentional grey
 
-The 2020s grey is, in our view, different from the 2010s grey. The 2020s grey is, in our view, less *framed*. The 2020s grey is, in our view, more *worn*.
+The language moved first. The service clients ask for now is *gray blending* — soft transitions and lower-maintenance systems rather than a flat cover — and the spelling has gone American with the market. Salma Hayek appears in the April 2026 giaghani piece with silver in her hair, presented as what she has rather than what she had done.
 
-The 2020s grey has, in most cases, been *intentional* — that is, the wearer has, in most cases, decided to *let the grey come through*, rather than *dyeing it out* and *growing it back*. The intentional grey is, in our view, a different act from the *growing out* of the 2010s — the intentional grey is, in most cases, a slower act, a more deliberate act, an act that has, in some cases, taken *years*.
+The products moved into a third category. AREY, co-founded by Allison Conrad and the trichologist Jay Small, sells "Not Today, Grey", "To The Root" and "Good Night, Grey" — a supplement, a scalp serum and an overnight treatment. Its proposition is neither dyeing grey nor accepting it but slowing it, and the site cites a six-month randomised, double-blind, placebo-controlled study of 173 subjects aged 28 to 65, all under 25 per cent grey.
 
-The intentional grey has, in our view, also been helped by the *colour* — the contemporary grey is, in many cases, a *silver* (a clean, almost metallic grey), a *charcoal* (a deeper, almost-black grey), or a *salt-and-pepper* (a variegated grey, with the wearer's original colour still visible). The intentional grey is, in our view, less *one* colour than the 2010s grey was — the intentional grey is, in most cases, a *palette*.
+By value, the business is still a covering business. Emergen Research puts the hair colorant market at $14.20 billion in 2025, rising to $22.80 billion by 2035 at a 4.8 per cent CAGR, with permanent colorants at 49.13 per cent of 2024 share. The growth still credited in that research is the greying population.
 
-The intentional grey is, in our view, the most interesting grey in a hundred years. The intentional grey is, finally, a *colour* that the wearer has chosen to wear, rather than a *default* that the wearer has decided to *cover* or a *statement* that the wearer has decided to *make*. The intentional grey is, in our view, what the grey has, for a hundred years, been waiting to be.
-
-The intentional grey has, in our view, also *re-defined* what the grey is, in the popular imagination. The intentional grey has, in most cases, taken the grey out of the *deficit* narrative — the narrative that the grey is, in some way, a *failure* of the hair to remain coloured. The intentional grey has, in most cases, taken the grey out of the *protest* narrative — the narrative that the grey is, in some way, a *rebellion* against the industry. The intentional grey is, in most cases, neither a failure nor a rebellion. The intentional grey is, in most cases, a *preference* — and the preference is, in our view, what the grey has, for a hundred years, been waiting to be allowed to be.
-
----
-
-The grey hair, in sum, has been a hundred years of cultural argument. The grey has been hidden. The grey has been covered. The grey has been made into a statement. The grey has, in 2026, finally, been allowed to be a colour.
-
-The grey is, in our view, the colour that the hair *decides* to be, when the wearer does not interfere. The grey is, in our view, the colour that the hair *has been*, when the wearer does interfere. The grey is, in our view, the colour that the hair *becomes*, when the wearer decides to let the hair become.
-
-The grey is, in our view, also the colour that the *wearer* becomes. The wearer who has decided to let the grey come through has, in our view, made a decision about the *self* — a decision to *show* the hair as it is, rather than as the wearer wishes it to be. The decision is, in our view, a small decision and a large one. The decision is, in our view, the decision that the grey is, finally, for.
-
-The decision is, in our view, also the decision that the contemporary hair wardrobe has been waiting for. The decision is, in our view, what the *grey moment* of 2026 is, finally, about. The moment is, in our view, worth taking. The taking is, in our view, what the grey is for.
+This is not a contradiction; it is a portfolio. The same groups report coverage growth and silver growth without embarrassment because the same company sells the cover and the care. Grey has been darkened with lead, reddened with henna, manufactured, dyed silver on purpose and worn on purpose — five meanings, one colour, and the current one is the first to arrive with a product line.
