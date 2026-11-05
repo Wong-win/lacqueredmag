@@ -1,82 +1,86 @@
 ---
-title: "The Chypre: A Brief History of the Most Elusive Family"
+title: "The Chypre: A Brief History of an Endangered Family"
 date: 2026-10-17
 slug: "chypre-history"
 image: "https://images.unsplash.com/photo-1659415435912-b82c4c4da275?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A vintage perfume bottle photographed on a dark surface with soft side light"
-imageCaption: "A 1940s chypre bottle, photographed in the side light of an autumn afternoon. Oakmoss reads best against a dark surface."
+imageCaption: "A clear glass perfume bottle on a dark surface, lit from one side so the stopper throws a soft highlight across the label."
 categories: ["Fragrance"]
 categorySlugs: ["fragrance"]
-excerpt: "The chypre is the most constructed, the most argued, and the most regulated family in modern perfumery. A short history."
+excerpt: "Coty's 1917 Chypre survives as a museum sample nobody can buy. A history of a family legislated out of supply, not priced out of fashion."
 author: "Lacquered Editorial"
 kicker: "ARCHIVE"
-dek: "The chypre is the most constructed family in perfumery. A short history of the family that has been, for a hundred years, the perfumer's argument."
+dek: "Four regulatory events, one substitute molecule, and a 1986 re-issue that smelled nothing like the original: how the moss pillar came out of perfumery."
 ---
 
-The chypre is, in our view, the most constructed family in modern perfumery. The chypre is also, in our view, the most *argued*. Every chypre is, in our view, a deliberate argument about what a chypre is. Every chypre is, in effect, a perfumer's *position* on the chypre — and the position is, in most cases, the argument the chypre is making.
+The closest thing to a 1917 *Chypre* that can still be smelled is a reconstruction in a museum at Versailles, and it is not for sale. The Osmothèque made it from a formula that was never published; it can be encountered only on site or at a conference. Coty's original left the shelves in the 1950s, the 1960s or the 1970s.
 
-The chypre is, in formulation terms, a *structure* rather than a *recipe*. The structure is: a fresh top, a floral heart, a mossy-woody-resinous base. The structure was, in 1917, named by François Coty. The structure has, in the hundred years since, been the most stable architecture in Western perfumery. The structure has, in the hundred years since, been the most contested.
+That object contains the family's whole problem. Chypre is argued about as a matter of style — moss, peach, whether a modern chypre is still a chypre. The record points somewhere duller. Oakmoss absolute trades at a few hundred euros a kilo; orris butter at tens of thousands. Chypre is not the expensive family. It is the endangered one.
 
-This essay is, in part, a history of the structure. It is also, in part, an argument that the chypre is, in 2026, worth the trouble of wearing — even in its post-IFRA, re-formulated, modern form. The chypre is, in our view, the family that the contemporary fragrance market has, in the last twenty years, been most aggressively trying to make *a museum piece*. The chypre is, in our view, the family that is, finally, *not* a museum piece.
+## 1917 — Coty's Chypre
 
-## 1917 — Coty's *Chypre*
+François Coty launched Chypre in France in 1917, in the middle of the First World War; French Wikipedia's infobox gives the year and no month. The house had existed since 1904, when Coty — born Joseph Marie François Spoturno in Ajaccio, Corsica, on 3 May 1874 — opened in Paris with La Rose Jacqueminot.
 
-The chypre begins, in the modern sense, with François Coty. Coty was, in the early twentieth century, the most successful perfumer in Europe — a Corsican who had studied chemistry in Grasse, who had opened his own house in Paris in 1904, and who had, by 1917, become the perfumer whose fragrances were *the* reference for what a luxury fragrance could be.
+The name was older than the perfume. Chypre is French for Cyprus, and a *poudre de chypre*, an oakmoss-scented powder, is recorded in the sixteenth century. The accord was not new either: English Wikipedia lists a Guerlain Eau de Chypre in 1840 and a Brocard Shipr in 1889; French Wikipedia names Le Chypre de Paris of 1909.
 
-Coty launched *Chypre* in 1917. The fragrance was, in formulation terms, a combination of bergamot (top), a floral heart (rose, jasmine, often with a touch of ylang-ylang), and a mossy-woody base (oakmoss, patchouli, labdanum, often with a touch of vetiver). The fragrance was, in Coty's intention, a structure rather than a scent — a *type* of perfume that other perfumers could imitate.
+What Coty fixed was a recipe at industrial scale: bergamot, lemon, neroli and orange on top; rose and jasmine in the heart, jasmine pushed hard; oakmoss, patchouli, labdanum, storax, civet and musk underneath. His model was mass-market — fixed, accessible prices and volume distribution. No franc figure for the 1917 launch survives. The flacon was René Lalique's, in moulded crystal with an acid-etched stopper.
 
-The name *chypre* comes, in Coty's choice, from the French word for *Cyprus* — the Mediterranean island that had, since the Renaissance, been associated with a particular category of printed leather scented with oakmoss and labdanum. The name was, in Coty's choice, an *evocation*. The name was, in Coty's choice, also a *category*.
+Coty bought Le Figaro in 1922 and used it for far-right politics; he died at Louveciennes on 25 July 1934. His perfume went out of production in the 1950s according to French Wikipedia, the 1960s according to vintage sellers, the 1970s according to the Osmothèque. The formula was never published, so reconstructions online are inferences, not documents.
 
-Coty did not invent the combination. The combination had, in various forms, existed in Mediterranean perfumery for centuries. Coty did, however, *name* the combination, and gave it a structure that other perfumers could imitate. The naming was, in our view, the founding act of the chypre as a perfumery category.
+## 1919 — Guerlain's Mitsouko
 
-## 1919 — Guerlain's *Mitsouko*
+Two years later Jacques Guerlain launched Mitsouko on the same bergamot–oakmoss–labdanum scaffold; he lived from 1874 to 1963. The name came from the Japanese heroine of Claude Farrère's 1909 novel La Bataille, set during the Russo-Japanese War — a choice that reads as 1919 Parisian Japonisme.
 
-Two years after Coty's *Chypre*, Jacques Guerlain launched *Mitsouko*. *Mitsouko* was, in formulation terms, a chypre — bergamot, a floral heart, an oakmoss-patchouli base — but with a twist. The twist was a heavy, almost-fruity peach note in the heart, lifted by a particular combination of aldehydes and a small amount of a synthetic lactone. The result was, in 1919, an entirely new kind of chypre — a chypre that was, in Guerlain's intention, a chypre for a *modern* woman.
+The peach is not fruit. It is gamma-undecalactone, first prepared in 1908 by the Russian chemists Zhukov and Schestakow and sold under the misleading trade name "aldehyde C-14", although it is a lactone. It reached perfumery earlier: in 1913 Maurice Schaller used it in Nuit de Chine for Paul Poiret's Les Parfums de Rosine.
 
-*Mitsouko* was, in the popular telling, named after a heroine of a popular novel — a Japanese woman in a love story set during the Russo-Japanese War. The naming was, in Guerlain's intention, also an *evocation*. The naming was, in Guerlain's intention, also a *position*. The position was: the chypre could be *feminine*, could be *romantic*, could be *literary*, without ceasing to be a chypre.
+Which makes the usual account of Mitsouko's innovation a story about dosage and framing, not discovery. Bergamot on top; rose, jasmine, ylang-ylang and the peach accord in the heart; oakmoss, labdanum, vetiver and spices below. Original production used heavy natural oakmoss, real iris butter, natural rose and jasmine — materials a faithful remake cannot buy.
 
-*Mitsouko* was, by 1925, one of the best-selling fragrances in Europe. *Mitsouko* is, in 2026, still in production, in a near-exact re-formulation. The re-formulation is, in our view, evidence that the chypre, in its original architecture, can survive the century.
+The reformulation record is well documented. Guerlain's customer service confirmed in November 2006 that Mitsouko had been reformulated to "respect European Regulation"; the major reconstruction is credited to Edouard Fléchier in 2007, just before Thierry Wasser became house perfumer. Wasser revisited the formula around 2013; the Osmothèque keeps a pre-restriction reference.
 
-## 1944 — *Femme* and the wartime chypre
+## 1944 — Femme and the wartime chypre
 
-The 1940s were, in many ways, the second great period of the chypre. The wartime chypre was, in formulation terms, often a heavier chypre than the pre-war — more oakmoss, more patchouli, more labdanum, sometimes with a touch of a darker note in the base (castoreum, leather, occasionally a touch of a synthetic musk).
+Femme was Rochas's first perfume, launched in 1944 and composed by Edmond Roudnitska while he worked at the raw-materials house De Laire. Marcel Rochas commissioned it as a wedding gift for his wife Nelly Brignole, whom he renamed Hélène. The Fragrance Foundation dates the accord to the Occupation, the launch to the Liberation.
 
-Marcel Rochas launched *Femme* in 1944. *Femme* was, in formulation terms, a chypre with a heavy floral heart (tuberose, jasmine, often with a touch of orange flower) and a complex animalic base. *Femme* was, in the popular telling, named after the women who had, in Rochas's circle, been waiting for their husbands to return from the war. *Femme* was, in our view, also the founding text of a *new* chypre — a chypre that was, in its heavy base, an *argument* about what a chypre could be.
+The material problem was the point. Roudnitska built the scent on a De Laire fruit base called Prunol, a stock material said to read as candied plum, peach and apricot when natural fruit absolutes were unobtainable under rationing. Alcohol was rationed too: the allocation was enough for roughly 500 bottles, sold by subscription in numbered crystal flacons by Marc Lalique to the Duchess of Windsor and Princess Marina.
 
-## 1977 — *Chypre de Coty* and the re-issue problem
+The mass release waited for 1945 and the amphora bottle; wartime scarcity, not marketing, produced the most exclusive launch in French perfumery. The profile is a fruity chypre: a prune-peach lactonic heart with jasmine, rose, ylang-ylang and clove over oakmoss, leather, musk and vanilla, with a cumin accent that reads as warm skin. Femme was reformulated in 1989 by Olivier Cresp at Quest International, and that markedly more cumin-forward version is the one in distribution.
 
-By the 1970s, the chypre was, in many ways, the *default* family for women's fragrance in Europe. *Chypre de Coty* was, in the 1970s, one of the best-selling fragrances in the world. The chypre was, in the popular imagination, what a *serious* fragrance smelled like.
+The same year produced the other founding text. Bandit, launched by Robert Piguet in 1944, was composed by Germaine Cellier — born in Bordeaux in 1909, trained at Roure-Bertrand-Dupont, one of the first prominent women perfumers. She used roughly 1% isobutyl quinoline, an unprecedented overdose, over an oakmoss-patchouli-vetiver base with civet and musk.
 
-The default was, in our view, both a victory and a problem. The victory was that the chypre had, in the public's mind, become the *high end* of perfumery. The problem was that the public had, in many cases, stopped distinguishing between *good* chypres and *bad* chypres. The public had, in many cases, stopped noticing the chypre at all — the chypre was, by the late 1970s, the *furniture* of perfumery.
+## 1986 — the re-issue problem
+
+There is no 1977 re-issue of Chypre de Coty. Searches of French Wikipedia, Fragrantica, auction records and the collector literature turn up nothing; the only 1977 attached to the perfume is the publication year of a Roudnitska book in French Wikipedia's bibliography. The date is repeated in good faith and it is unsupported.
+
+What the record documents is 1986 and the Château Collection — a boxed trio of La Rose Jacqueminot, Chypre and Muse, the last renamed Les Muses, in eau de parfum and eau de toilette. Collectors who have smelled both describe the new Chypre as "totally different": fresher, greener, less animalic. That is the re-issue problem in miniature.
+
+The Osmothèque arrived too late to help. Founded by the Société Française des Parfumeurs, it opened on 26 April 1990 at ISIPCA in Versailles, with Jean Kerléo as first president. The collection grew from about 2,500 fragrances in 2012 to more than 5,000 by 2023. Nothing in it is for sale: the Chypre reconstruction can be smelled only on site.
+
+Coty's own heritage project, led by Dominique Vernaz, has released Ambre Antique; its Chypre de Coty has been reconstructed and reported as produced, awaiting a launch decision. Fragrantica reviewers compared it with the Osmothèque's sample and reported a match — the one documented case of a commercial re-issue benchmarked against a museum. It may still not ship: the 1917 formula depended on unrestricted oakmoss, nitromusks, civet, natural jasmine and rose.
 
 ## 1998 — IFRA and the oakmoss restriction
 
-The International Fragrance Association (IFRA) issued, in 1998, a restriction on the use of oakmoss in commercial perfumery. The restriction was, in IFRA's argument, a response to evidence that oakmoss, at certain concentrations, was a *sensitiser* — a substance that could, with repeated exposure, produce an allergic reaction in a small percentage of wearers.
+The body that gets blamed is IFRA, the International Fragrance Association, founded in 1973 and headquartered in Geneva. It describes itself as "not a regulatory authority" that "does not impose legal obligations", under a voluntary system binding members by contract. Its safety science comes from RIFM, founded in 1966 in New Jersey.
 
-The restriction was, in our view, a sensible regulation. The restriction was, however, also a *category event* for the chypre. The chypre, by definition, contained oakmoss. The chypre, without oakmoss, was, in formulation terms, no longer a chypre. The IFRA restriction forced the perfumery industry to *re-formulate* the chypre — to find alternative mosses, alternative base materials, alternative ways to produce the smell that had, since 1917, been the *signature* of the family.
+The first numerical oakmoss limit arrived in the 1992 Code of Practice: oakmoss and treemoss extracts, separately or combined, must not exceed 0.6% in consumer products, equivalent to 3% in a compound used at 20%. The 1998 amendment cut that to a combined 0.1%. The date in the heading is the second restriction, not the first.
 
-The re-formulation was, in our view, a mixed success. The re-formulation produced, in some cases, chypres that were, in their *feel*, still recognisable as chypres — the structure was preserved, the moss was replaced with a synthetic or a near-synthetic, and the chypre continued to *smell* like a chypre. The re-formulation produced, in other cases, chypres that were, in their feel, *thin* — the structure was preserved, but the moss was so reduced that the chypre had lost its *weight*.
+There were four events, not two. In April 2000 IFRA recommended that oakmoss extracts contain no treemoss at all, over sensitising resin-acid oxidation products. That October the EU's scientific committee, SCCNFP, said "the main allergen(s) in oakmoss/treemoss extracts have not been determined", listing atranorin and evernic acid as suspects. The 43rd Amendment, revised in 2008, capped atranol and chloroatranol by name: 100 ppm in oakmoss extract, with a Category 4 limit of 0.1% in the finished product, from February 2009 for new compounds and February 2011 for existing ones.
 
-The re-formulation was, in our view, the moment the chypre became a *constructed* family in a new sense. The chypre was, after 1998, no longer a family defined by its *materials*. The chypre was, after 1998, a family defined by its *structure* — a structure that could be built, in many ways, from many materials.
+In Europe the limit then became a ban. Commission Regulation (EU) 2017/1410 of 2 August 2017 added atranol (CAS 526-37-4) and chloroatranol (CAS 57074-21-2), alongside HICC, as Annex II entry 1380 — substances prohibited in cosmetics, with a longer-than-usual sell-through because reformulation is hard. The United States has no equivalent ban. Mitsouko, Femme, Bandit, Miss Dior and Chanel N°19 are cited as materially changed.
 
 ## 2010 — the indie chypre revival
 
-The contemporary chypre revival is, in our view, a 2010s phenomenon. The revival was, in part, a response to the thinness of the post-1998 mass-market chypre. The revival was, in part, an indie perfumer's argument — the argument that the chypre, properly constructed, properly weighted, properly mossed, was still a viable family.
+2010 is a useful date and a misleading one. It is the year most houses finished their 43rd-Amendment reformulations, not the year the restriction began; the deadline for existing compounds was 16 February 2011. The revival predates it: Andy Tauer's Une Rose Chyprée appeared in 2009 and Chanel's N°5 Eau Première in 2008.
 
-Hiram Green's *Moth* (2013), BeauFort London's *Fathom V* (2014), and several other indie launches of the period, were, in formulation terms, *re-constructions* of the pre-1998 chypre — with oakmoss at higher concentrations than IFRA would, in most cases, allow, with patchouli at heavier doses, with a base that *announced itself* rather than disappearing.
+The reference modern niche chypre is Chypre Palatin by Parfums MDCI, launched in 2012, composed by Bertrand Duchaufour in a 60 ml eau de parfum. Duchaufour is repeatedly named as having proved the chypre could survive without oakmoss: Timbuktu, from 2004, reportedly realises the structure with no oakmoss at all, and Chypre Palatin used low-atranol moss.
 
-The indie chypre revival was, in our view, also a *marketing* argument — the argument that the chypre could be a *modern* fragrance, not a museum piece. The argument has, in our view, mostly succeeded. The chypre is, in 2026, again, on the shelves of the indie perfumer. The chypre is, in 2026, again, a *category* in the contemporary market.
+The substitute that made this possible is methyl atrarate, sold as *Evernyl* by Givaudan and *Veramoss* by IFF, CAS 4707-47-5: a crystalline, dry-phenolic, inky solid containing no atranol or chloroatranol, and therefore carrying no IFRA restriction. Practice is an accord rather than one replacer — Veramoss, treemoss absolute and patchouli. A chemistry review reports it at a double-digit percentage in Baccarat Rouge 540, from 2015.
 
 ## The chypre today
 
-The chypre is, in 2026, the family that has survived the most. The chypre has survived the IFRA restriction. The chypre has survived the post-1998 re-formulation. The chypre has survived the 2010s market preference for *gourmand* and *clean* fragrances. The chypre has, in 2026, a small but devoted place on the shelves of the contemporary perfumer.
+The family's most visible recent arrival is Hermès's Barénia, launched on 2 September 2024 and billed as the house's first chypre. Christine Nagel composed it in-house after about ten years of development, with butterfly lily, miracle berry, oakwood and patchouli; the bottle by Philippe Mouquet is the first Hermès perfume bottle to include a jewellery element. It costs US$311 for 100 ml.
 
-The chypre is, in 2026, also the family that has, in our view, the most to teach the contemporary perfumer. The chypre teaches that a fragrance can be a *structure*. The chypre teaches that a fragrance can be a *position*. The chypre teaches that a fragrance can be, finally, an *argument* — an argument about what a fragrance is for.
+Coty's revived house, Infiniment Coty, launched Aristo Chypre and Or de Moi in 2024, both marketed explicitly as chypres. The counts remain small: Michael Edwards' Fragrances of the World recorded chypre launches up 0.3% since 2020, in data reported for 2023. And "chypre" is a classification, not a legal category — IFRA regulates materials, not families, and Edwards' system often sells the same structures as "mossy woods".
 
-The chypre is, in our view, also the family that the contemporary market most needs to *rediscover*. The chypre is, in our view, the family that, in a market that has, in the last ten years, been dominated by *vanilla* and by *clean musk*, offers the most *interesting* alternative. The chypre is, in our view, the family that, in a market that has been telling the wearer, for ten years, that the wearer wants *comfort*, offers the most *exciting* alternative.
+The surviving reference chypres are all reformulated: Mitsouko in 2007 and 2013, Femme in 1989 and later, Bandit in 1999 and 2006, plus Ma Griffe, Miss Dior, Chanel N°19 and Aromatics Elixir. The price data settles the usual question. Oakmoss absolute is not precious — one 2026 estimate puts it at €320–580 a kilo, against US$40,000–100,000 for orris butter. Chypre was never expensive. It was legislated out of reach.
 
----
-
-The chypre, in sum, is the most constructed, the most argued, and the most regulated family in modern perfumery. The chypre has survived a hundred years of changes in the market. The chypre has survived a hundred years of changes in the regulation. The chypre is, in 2026, still, in our view, the family that the perfumer, when she wants to make a *statement*, reaches for.
-
-The chypre is, in our view, also the family that the wearer, when she wants to wear a *statement*, reaches for. The statement is, in our view, the statement that the wearer is, finally, willing to be *complicated*. The complication is, in our view, the work. The work is what the chypre is for.
+What remains is heritage reissues and niche: Guerlain keeps Mitsouko in Les Légendaires at US$160 for 75 ml, MDCI keeps Chypre Palatin in production, and Coty is still deciding whether to launch its reconstruction. The archive outlived the product. In Versailles the museum sample cannot be sold; in the Coty files the remake waits for a signature. The family was not abandoned. It was removed.
