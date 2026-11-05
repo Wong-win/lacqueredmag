@@ -1,70 +1,84 @@
 ---
-title: "Five People We Want to Interview This Year"
+title: "Five People We Want to Interview, and the Holes in the Record"
 date: 2026-10-18
 slug: "interviews-we-want"
 image: "https://images.unsplash.com/photo-1778434505577-28b8e26384f2?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A delicate white peony resting in a crystal vase against a soft neutral background."
-imageCaption: "A peony in the studio of a perfumer we have long wanted to interview."
+imageCaption: "A single white peony in a cut-crystal vase, photographed against a plain wall in diffused daylight."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
-excerpt: "Five people we want to interview this year — and the five hundred words we want to ask each of them. A dispatch from the editorial desk."
+excerpt: "Five interviews the magazine wants, and the unanswered question behind each: who formulated it, who is credited, and what the archive cannot show."
 author: "Lacquered Editorial"
 kicker: "DISPATCH"
-dek: "Five people we want to interview this year — and the questions we want to ask each of them. A dispatch from the editorial desk."
+dek: "The claims repeated most confidently in beauty — a third generation, a first ever, an invented job — are the ones the sources support least."
 ---
 
-The interview is, in our view, the slowest form of beauty journalism. The interview is, in our view, also the form most resistant to the modern market's pressure to *deliver*. The interview is, in our view, finally, the form the modern market most wants to replace with the *summary* — and the summary, in our view, is mostly the press release rewritten, and the press release rewritten is, in our view, not the interview.
+One hectare of *Rosa centifolia* at Grasse yields two to three tonnes of fresh petals in a season, and those petals yield a few kilograms of absolute. The arithmetic is old and unforgiving, and it explains why the town, seventeen kilometres north-west of Cannes and home to about fifty thousand people, has been the technical centre of natural extraction since the seventeenth century.
 
-The interview is, in our view, also the form the modern beauty press most often confuses with the *profile*. The profile is, in our view, mostly flattering. The profile is, in our view, mostly written in cooperation with the subject. The profile is, in our view, finally, mostly a piece of marketing in editorial clothing. The interview is, in our view, the opposite of the profile. The interview is, in our view, mostly unflattering. The interview is, in our view, mostly *against* the subject's marketing.
+The trade grew out of glove-making; a glove-perfumers' guild was established in 1614. UNESCO inscribed the *savoir-faire lié au parfum en Pays de Grasse* in November 2018, covering cultivation, raw-material manufacture and fine-fragrance composition.
 
-The interviews, in the dispatch below, are the five we have, in the last six months, been trying to set up. The five are, in our view, the five most useful to the magazine. The five are, in our view, also the five most likely to be difficult to schedule. The difficulty is, in our view, finally, the point. The interview is, in our view, the form most worth doing slowly.
+An interview list is normally a wish list. This one is a set of unanswered questions, and each name below is attached to a record with a hole in it. Where a subject tells their own story, the account is confident and thin; where an institution publishes, the numbers are duller and more reliable. The claims repeated most often — third generation, first ever, invented the job — are the ones the record supports least.
 
----
+## One — a formulator from a Grasse family
 
-### One — a third-generation formulator, Grasse
+Jean-Claude Ellena was born in Grasse on 7 April 1947 and started at sixteen as an apprentice at the Antoine Chiris essential-oil factory, working nights. He has said he chose the house because his father had worked there. The work was distilling oakmoss; his recollection is of lying down afterwards on a bed of it to sleep.
 
-We want to interview a third-generation formulator in Grasse. The formulator is, in our view, the most useful interview subject in modern beauty. The formulator is, in our view, the person who has the longest view of the trade — the person who has, in most cases, seen what the industry has done to itself, in the last forty years, from the inside.
+The family is documented as a trade. His grandmother gathered jasmine as a child to sell to perfumers. His father was a perfumer and gave him Edmond Roudnitska's essay "Advice to a Young Perfumer". His brother Bernard went into perfumery at Cartier from 1983, and his daughter Céline is a perfumer who created Hermès home fragrances between 2010 and 2015.
 
-The questions we want to ask begin with the *raw materials*. Where are the jasmines coming from now? Where are the roses coming from? Where is the oakmoss coming from? Where is the vetiver coming from? The questions continue with the *labour*. Who, in the lab, is making the formula? Who, in the lab, is teaching the apprentice? Who, in the lab, has been there for thirty years, and who, in the lab, has been there for thirty months? The questions end with the *price*. What does a kilo of jasmine cost now, compared to what it cost in 1990? What does a kilo of oakmoss cost, compared to what it cost in 1990? The price is, in our view, the answer to the most useful question in perfumery — what is the trade worth, and what is the trade willing to pay for itself.
+Applied to Ellena, the phrase needs a perfumer grandfather, and the record supplies none: his grandmother picked jasmine, and no source places his grandfather in the trade. Three perfumers are named — his father, himself, his daughter Céline — but the perfumer line starts a generation later. "Third generation" describes a family in the trade; as a claim about the man, it is marketing with the date filed off.
 
----
+The professional route is longer than the family story suggests: ten to fifteen years from academic study to a major commercial release, in three stages. Entrants begin in sensory evaluation at Givaudan, dsm-firmenich, IFF or Symrise, building material memory against briefs, and are eventually expected to identify two to three thousand raw materials by scent alone.
 
-### Two — a fragrance archivist at a museum
+ISIPCA, founded in Versailles in 1970 by Jean-Jacques Guerlain, runs two to three years by track. The Grasse Institute of Perfumery, established in 2002, runs its own programme. Givaudan's house school, founded in 1946 by Jean Carles at Argenteuil, reportedly admits fewer than one applicant in three thousand. Who still gets through those doors, and from where, is the question.
 
-We want to interview the fragrance archivist at a museum. The museum is, in our view, the most under-photographed role in the beauty trade. The archivist is, in our view, the person who has, in most cases, spent decades with the formulas that the brand, for its own reasons, would rather it did not have to look at. The archivist is, in our view, the person who has, in most cases, seen the launches the brand has, in its own quarterly report, decided to forget.
+## Two — a fragrance archivist at a museum
 
-The questions we want to ask begin with the *collection*. How big is the collection? How is the collection organised? How much of the collection is, in any meaningful sense, *accessible* to the researcher? The questions continue with the *discarded*. Which formulas, in the history of the house, were discarded for *commercial* reasons? Which were discarded for *technical* reasons? Which were discarded for *political* reasons — the political reason being, in our view, the reason the house would, in its own press, most like to suppress. The questions end with the *reissue*. Which of the discarded formulas would the house, if it could, most like to *reissue*? The reissue is, in our view, the answer to the most useful question in archiving — what does the house, in private, think it has lost?
+The Osmothèque calls itself the Conservatoire International des Parfums. Its founding agreement was signed on 13 October 1988 by the Société Française des Parfumeurs; it opened on 26 April 1990 on the ISIPCA campus at Versailles. Jean Kerléo, in-house perfumer at Jean Patou, proposed the archive in 1976, founded it with Jean-Claude Ellena and Guy Robert, and led it unpaid until 2008.
 
----
+The staff are volunteer perfumers called *osmocurators*. They reconstruct discontinued scents from original written formulas, sourcing every listed raw material and finding verifiable substitutes where a material no longer exists, and working by trial and error until the scent matches. The reconstructions are reference objects, neither sold nor distributed.
 
-### Three — a dermatologist who teaches
+Storage is strict: light-controlled rooms held well below ambient temperature, with argon or nitrogen introduced after sampling to displace oxygen. Perfume degrades through heat, light and oxygen, so every visit costs the object something. The archive opened with 400 perfumes and now holds several thousand, a substantial share rebuilt from discontinued originals.
 
-We want to interview a dermatologist who teaches. The teaching dermatologist is, in our view, the dermatologist most worth listening to. The teaching dermatologist is, in our view, the person who has, in most cases, spent years with students — the students who will, in five years, be the dermatologists the consumer is paying to see. The teaching dermatologist is, in our view, also the dermatologist most likely to tell the truth about what the dermatology curriculum is, in 2026, actually teaching.
+No single citable current count exists — figures of 1,600, 3,000 and 4,000 circulate with different years attached — so "several thousand" is the honest number. Public access runs through ticketed, reservation-only olfactory conferences, generally monthly, two to three hours long. The record here is not thin so much as unnumbered.
 
-The questions we want to ask begin with the *curriculum*. What does the dermatology school, in 2026, teach about the *active ingredients* — the retinoids, the peptides, the antioxidants, the SPF? What does the dermatology school, in 2026, teach about the *cosmetic*? What does the dermatology school, in 2026, teach about the *consumer* — the consumer who, in most cases, has been, in our view, most aggressively mis-served by the modern cosmetic industry? The questions continue with the *industry*. What does the dermatology school, in 2026, teach about the *brand*? The questions end with the *patient*. What does the dermatology school, in 2026, teach about the *patient* — the patient who, in our view, in 2026, is most often a *consumer* who has been told, by the brand, that she has a skin condition?
+## Three — a dermatologist who teaches
 
----
+Susan C. Taylor holds the Bernett Johnson Endowed Professorship of Dermatology at the Perelman School of Medicine, University of Pennsylvania, and was president of the American Academy of Dermatology for 2025. She founded the Skin of Color Society and wrote five books, including Taylor and Kelly's Dermatology for Skin of Color. In 2022 the AAD gave her its inaugural John Kenney Jr. Lifetime Achievement Award and Lectureship.
 
-### Four — a Vogue-era makeup artist
+Her curriculum is the measurable part. The AAD's Skin of Color Curriculum launched in 2022 with 60 modules and 15 AMA PRA Category 1 Credits. By the Academy's 2024 Impact report, 3,608 learners had completed 65,328 modules between them, 4,647 were still working through the course, and 597 had finished all sixty. Reach was never the bottleneck; completion is.
 
-We want to interview a Vogue-era makeup artist. The Vogue-era makeup artist is, in our view, the makeup artist most worth listening to. The Vogue-era makeup artist is, in our view, the person who has, in most cases, spent decades with the magazine — the magazine that, for most of the twentieth century, was the magazine that decided what *makeup* looked like. The Vogue-era makeup artist is, in our view, also the makeup artist most likely to remember what the magazine, in private, actually believed about makeup.
+The teaching material has a representation problem, and it has been counted. Adelekun, Onyekaba and Lipoff examined six widely used textbooks in 2020. Of 120 combined images of atopic dermatitis, 17 per cent showed dark skin. Only half of the six textbooks contained any dark-skinned image of acne vulgaris, a core curriculum condition.
 
-The questions we want to ask begin with the *photograph*. What does the photograph, in the magazine, actually *show*? What does the photograph, in the magazine, actually *hide*? The questions continue with the *face*. What does the face, in the photograph, actually look like — before the makeup, after the makeup, after the retouching? The questions end with the *consumer*. What does the consumer, in the magazine, actually *believe* about the face? The belief is, in our view, the answer to the most useful question in makeup — what has the magazine, in its hundred years, been teaching the consumer to *want*?
+That matters clinically, because dermatology diagnosis runs on visual pattern recognition. A trainee whose atlas omits dark skin is trained on a non-representative sample of the patients they will see. The interview question is exact: is completion of the skin-of-colour curriculum required in any residency programme, and how many teaching hours do programmes actually give it? The AAD describes a resource, not a mandate.
 
----
+## Four — a Vogue-era makeup artist
 
-### Five — a Korean beauty R&D director
+Serge Lutens is the earliest named artist in this record to hold a magazine post. French Vogue hired him in 1962 to create makeup, hair and jewellery, and he stayed through the 1960s. In a retrospective interview with System, he said: "What I did hadn't existed as a profession, neither had in-house make-up artists… I invented it."
 
-We want to interview a Korean beauty R&D director. The R&D director is, in our view, the most under-reported figure in the modern beauty trade. The R&D director is, in our view, the person who, in 2026, is doing the most interesting work in formulation. The R&D director is, in our view, the person who has, in most cases, been trained in a different *system* than the Western formulator — a system that, in our view, the Western market has been, in the last twenty years, most reluctant to engage with on its own terms.
+The claim is his own account, given to a magazine, with no independent corroboration in the sources available. Dior commissioned him in 1967 to create a makeup line; his first creation was a series of shiny transparent lipsticks, which he describes as revolutionary in colour and texture. The date is documented. The invention is testimony.
 
-The questions we want to ask begin with the *system*. What does the Korean R&D system, in 2026, *value* that the Western R&D system, in 2026, does not? The questions continue with the *consumer*. What does the Korean consumer, in 2026, actually want from a cosmetic? What does the Korean consumer, in 2026, actually believe about the cosmetic? The questions end with the *future*. What does the Korean R&D director, in 2026, see coming — the formulation, the launch, the technology — that the Western R&D director, in 2026, is most likely to miss?
+Way Bandy is the 1970s reference. Born Ronald Duane Wright in 1941, he worked for Vogue and Harper's Bazaar with Richard Avedon and Irving Penn, moved to New York in 1965, and published Designing Your Face in 1977. AnOther's profile places him before Aucoin, Nars and Bobbi Brown: "there was only one name."
 
----
+Kevyn Aucoin moved to New York in 1982; his first Vogue cover came in 1986, with Cindy Crawford, after the magazine approached him. His special CFDA award is dated 1994 by AnOther and 1995 by Newsweek. Both agree it was the first given to a makeup artist and that he remained the only recipient.
 
-The five interviews, in sum, are the five the magazine would most like to publish this year. The five are, in our view, also the five the modern beauty press is, in 2026, most reluctant to publish. The reluctance is, in our view, mostly a matter of *time*. The interview is, in our view, the form that takes the longest.
+Pat McGrath is the only person here with a masthead job: British Vogue named her beauty editor-at-large in 2017, under Edward Enninful. She arrived by an art foundation course, then i-D and The Face in the early 1990s, then Procter & Gamble from 2004. Her biography claims over 60 shows a season and every Italian Vogue cover for twenty years. She was made a DBE in 2021.
 
-The interview is, in our view, also the form that, in the end, the consumer most respects. The respecting is, in our view, finally, the work. The interview is, in our view, also the form most worth defending in the modern beauty press. The defending is, in our view, mostly a matter of *patience*. The patience is, in our view, mostly a matter of the *editor*. The editor is, in our view, finally, the person the interview, in the modern press, most needs. The need is, in our view, finally, the work. The work is, in our view, finally, what the interview is for.
+The 1930s baseline is an absence. No Vogue credit line naming a makeup artist in that decade turned up, and the documented studio model is a Hollywood department craft rather than a magazine byline. So the "first ever" claims are made against a record with no starting point. Lutens may be right; nobody can currently prove the negative.
 
-The interview is, in our view, also the form the modern press most often mistakes for the *podcast*. The podcast is, in our view, mostly a conversation. The interview is, in our view, mostly an edited conversation. The editing is, in our view, the part the modern press most often refuses to do — and the refusal is, in our view, the part the modern consumer most often regrets. The regret is, in our view, finally, the loss. The loss is, in our view, finally, the consumer's.
+## Five — a Korean beauty R&D director
 
-The interview is, in our view, finally, the form most worth doing slowly, with the right subject, in the right room, with the right questions, and with the right amount of time to let the subject say the thing she did not, at first, intend to say. The thing is, in our view, finally, the work. The work is, in our view, finally, what the interview is for.
+South Korea exported USD 11.4 billion of cosmetics in 2025, up 11.8 per cent, according to the Ministry of Food and Drug Safety. That makes it the world's second-largest exporter behind France at USD 24.3 billion and ahead of the United States at USD 10.8 billion. Imports were USD 1.29 billion; the trade surplus passed USD 10 billion for the first time.
+
+The United States became the top market at USD 2.2 billion, overtaking China at USD 2.0 billion, with Japan third at USD 1.1 billion across 202 destinations. Skincare was USD 8.53 billion, or 74.7 per cent of exports; colour cosmetics USD 1.51 billion, or 13.2 per cent. The R&D director's brief is overwhelmingly skincare.
+
+Amorepacific's cosmetics R&D output rose to 50 projects last year from 34, with 20 in the first quarter alone, spanning AI skin analysis, beauty devices and high-potency ingredients including vitamin C, retinol and PDRN. LG Household & Health Care spent 3.7 per cent of sales on R&D, up from 3.4 per cent in 2024, even as sales fell 6.7 per cent.
+
+LG's disclosed assets are a skin-gene database of 60,000 Asians, hair-gene data on 60,000 people, 528 patents and 148 clinical data sets. Its chief technology officer, Kang Nae-kyu, has a PhD in chemistry from the University of Hull and joined the company's Research & Innovation Institute in 2015. He became an executive vice-president in November 2024.
+
+The cushion compact is the most-cited piece of Korean R&D intellectual property. Choi Kyung-ho led Amorepacific's Makeup Research 2 Team when the IOPE Air Cushion launched in 2008, and now heads its Cushion Laboratory. The formula sits in polyurethane foam so that it does not flow, a system inspired by a parking-ticket stamp pad, with 177 patent applications and 26 granted patents recorded by October 2016.
+
+What the filings do not disclose is the split between in-house formulation and work bought from an ODM such as Cosmax or Kolmar Korea. Project counts, patent totals and gene-database sizes are published; product-level attribution is not. That gap is the interview.
+
+Read together, the five questions are one question about provenance: who made the thing, and who is credited. The Osmothèque's reconstructions are authorship recovered from a formula; the textbook image is authorship of a syllabus; the Vogue byline is authorship of a look; the cushion patent is authorship of a mechanism. Each subject holds a record that stops where credit begins.
+
+These are the five because each can say where the record ends, a rarer qualification than a title. Lutens's "invented it" was said to System; no equivalent citation has turned up for the Grasse label; the Aucoin "first" already carries two dates. The claim and the archive are not the same thing, and the gap between them is where the interview begins.
