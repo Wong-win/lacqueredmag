@@ -1,138 +1,86 @@
 ---
-title: "The Unisex Question: Six Voices on Gender in Fragrance"
+title: "The Unisex Question: Six Positions on Gender in Fragrance"
 date: 2026-10-17
 slug: "gender-in-fragrance-six"
 image: "https://images.unsplash.com/photo-1523293182086-7651a899d37f?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A single perfume bottle photographed in three-quarter view against a pale background"
-imageCaption: "A single bottle, photographed in three-quarter view."
+imageCaption: "A single glass bottle in three-quarter view on a pale surface, one hard highlight along the shoulder and a soft shadow falling to the right."
 categories: ["Fragrance"]
 categorySlugs: ["fragrance"]
-excerpt: "Six voices — one perfumer, one critic, one editor, one brand founder, one nose, and one chemist — on whether gender matters in fragrance."
+excerpt: "The juice was always neutral; the shelf never was. Six positions on how fragrance got a gender, from Fougère Royale to the 51% of launches that no longer declare one."
 author: "Lacquered Editorial"
 kicker: "ESSAY"
-dek: "Six voices on the question of gender in fragrance. The answers, when they come, do not converge."
+dek: "A reported essay on the commercial machinery behind the men's and women's counter, and why the trade still cannot agree on whether the categories exist."
 ---
 
-The question of gender in fragrance is, in 2026, the most contested question in the industry. The question has, in the last thirty years, shifted from *should fragrance be gendered?* to *is fragrance gendered?* to *can fragrance be un-gendered?*. The shift has, in our view, been productive. The shift has also, in our view, produced more heat than light.
+On 19 June 1937 Shulton put Early American Old Spice on sale and advertised it to women. The men's line followed in 1937 or 1938 depending on the source, in the white buoy-shaped bottle with the nautical imagery. The order of events is not in dispute even where the date is: a scent was made for one sex, then sold to the other.
 
-We asked six voices — one perfumer, one critic, one fragrance editor, one brand founder, one nose, and one chemist — to tell us whether gender, in 2026, still mattered in fragrance. The answers did not converge. The answers, in fact, took positions that are, in some cases, mutually exclusive.
+Fougère Royale had already done the same thing more slowly. Houbigant's Paul Parquet made it for women in 1882, dandies adopted it, and by the 1930s the advertising had reversed the thing outright — "Laissez les parfums de fleurs aux dames," leave the flower perfumes to the ladies, printed beside tuxedoed men with cigars.
 
-What follows is a transcription of those conversations, edited for length and ordered by clinical convention rather than chronology.
+Categories, in other words, are assigned. The lavender, geranium, oakmoss and coumarin accord of that 1882 scent became the template for the entire men's fougère family, a strange outcome for a perfume launched for women and an instructive one. What follows is not six interviews but six positions, argued from the record, about who assigns and who pays.
 
----
+## 1. The brief writes the gender
 
-## 1. Bertrand Duchesne — Perfumer, Grasse
+A modern fragrance brief is a written specification. Its brand and consumer profile block lists target gender alongside age, lifestyle, geographic market and price positioning, so the decision is taken before anyone opens a bottle. The gender is in the document. It is not in the materials.
 
-**Does gender matter in fragrance?**
+The trade's favourite illustration is Chanel N°5, 1921, where Coco Chanel is said to have asked Ernest Beaux for a woman's perfume that smells like a woman — an instruction loose enough to permit aldehydes with no precedent in feminine perfumery. That quotation is repeated everywhere and documented nowhere. Treat it as lore, and note that the lore is about a brief.
 
-In materials — no. The molecules I work with do not have a gender. The bergamot does not have a gender. The oud does not have a gender. The sandalwood does not have a gender. The molecules are, in formulation terms, *neutral*.
+The law is less romantic. No EU rule classifies a fragrance as men's or women's; Regulation (EC) 1223/2009 governs ingredients and labelling, not categories. Brands and retailers apply the classification, which is why it can be withdrawn without anyone rewriting a formula. Jean-Claude Ellena, Hermès's in-house perfumer for years, rejects the division and insisted Voyage be sold as unisex.
 
-In *marketing* — yes, heavily. The marketing has been the most aggressively gendered category in the cosmetics industry — *pink and blue*, *floral and woody*, *light and heavy*. The marketing is, in most cases, an attempt to sell the same molecule to two different customers at two different prices.
+## 2. The chemistry has no gender
 
-The marketing is, in my view, mostly a mistake — it has produced a generation of *gendered* fragrances that have, in many cases, lost the *fragrance* in the *gender*. The marketing is also, finally, breaking down. The breaking-down has, in the last ten years, accelerated.
+Hedione is the cleanest demonstration. Édouard Demole synthesised methyl dihydrojasmonate at Firmenich and patented it in 1962, naming it from the Greek hedone, pleasure. A transparent jasmine material, it appears in compositions on both sides of the shop, and nobody has proposed a sex for it.
 
-**What do you make of the un-gendered launches of the last decade?**
+Its breakthrough came at high dose, reported at roughly 2–2.5%, in Dior Eau Sauvage — Edmond Roudnitska's men's cologne of 1966. A floral material at the heart of a masculine, and the result became the template for the fresh men's scent. The men's shelf was built on a molecule indifferent to it.
 
-The un-gendered launch is, in some cases, supported by a fragrance that is, in formulation terms, genuinely un-gendered — a fragrance built around molecules that are not specifically masculine or feminine. In other cases, it is *only* a marketing gesture — a *women's* fragrance sold, with new packaging, as a *unisex* fragrance.
+The biology is thinner than the merchandising implies. Oliveira-Pinto and colleagues, in PLoS ONE in November 2014, counted cells in post-mortem olfactory bulbs from 18 people: 11 women, 7 men, aged 55 to 94. Women had 16.2 million total cells against 9.2 million, up 43.2%, with no significant difference in bulb weight. The authors said function was "difficult to infer" without the synaptic circuits.
 
-The genuine un-gendered fragrance is, in my view, one of the most interesting developments in the contemporary market. The gesture-only un-gendered fragrance is, in my view, one of the most cynical.
+Sorokowski's meta-analysis, in Frontiers in Psychology in February 2019, pooled 13,670 people on the Sniffin' Sticks test. Women outperformed men on threshold, discrimination and identification, with effect sizes of g = 0.08 to 0.30 — real at population level, weak in size, swamped by variance within each sex. There is no landmark 2015 Monell study; the work behind that date is Dalton, Breslin and Wysocki, in Nature Neuroscience in 2002 and Chemical Senses in 2005.
 
----
+Regulation has reshaped the women's shelf more than any argument. Lilial, the lily-of-the-valley aldehyde, was banned in EU cosmetics from 1 March 2022 under Regulation (EU) 2021/1902; Lyral went in 2021 and oakmoss was restricted in 2008. Regulation (EU) 2023/1545 raised declarable allergens from 26 to 81, at 0.001% leave-on and 0.01% rinse-off, placing on market from 31 July 2026 with sell-through to 31 July 2028. The accords hit hardest are the florals and muguet that once signalled "feminine."
 
-## 2. Dr. Sofia Ricci — Cosmetic chemist, Milan
+## 3. Japan sorted scent by context
 
-**Does gender matter in fragrance?**
+Japan's fine-fragrance market was ¥57.5 billion in 2024, up 15%, inside a cosmetics market of ¥3.2 trillion. That is about 1.6% of beauty sales in the world's third-largest beauty market, and two years of double-digit growth have barely moved the ratio.
 
-In *skin chemistry* — yes, materially. The skin of the wearer is the most important variable in how a fragrance smells. The skin chemistry varies by hormone, by hormone cycle, by age, by diet, and also, on average, by sex — the sebum level, the skin's pH, the microbiome composition. The higher sebum *fixes* a fragrance more, in men, on average, than in women.
+Usage is the striking number. A MyVoice survey of more than 11,000 people found about 14% had worn perfume in the past year; counting body mists and hair fragrance, under 30% had used anything scented. Women account for roughly 80% of the market, men about 20% — a split far more lopsided than in France or the United States.
 
-The chemistry does not, in most cases, produce a *gendered* fragrance. It produces, in most cases, a *skin-specific* fragrance — one that smells, on the wearer, the way the wearer is. The skin-specificity is, in most cases, more variable *within* a sex than *between* sexes.
+The heritage is real, and not perfumery. Incense arrived with Buddhism in the sixth century and became *kōdō*, the way of incense, by the 15th, in which practitioners listen to scent rather than wear it. What the modern market inherited is a language of consideration: *kōgai*, fragrance pollution, and *sumeharā*, smell harassment, coined in the mid-2010s. A Planet survey found 63% of men and 78% of women bothered by other people's scent.
 
-**What is the industry's mistake?**
+By 2016 the Japanese deodorant and unscented market was worth about ¥480 billion against roughly ¥370 billion for fragrance, so more money went on preventing smell than wearing it. None of that is organised by gender. Scent is sorted by clean against perfumed, work against off-duty — an interpretation consistent with the data, not a finding any single source states.
 
-The industry's mistake is to assume that the gendered fragrance has, in formulation terms, a gendered chemistry — that the *men's* fragrance contains a *masculine* molecule that the *women's* fragrance does not. The molecules are the molecules. The molecules are not gendered.
+## 4. The market built a wardrobe
 
-The mistake is, in our view, mostly a marketing mistake. The marketing mistake has, in some cases, produced *gendered* chemistry — the perfumer, asked to make a *women's* fragrance, has, in some cases, *added* a molecule she associates with femininity, even when the molecule has no inherent gender.
+The wardrobe took shape between 1882 and 1966. Fougère Royale came first, then Caron's Pour un Homme in 1934 — Ernest Daltroff's scent, widely cited as the first named and advertised explicitly for a man, where the name did the work rather than the formula. Chanel Pour Monsieur followed in 1955 under Henri Robert, Dior Eau Sauvage in 1966.
 
----
+CK One arrived in October 1994, by Alberto Morillas and Harry Fremont, the first fragrance openly marketed as unisex to reach a wide American audience. It sold more than $5 million in its first ten days and about $90 million a year at its mid-1990s peak. Calvin Klein relaunched it in August 2024 as CK One Essence, twice the concentration.
 
-## 3. Yuki Tanaka — Fragrance writer, Tokyo
+Launches moved before the shelves did. Mintel put gender-neutral launches at 17% of the global market in 2010 and 51% by 2018 — the pipeline crossed over while the counter stayed put. The counter sells a wardrobe, and the wardrobe runs on flankers: NPD data had them rising from 2% of the US department-store fragrance market in 2001 to an estimated 8% in 2004, about $200 million at retail.
 
-**Does gender matter in fragrance?**
+Inter Parfums' annual filings describe the strategy without embarrassment: each new pillar is planned from the outset to generate extensions, a fragrance family tree. By 2014 a women's prestige line averaged five variants, each spawning limited editions. The split is not a fact about noses but a licence to sell one idea repeatedly.
 
-In Japan — much less than in the West. The Japanese fragrance market has a much weaker attachment to gender. The Japanese customer is much more likely to choose a fragrance on the basis of *smell* than on the basis of *gender*.
+The colour coding is younger than the wardrobe and was once the other way round. A June 1918 Earnshaw's Infants' Department article stated "pink for the boys, and blue for the girls"; a 1927 Time chart found department stores contradicting one another, with Filene's, Best & Co., Halle's and Marshall Field still recommending pink for boys. The convention standardised only in the 1940s.
 
-The Japanese preference for *gender-light* fragrance is, in my view, partly a result of the smaller size of the Japanese market — a *protection* from the Western industry's gendered marketing that has, in some cases, produced a different kind of customer.
+## 5. Florence sold scent as pharmacy
 
-**What is the Japanese practice?**
+Officina Profumo-Farmaceutica di Santa Maria Novella traces itself to 1221, when twelve Dominican friars established a *Hortus Conclusus* for the convent infirmary in Florence. Scent began there as pharmacy, not fashion. The first documented sale of aromatic production is 1381 — *acque profumate* including Acqua di Rose, distilled from Rosa damascena and used medicinally and to disinfect rooms during plague.
 
-The Japanese practice, in 2026, is to wear a single fragrance for a long time. The Japanese customer is, by Western standards, exceptionally patient, exceptionally tolerant of a fragrance that *closes* to the skin, and exceptionally likely to choose a fragrance on the basis of *season* and *occasion* rather than on the basis of *gender*.
+Caterina de' Medici left Florence in 1533 to marry the future Henri II with the perfumer Renato Bianco in her entourage; the fragrance attached to the event, Acqua della Regina, is still in production and is one of the origin stories of eau de cologne. The institution became a public pharmacy on 15 October 1612, was secularised in 1871, and was bought by Italmobiliare in 2021.
 
-The Japanese practice is, in my view, the practice that the Western industry could most usefully *learn from*. The learning is, in my view, slow.
+Six centuries of selling scent as remedy and hygiene produced no men's aisle and no women's aisle. The gendered shelf is a 20th-century department-store import, not a Mediterranean inheritance. Acqua di Parma Colonia, 1916, was intended by Baron Carlo Magnani to perfume men's pocket squares, and the company still states no gender for the classic composition.
 
----
+## 6. The trade cannot agree
 
-## 4. Anouk Lévêque — Brand founder, Paris
+The US Fragrance Foundation's FiFi Awards in 2024 still splits its top prizes into Women's Luxury, Women's Prestige, Men's Luxury, Men's Prestige, Universal Luxury and Universal Prestige. Winners included Valentino Born in Roma Donna, Armani Acqua di Giò Parfum, Tom Ford Vanilla Sex and Hermès Un Jardin à Cythère — one per shelf, plus two for the shelf that claims not to be one.
 
-**Does gender matter in fragrance?**
+The UK Fragrance Foundation Awards, held at The Brewery in London on 9 May 2024, has no gender categories at all. Its list runs Best New Fragrance, Independent Fragrance, Perfume Extraordinaire, Design & Packaging, Interior Fragrance, Media Campaign, Retailer, Ultimate Launch. Same trade, same year, opposite answers to whether the category exists. That disagreement is the story.
 
-For my brand — no. For my customer — increasingly, no. For the industry — still, mostly, yes.
+Retail has split the same way. Selfridges ran Agender in 2015, a gender-neutral pop-up that put perfume beside shaving products and stripped gendered merchandising from the floors; its refurbished Fragrance Hall groups niche lines as established, contemporary and emerging. Harrods has run the Salon de Parfums since 2014, organised by house and tier. Most mass channels still merchandise by sex.
 
-My brand has been *gender-less* since launch. The brand does not declare a gender on its packaging, does not target a gender in its marketing, does not optimise for a gender in its formulations. The brand has, in eight years, found a customer that has, in many cases, been the customer who was *tired* of the industry's gendering.
-
-**What is the industry's mistake?**
-
-The industry's mistake is the assumption that gender is a *useful* variable for the customer. The customer, in 2026, is much more sophisticated about gender than the industry gives her credit for. The customer is much more interested in *smell* than in *gender*. The industry is still selling to a customer that, mostly, does not exist.
-
-**What do you make of the un-gendered launches of the last decade?**
-
-The un-gendered launch is, in my view, the right move for the wrong reason. The right reason is that gender is a less useful variable than the industry thinks. The wrong reason is that gender is a *marketing* variable the launch can use to position itself as *progressive*. The progressive positioning is, in my view, a *positioning*, not a *practice*.
-
----
-
-## 5. Marco Conti — Independent nose, Florence
-
-**Does gender matter in fragrance?**
-
-In my personal practice — less and less. I have become increasingly unwilling to *make* a fragrance that is, in formulation terms, gendered. I have become increasingly interested in *un-gendered* formulations — fragrances that are, in their materials, neither specifically masculine nor specifically feminine.
-
-The un-gendered formulation is, in my experience, harder than the gendered one. It requires a *more disciplined* approach to the materials — a discipline often missing from the gendered formulation, which can hide behind a *gender* by using a molecule that is, in itself, masculine or feminine, to *carry* the rest of the structure.
-
-**What is the industry's mistake?**
-
-The industry's mistake is the *fougère* — the family that has been, for a hundred years, the masculine default: lavender, oakmoss, coumarin, often with a touch of a synthetic musk. The fougère has, in the industry's mind, become *the* masculine structure, the structure that *cannot* be worn by a woman.
-
-The fougère can, in fact, be worn by a woman — and has been worn by women for a hundred years. They have just, in most cases, not been told. The industry's mistake is, in my view, the *telling*.
-
----
-
-## 6. Anya Brennan — Beauty editor (retired), London
-
-**Does gender matter in fragrance?**
-
-For the customer — yes. For the chemistry — no. For the *writing* — complicated.
-
-The customer, in 2026, still, mostly, wants to be told what *kind* of fragrance to wear. The customer is still, mostly, choosing between *for him* and *for her*. The choosing is, in many cases, less about the fragrance than about the *permission* — looking for a fragrance that *gives her permission* to wear it. The permission is, in many cases, the gendered marketing. The permission is, in many cases, what the customer is buying.
-
-**What is the writer's question?**
-
-The writer's question is whether to *write* about gender. The writer can, in my view, write about a fragrance without mentioning its gender. The writer can also write about a fragrance that is, in its marketing, gendered, without *endorsing* the marketing. The endorsement is the choice.
-
-**What do you make of the un-gendered launches?**
-
-The un-gendered launches of the last decade have been mostly a *marketing* answer to a *cultural* question — *is gender useful?* The cultural question is, in my view, more interesting than the marketing answer. The position is, in my view, mostly correct. The position is, in my view, mostly insufficient.
-
----
+A 2013 ethnographic study of Swedish department-store perfume halls, in Culture Unbound, found producers saying they need not label scents by gender because experienced customers "will know it anyway" from the notes. Unisex scents were shelved on both sides and shoppers still read them as male or female; male shoppers rarely considered crossing to the women's side.
 
 ## What we take from this
 
-Six voices, six positions. The positions, taken together, are more interesting than any one of them alone. What emerges, across the six answers, is a single principle: *marketing is gendered, materials are not*.
+Circana put men's fragrance at about one-third of the US prestige business in 2024, growing faster than the category — up 11% in dollars and 10% in units, roughly twice the rate of women's. The gift calendar is a structural reason the binary survives: in NPD data reported in 2007, women bought more than half of all cologne as gifts.
 
-The marketing is, in most cases, gendered. The materials are not. The chemistry is not. The skin is not. The customer is, in most cases, more sophisticated about gender than the industry gives her credit for.
-
-The customer's question, in 2026, is not, in our view, *is this fragrance for me?* It is *do I want to wear this fragrance?* The second question is, in our view, the right question. It is also the question the industry's gendered marketing has, for forty years, been trying to make unnecessary.
-
-The *un-gendered* marketing has, in the last ten years, been trying to answer this question *in place of* the customer. The un-gendered marketing has, in our view, mostly *failed* — because it has, in most cases, been a *positioning*, not a *practice*. The practice is, in our view, what the customer is asking for.
-
-The practice is also what the *wearer* is asking for. The wearer is the customer who has stopped looking for permission — who wears what she wears because she has decided to wear it. The wearer is, in the most literal sense, the customer who has *un-gendered herself*.
-
-The wearer is, in 2026, the customer the industry is, finally, trying to make. The making is slow. The making is the work. The work is, in our view, what the gender question is, finally, for.
+The juice was always neutral; the shelf never was. Launches went unisex — 51% of them by 2018 — while packaging, floors, award categories and the gift calendar did not, and the premium end got the neutral shelf while mass kept the binary. "For everyone" is less an ideology than a price point — which is why the trade can keep disagreeing while selling both.
