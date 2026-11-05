@@ -330,6 +330,31 @@ function lint(file, vocab, outlines) {
     }
   }
 
+  // 9 — a paragraph that stops mid-sentence. A writer killed on a token
+  // limit leaves a file that ends in the middle of a clause, and every
+  // other check passes: the prose is clean, the headings are there, the
+  // facts are there. Only the ending is wrong.
+  const paras = body
+    .split(/\n\s*\n/)
+    .map((p) => p.trim())
+    .filter(
+      (p) =>
+        p &&
+        !p.startsWith("#") &&
+        !p.startsWith("!") &&
+        !p.startsWith("|") &&
+        !p.startsWith(">") &&
+        !p.startsWith("-")
+    );
+  const truncated = paras.filter(
+    (p) => p.length > 120 && !/[.!?:»)'"*_`]$/.test(p)
+  );
+  if (truncated.length) {
+    for (const p of truncated.slice(0, 3)) {
+      errors.push(structure(`paragraph ends mid-sentence: "…${p.slice(-70)}"`));
+    }
+  }
+
   return {
     file: relative(ARTICLES, file),
     name: basename(file),
