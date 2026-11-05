@@ -14,14 +14,34 @@
  *
  * Exit code 1 if any article fails. Warnings never fail the build.
  *
+ * WHAT IS CHECKED
+ *
+ *   1–3  the tic itself: "in our view", filler "finally", and adjacent
+ *        sentences that share a grammatical shape
+ *   4    content density (a warning)
+ *   5    hard corruption: CJK, Cyrillic, fused function words
+ *   6    frontmatter hygiene: excerpt length, tics in dek/excerpt/caption
+ *   7    the collapse's other habits: italic density, the stock
+ *        "most over-X and most under-Y" pair
+ *   8    the H2 skeleton against `scripts/article-outlines.json`
+ *
+ * Check 8 exists because prose can pass every other check and still be a
+ * broken article: two rewrites came back with no `##` headings at all, so
+ * the page had no sections and no argument, and the tic-based checks were
+ * green. `scripts/article-outlines.json` records the skeleton each article
+ * must have; regenerate it with `npm run lint:outlines`.
+ *
  * BASELINE. `scripts/lint-baseline.json` lists articles that are known to
- * fail and have not been repaired yet — currently the second-wave articles
- * #16–#36, deferred by decision on 2026-11-04. A baselined article does not
- * fail the build, but its recorded tic count is a ceiling: if the tic count
- * rises above the baseline, that is a regression and DOES fail the build.
- * Anything not on the baseline that fails is a hard error. The point of the
- * baseline is that the gate blocks new collapse while the backlog is worked
- * through, rather than being switched off.
+ * fail and have not been repaired yet — currently the third-wave articles
+ * #16–#36, #38, #39, deferred by decision on 2026-11-04. A baselined
+ * article does not fail the build, but its recorded tic count is a ceiling:
+ * if the tic count rises above the baseline, that is a regression and DOES
+ * fail the build. Anything not on the baseline that fails is a hard error.
+ *
+ * The baseline only ever excuses a COLLAPSE error. A structural error — a
+ * missing H2 section, a corrupted character, a broken frontmatter field —
+ * fails the build whether the article is baselined or not, because those
+ * are not "not yet repaired", they are "wrong".
  */
 
 import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
@@ -154,7 +174,43 @@ function gluedTokens(body, vocab) {
 }
 
 // -------------------------------------------------------------------- checks
-function lint(file, vocab) {
+/**
+ * Errors come in two kinds. `collapse` is the generation-collapse tic and
+ * its relatives — a baselined article is allowed to keep its current tic
+ * count while it waits in the rewrite backlog. `structure` is a defect in
+ * the article's shape: a missing section, a corrupted character, a broken
+ * frontmatter field. No baseline can excuse those; they always fail.
+ */
+const collapse = (msg) => ({ kind: "collapse", msg });
+const structure = (msg) => ({ kind: "structure", msg });
+
+/** The `##` headings of a body, ignoring anything inside a fenced block. */
+function h2Headings(body) {
+  const out = [];
+  let fence = null;
+  for (const line of body.split("\n")) {
+    const f = line.match(/^\s*(```+|~~~+)/);
+    if (f) {
+      if (fence === null) fence = f[1][0];
+      else if (fence === f[1][0]) fence = null;
+      continue;
+    }
+    if (fence !== null) continue;
+    const m = line.match(/^##\s+(.+?)\s*$/);
+    if (m) out.push(m[1]);
+  }
+  return out;
+}
+
+/** Heading comparison ignores markdown emphasis and case. */
+const normalizeHeading = (h) =>
+  h
+    .replace(/[*_`]/g, "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+
+function lint(file, vocab, outlines) {
   const raw = readFileSync(file, "utf8");
   const { fm, body } = splitFrontmatter(raw);
   const text = stripMarkdown(body);
@@ -168,7 +224,11 @@ function lint(file, vocab) {
   const fillerHits = (body.match(TIC_FILLER) || []).length;
   const ticTotal = phraseHits + fillerHits;
   if (ticTotal > T.maxTicPerArticle) {
-    errors.push(`tic x${ticTotal} (limit ${T.maxTicPerArticle}) — "in our view" x${phraseHits}, filler "finally" x${fillerHits}`);
+    errors.push(
+      collapse(
+        `tic x${ticTotal} (limit ${T.maxTicPerArticle}) — "in our view" x${phraseHits}, filler "finally" x${fillerHits}`
+      )
+    );
   }
 
   // 2 — share of sentences carrying a tic
@@ -178,7 +238,9 @@ function lint(file, vocab) {
   }
   const ratio = sents.length ? ticSents / sents.length : 0;
   if (ratio > T.maxTicSentenceRatio) {
-    errors.push(`tic in ${(ratio * 100).toFixed(0)}% of sentences (limit ${T.maxTicSentenceRatio * 100}%)`);
+    errors.push(
+      collapse(`tic in ${(ratio * 100).toFixed(0)}% of sentences (limit ${T.maxTicSentenceRatio * 100}%)`)
+    );
   }
 
   // 3 — adjacent sentences sharing the same grammatical shape
@@ -188,7 +250,11 @@ function lint(file, vocab) {
   }
   const dupRatio = sents.length > 1 ? dupPairs / (sents.length - 1) : 0;
   if (dupRatio > T.maxAdjacentDupRatio) {
-    errors.push(`adjacent sentences share a shape in ${(dupRatio * 100).toFixed(0)}% of pairs (limit ${T.maxAdjacentDupRatio * 100}%)`);
+    errors.push(
+      collapse(
+        `adjacent sentences share a shape in ${(dupRatio * 100).toFixed(0)}% of pairs (limit ${T.maxAdjacentDupRatio * 100}%)`
+      )
+    );
   }
 
   // 4 — content density: an article with no checkable facts is filler
@@ -199,20 +265,20 @@ function lint(file, vocab) {
   }
 
   // 5 — hard corruption
-  if (CJK.test(body)) errors.push("CJK characters present");
-  if (CYRILLIC.test(body)) errors.push("Cyrillic characters present");
+  if (CJK.test(body)) errors.push(structure("CJK characters present"));
+  if (CYRILLIC.test(body)) errors.push(structure("Cyrillic characters present"));
   const glued = gluedTokens(body, vocab);
-  if (glued.length) errors.push(`glued tokens: ${glued.slice(0, 6).join(", ")}`);
+  if (glued.length) errors.push(structure(`glued tokens: ${glued.slice(0, 6).join(", ")}`));
 
   // 6 — frontmatter hygiene
   const ex = fm.match(/^excerpt:\s*"(.*)"\s*$/m);
   if (ex && (ex[1].length < 40 || ex[1].length > 220)) {
-    errors.push(`excerpt length ${ex[1].length} outside schema range 40-220`);
+    errors.push(structure(`excerpt length ${ex[1].length} outside schema range 40-220`));
   }
   for (const fd of ["dek", "excerpt", "imageCaption"]) {
     const m = fm.match(new RegExp(`^${fd}:\\s*"(.*)"\\s*$`, "m"));
-    if (m && /\bin our view\b/i.test(m[1])) errors.push(`${fd} contains the tic`);
-    if (m && /\bfinally\b(?=[^.]*[,;])/i.test(m[1])) errors.push(`${fd} uses filler "finally"`);
+    if (m && /\bin our view\b/i.test(m[1])) errors.push(collapse(`${fd} contains the tic`));
+    if (m && /\bfinally\b(?=[^.]*[,;])/i.test(m[1])) errors.push(collapse(`${fd} uses filler "finally"`));
   }
 
   // 7 — the collapsed writer's other tics. Italic density is the sharpest
@@ -222,7 +288,9 @@ function lint(file, vocab) {
   const perSentence = sents.length ? italics / sents.length : 0;
   if (perSentence > T.maxItalicsPerSentence) {
     errors.push(
-      `${italics} italicised terms in ${sents.length} sentences (${perSentence.toFixed(2)} per sentence, limit ${T.maxItalicsPerSentence}) — the collapse italicises a word in nearly every sentence`
+      collapse(
+        `${italics} italicised terms in ${sents.length} sentences (${perSentence.toFixed(2)} per sentence, limit ${T.maxItalicsPerSentence}) — the collapse italicises a word in nearly every sentence`
+      )
     );
   }
   // The stock pair only counts as the tic when both halves sit in the same
@@ -232,7 +300,34 @@ function lint(file, vocab) {
     /most\s+over-[^.]*?most\s+under-|most\s+under-[^.]*?most\s+over-/gi
   );
   if (stockPair) {
-    errors.push('uses the stock pair "most over-X and most under-Y"');
+    errors.push(collapse('uses the stock pair "most over-X and most under-Y"'));
+  }
+
+  // 8 — the H2 skeleton. Prose can pass every check above and still be a
+  // broken article: two rewrites came back with no `##` headings at all, so
+  // the page had no sections, no contents and no argument, and every other
+  // check was green. `scripts/article-outlines.json` records the skeleton
+  // each article must have.
+  const outline = outlines[basename(file)];
+  if (!outline) {
+    warns.push(
+      "no outline registered — run `npm run lint:outlines` to record this article's H2 skeleton"
+    );
+  } else {
+    const actual = h2Headings(body).map(normalizeHeading);
+    const expected = outline.headings.map(normalizeHeading);
+    const same =
+      actual.length === expected.length && actual.every((h, i) => h === expected[i]);
+    if (!same) {
+      const msg = `H2 skeleton does not match the registered outline — expected [${expected.join(
+        " | "
+      )}], found [${actual.join(" | ")}]`;
+      if (outline.status === "pending") {
+        warns.push(`${msg} — structure is not enforced while this article is in the rewrite backlog`);
+      } else {
+        errors.push(structure(msg));
+      }
+    }
   }
 
   return {
@@ -257,11 +352,29 @@ const asJson = args.includes("--json");
 // Known-failure baseline. Articles listed here are known-broken and awaiting
 // repair; they do not fail the build, but their recorded tic count is a
 // ceiling — a rise above it is a regression and does fail the build.
+//
+// The baseline only ever excuses a COLLAPSE error. A structural error — a
+// missing H2 section, a corrupted character, a broken frontmatter field —
+// fails the build whether the article is baselined or not, because those
+// are not "not yet repaired", they are "wrong".
 const BASELINE_FILE = join(ROOT, "scripts/lint-baseline.json");
 let baseline = {};
 if (existsSync(BASELINE_FILE)) {
   const raw = JSON.parse(readFileSync(BASELINE_FILE, "utf8"));
   baseline = raw.knownFailures || {};
+}
+
+// Registered H2 skeletons. Missing file means no article is checked for
+// structure, which is loud enough on its own.
+const OUTLINE_FILE = join(ROOT, "scripts/article-outlines.json");
+let outlines = {};
+if (existsSync(OUTLINE_FILE)) {
+  const raw = JSON.parse(readFileSync(OUTLINE_FILE, "utf8"));
+  outlines = raw.articles || {};
+} else {
+  console.warn(
+    "warning: scripts/article-outlines.json is missing — no article will be checked for H2 structure"
+  );
 }
 
 let files = walk(ARTICLES).sort();
@@ -274,11 +387,12 @@ for (const f of walk(ARTICLES)) {
   for (const w of stripMarkdown(body).toLowerCase().match(/[a-z']{2,}/g) || []) vocab.add(w);
 }
 
-const results = files.map((f) => lint(f, vocab));
+const results = files.map((f) => lint(f, vocab, outlines));
 
 // Split failures into "real" and "baselined". A baselined failure is a known
-// article; a real failure is anything else, or a baselined article whose tic
-// count has gone UP since it was baselined.
+// article; a real failure is anything else, a baselined article whose tic
+// count has gone UP since it was baselined, or any article with a structural
+// error.
 const realFailures = [];
 const knownFailures = [];
 const fixed = [];
@@ -292,11 +406,23 @@ for (const r of results) {
     realFailures.push(r);
     continue;
   }
+  const structural = r.errors.filter((e) => e.kind === "structure");
+  if (structural.length) {
+    realFailures.push(r);
+    r.errors.push(
+      structure(
+        `${structural.length} structural error(s) on a baselined article — the baseline excuses a collapse backlog, not a broken article`
+      )
+    );
+    continue;
+  }
   const limit = typeof bl === "object" ? bl.maxTic : bl;
   if (typeof limit === "number" && r.tic > limit) {
     realFailures.push(r);
     r.errors.push(
-      `tic x${r.tic} exceeds the baselined ceiling of ${limit} for this known-failure article — that is a regression, not a backlog item`
+      collapse(
+        `tic x${r.tic} exceeds the baselined ceiling of ${limit} for this known-failure article — that is a regression, not a backlog item`
+      )
     );
   } else {
     knownFailures.push(r);
@@ -322,7 +448,7 @@ if (asJson) {
 } else {
   for (const r of realFailures) {
     console.log(`FAIL  ${r.name}`);
-    for (const e of r.errors) console.log(`        ${e}`);
+    for (const e of r.errors) console.log(`        ${e.msg}`);
   }
   for (const r of knownFailures) {
     console.log(`KNOWN ${r.name}  (${r.errors.length} error(s), baselined — awaiting rewrite)`);
@@ -330,6 +456,10 @@ if (asJson) {
   for (const r of warned) {
     console.log(`WARN  ${r.name}`);
     for (const w of r.warns) console.log(`        ${w}`);
+  }
+  if (fixed.length) {
+    console.log(`\nrepaired since the last baseline (${fixed.length}):`);
+    for (const n of fixed) console.log(`  + ${n}`);
   }
   console.log(
     `\n${results.length} articles checked — ${realFailures.length} failed, ${knownFailures.length} known-failing (baselined), ${warned.length} warned`

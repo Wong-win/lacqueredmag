@@ -40,10 +40,17 @@ const existing = existsSync(BASELINE_FILE)
 
 const next = {};
 for (const r of report.results) {
-  if (!r.errors.length) continue;
+  if (!r.errors.length) continue; // passes — never baselined
   const was = existing[r.name];
-  if (prune && was !== undefined) continue; // repaired — drop it
-  next[r.name] = { maxTic: r.tic, errors: r.errors.length };
+  if (prune && was !== undefined) {
+    // Already baselined and still failing: keep the recorded ceiling as it
+    // stands. Re-recording it from the current state would let the ceiling
+    // ratchet upward every time the baseline is regenerated, which would
+    // quietly excuse a collapse getting worse.
+    next[r.name] = was;
+  } else {
+    next[r.name] = { maxTic: r.tic, errors: r.errors.length };
+  }
 }
 
 const dropped = Object.keys(existing).filter((k) => !(k in next));

@@ -12,6 +12,7 @@
     "check": "astro check",
     "lint:articles": "node scripts/lint-articles.mjs",
     "lint:baseline": "node scripts/lint-baseline.mjs",
+    "lint:outlines": "node scripts/build-outlines.mjs --write",
     "prebuild": "node scripts/lint-articles.mjs",
     "astro": "astro"
   },

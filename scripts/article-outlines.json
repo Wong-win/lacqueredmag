@@ -1,0 +1,714 @@
+{
+  "generated": "2026-11-04",
+  "note": "Registered H2 skeletons. `active` = the gate fails the build if the article's headings drift from this list; `pending` = the third-wave backlog, where the outline is the target and a mismatch only warns. Regenerate with `npm run lint:outlines`.",
+  "articles": {
+    "01-the-lacquer-files.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "On the counter",
+        "The wrong turn, briefly",
+        "Lacquer, considered",
+        "The counter-history of matte",
+        "The satin, briefly considered",
+        "What we publish"
+      ]
+    },
+    "02-conversation-parisian-compounder.md": {
+      "status": "active",
+      "source": "file",
+      "headings": []
+    },
+    "03-skin-barrier-2026.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. Dr. Inès Ferrand — Dermatologist, Paris",
+        "2. Mathilde Aubin — Facialist, Lyon",
+        "3. Dr. Hana Yamazaki — Cosmetic Chemist, Tokyo",
+        "4. Linnea Søndergaard — TCM-Trained Herbalist, Copenhagen",
+        "5. Sara Bekele — Former Dermatology Nurse, Now Formulator, Brooklyn",
+        "6. Olivia Chen — Esthetician, Los Angeles",
+        "What we take from this"
+      ]
+    },
+    "04-lacquer-box-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "The 18th century: the toilette",
+        "The 19th century: the dressing case",
+        "The 20th century: the dressing table",
+        "The post-war: the bathroom counter",
+        "The 21st century: the studio",
+        "The lacquer box today"
+      ]
+    },
+    "05-dispatches-lacquer-drops.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. The Maison Vauclin Rouge Incomparable (no. 03)",
+        "2. The Holmond Cheek Compact in Carriage",
+        "3. The Ordalie Mascara — Épilation no. 02",
+        "How we test"
+      ]
+    },
+    "06-lacquer-routine-sallow-skin.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. The cleanse — no surfactants in the morning",
+        "2. The hydrating layer — one serum, not four",
+        "3. The moisturiser — emollient, not occlusive",
+        "4. The SPF — non-negotiable, and tinted is fine",
+        "5. The pigment — saturation, not coverage",
+        "6. The setting — a single, light pass",
+        "Closing notes"
+      ]
+    },
+    "07-dressing-table-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "The apothecary cabinet, circa 1700",
+        "The coiffeuse, circa 1750",
+        "The Victorian dressing table, 1850–1900",
+        "The twentieth-century vanity, 1920–1960",
+        "The lacquered home vanity, 2020 onward",
+        "What the surface does"
+      ]
+    },
+    "08-designing-lacquered-vanity.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. Camille Marchetti — Independent perfumer, Paris 11e",
+        "2. Mathilde Aubin — Facialist, Lyon",
+        "3. Sara Bekele — Makeup artist, Brooklyn",
+        "4. Jin Park — Hair stylist, Seoul",
+        "5. Olivia Chen — Beauty editor, Los Angeles",
+        "What the five corners have in common"
+      ]
+    },
+    "09-fragrance-counter-six.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. Bertrand Duchesne — Perfumer, Grasse",
+        "2. Hélène Voss — Fragrance evaluator, Paris",
+        "3. Marco Conti — Independent nose, Florence",
+        "4. Yuki Tanaka — Fragrance writer, Tokyo",
+        "5. Dr. Sofia Ricci — Cosmetic chemist, Milan",
+        "6. Anya Brennan — Beauty editor (retired), London",
+        "What we take from this"
+      ]
+    },
+    "10-lacquered-hair-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1950 — the lacquered wave",
+        "1960 — the brief natural interregnum",
+        "1980 — the new wave lacquer",
+        "2000 — the gloss without the lacquer",
+        "2020 — the glass hair, and the return of the lacquer",
+        "What the surface does, and what it does not"
+      ]
+    },
+    "11-magazine-as-object-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1892 — the newsstand object",
+        "1920s — the beauty service",
+        "1930s — the magazine as instruction manual",
+        "1940s — the wartime object",
+        "1950s — the magazine as a department store",
+        "1991 — *Allure* and the magazine as science",
+        "2005 — the indie magazine and the curatorial gesture",
+        "2020 — the magazine as a website",
+        "What we are doing, here"
+      ]
+    },
+    "12-editorial-refusal-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1968 — *Cosmopolitan* and the surgery feature",
+        "1985 — the celebrity cover",
+        "1995 — the before-and-after photo",
+        "2008 — the sponsored review",
+        "2018 — the AI face",
+        "2024 — the ethics statement",
+        "The economy of refusal"
+      ]
+    },
+    "13-cleanser-question-six.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "1. Léa Vidal — Facialist, Marseille",
+        "2. Sara Bekele — Formulator, Brooklyn",
+        "3. Dr. Inès Ferrand — Dermatologist, Paris",
+        "4. Dr. Hana Yamazaki — Cosmetic chemist, Tokyo",
+        "5. Olivia Chen — Esthetician, Los Angeles",
+        "6. Anya Brennan — Beauty editor (retired), London",
+        "What we take from this"
+      ]
+    },
+    "14-winter-skin-routine.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "Step one — an oil cleanse, in the evening",
+        "Step two — a cream cleanse, or nothing",
+        "Step three — a hydrating serum",
+        "Step four — a barrier cream",
+        "Step five — an occlusive, overnight",
+        "A note on indoor humidity"
+      ]
+    },
+    "15-cold-cream-history.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "Galen, 2nd century — *ceratum refrigerans*",
+        "The medieval and Renaissance — the *ceratum* persists",
+        "1782 — the *cérat cosmétique* and the French refinement",
+        "1846 — Pond's",
+        "1890s — the apothecary cold cream",
+        "1930s — the word *moisturizer*",
+        "2026 — the cold cream today"
+      ]
+    },
+    "16-red-lipstick-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "Elizabethan — cochineal and white lead",
+        "1920 — the modern lipstick and the flapper",
+        "1940 — wartime red",
+        "1960 — the nude",
+        "1980 — the power red",
+        "2010 — the your-lips-but-red backlash",
+        "2020 — the return of the committed red"
+      ]
+    },
+    "17-foundation-eight-steps.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "Step one — the undertone",
+        "Step two — the depth",
+        "Step three — the coverage",
+        "Step four — the finish",
+        "Step five — the texture",
+        "Step six — the undertone, again",
+        "Step seven — the oxidation",
+        "Step eight — the setting"
+      ]
+    },
+    "18-dispatches-mascaras.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "One — a lengthening mascara from a French house",
+        "Two — a tubing mascara from a Korean brand",
+        "Three — a volumizing mascara from a heritage American house",
+        "A note on mascara"
+      ]
+    },
+    "19-five-eye-makeup-looks.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "One — the bare-lid mono",
+        "Two — the lined-and-bare",
+        "Three — the smoky-stained",
+        "Four — the glossy editorial",
+        "Five — the lid-only"
+      ]
+    },
+    "20-fragrance-layering-six.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1. Bertrand Duchesne — Perfumer, Grasse",
+        "2. Marco Conti — Independent nose, Florence",
+        "3. Yuki Tanaka — Fragrance writer, Tokyo",
+        "4. Anouk Lévêque — Brand founder, Paris",
+        "5. Théo Marchand — Indie perfumer, Marseille",
+        "6. Dr. Sofia Ricci — Cosmetic chemist, Milan",
+        "What we take from this"
+      ]
+    },
+    "21-fragrance-wardrobe-year.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "January — the sharp green",
+        "March — the iris",
+        "May — the cologne-grade citrus",
+        "July — the white floral or the marine",
+        "September — the chypre",
+        "November — the oud or the amber"
+      ]
+    },
+    "22-chypre-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1917 — Coty's Chypre",
+        "1919 — Guerlain's Mitsouko",
+        "1944 — Femme and the wartime chypre",
+        "1977 — Chypre de Coty and the re-issue problem",
+        "1998 — IFRA and the oakmoss restriction",
+        "2010 — the indie chypre revival",
+        "The chypre today"
+      ]
+    },
+    "23-gender-in-fragrance-six.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1. Bertrand Duchesne — Perfumer, Grasse",
+        "2. Dr. Sofia Ricci — Cosmetic chemist, Milan",
+        "3. Yuki Tanaka — Fragrance writer, Tokyo",
+        "4. Anouk Lévêque — Brand founder, Paris",
+        "5. Marco Conti — Independent nose, Florence",
+        "6. Anya Brennan — Beauty editor (retired), London",
+        "What we take from this"
+      ]
+    },
+    "24-grey-hair-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "The pre-modern — henna and lead",
+        "The 19th century — the respectable grey",
+        "The 20th century — the universal cover",
+        "The 2010s — going grey as statement",
+        "The 2020s — the intentional grey"
+      ]
+    },
+    "25-lacquered-hair-at-home.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "Step one — the clarifying wash",
+        "Step two — the cold-water rinse",
+        "Step three — the leave-in conditioner",
+        "Step four — the blow-dry",
+        "Step five — the finishing serum and the flat-iron pass"
+      ]
+    },
+    "26-hair-dryer-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1900 — the bonnet dryer",
+        "1920 — the handheld",
+        "1950 — the salon hood",
+        "1970 — the blow-dryer as cultural object",
+        "1990 — the ionic dryer",
+        "2016 — the Dyson Supersonic"
+      ]
+    },
+    "27-dispatches-hair-oils.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "One — a weightless argan",
+        "Two — a heavy Indian oil",
+        "Three — a silicone-spray hybrid",
+        "A note on the shine"
+      ]
+    },
+    "28-apothecary-bottle-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "The pharmacy, 1850–1900",
+        "The cosmetics transition, 1880–1920",
+        "The crystal flacon, 1900–1940",
+        "The porcelain pot, 1850–1940",
+        "The amber bottle, 1900–now",
+        "The apothecary bottle today"
+      ]
+    },
+    "29-bathroom-as-spa-design.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "One — the dedicated bathing mirror with task light",
+        "Two — the single tray for in-shower oils",
+        "Three — the hook for the bath sheet",
+        "Four — the stool for the in-bath treatments",
+        "Five — the stack of three towels"
+      ]
+    },
+    "30-makeup-mirror-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1700s — the candle and the hand mirror",
+        "1830s — the triple mirror",
+        "1930s — the bulb-lit Hollywood mirror",
+        "1990s — the fluorescent-lit vanity",
+        "2010s — the backlit LED"
+      ]
+    },
+    "31-perfumer-apprentice-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "Grasse, seventeenth century — the first ateliers",
+        "The eighteenth century — the rise of the nez",
+        "The nineteenth century — the industrial perfume house",
+        "The twentieth century — the perfumer as celebrity",
+        "The twenty-first century — the indie apprenticeship",
+        "The modern apprenticeship, briefly"
+      ]
+    },
+    "32-beauty-photography-studio.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "Horst P. Horst, 1930s — the Vogue era",
+        "Avedon, 1940s and 1950s — the contract",
+        "Lindbergh, 1970s and 1980s — the Dior era",
+        "Mert Alas and Marcus Piggott, 1990s and 2000s — the digital",
+        "The studio, in 2026"
+      ]
+    },
+    "33-on-beauty-criticism.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "What the criticism is not",
+        "What the criticism is",
+        "The first question: does the formulation serve the wearer?",
+        "The second question: does the marketing tell the truth?",
+        "The third question: does the launch matter?",
+        "Why the criticism still matters"
+      ]
+    },
+    "34-the-beauty-editor-voice.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "The 80% — meetings",
+        "The 80% — sample management",
+        "The 80% — copy editing",
+        "The 20% — the science",
+        "The 20% — the perfumer",
+        "The 20% — pushing back on the PR",
+        "The job, in 2026"
+      ]
+    },
+    "35-interviews-we-want.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "One — a third-generation formulator, Grasse",
+        "Two — a fragrance archivist at a museum",
+        "Three — a dermatologist who teaches",
+        "Four — a Vogue-era makeup artist",
+        "Five — a Korean beauty R&D director"
+      ]
+    },
+    "36-retinol-question-six.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1. Dr. Adèle Charbonneau — Dermatologist, Lyon",
+        "2. Pierre-Auguste Lemoine — Cosmetic Chemist, Paris",
+        "3. Mathilde Aubin — Esthetician, Lyon",
+        "4. Sara Bekele — Formulator, Brooklyn",
+        "5. Olivia Chen — Esthetician, Los Angeles",
+        "6. Camille Rousseau — Brand Founder, Marseille"
+      ]
+    },
+    "37-the-serum-stack.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the cleanse",
+        "Step two — the hydrating toner",
+        "Step three — the first serum",
+        "Step four — the second serum",
+        "Step five — the moisturiser",
+        "Step six — the SPF (morning only)"
+      ]
+    },
+    "38-sheet-mask-history.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1973 — Shiseido and the first sheet mask",
+        "1990s — the Korean adoption",
+        "2010s — the K-beauty export",
+        "2015 — the sheet mask boom",
+        "2020s — the pared-back mask"
+      ]
+    },
+    "39-sunscreen-question-six.md": {
+      "status": "pending",
+      "source": "spec-round2",
+      "headings": [
+        "1. Dr. Inès Ferrand — Dermatologist, Paris",
+        "2. Pierre-Auguste Lemoine — Cosmetic Chemist, Paris",
+        "3. Mathilde Aubin — Esthetician, Lyon",
+        "4. Sara Bekele — Formulator, Brooklyn",
+        "5. Camille Rousseau — Brand Founder, Marseille",
+        "6. Olivia Chen — Esthetician, Los Angeles"
+      ]
+    },
+    "40-summer-skin-routine.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the gel cleanse",
+        "Step two — the hydrating toner",
+        "Step three — the light serum",
+        "Step four — the gel moisturiser",
+        "Step five — the SPF 50"
+      ]
+    },
+    "41-blush-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the lead and the wine",
+        "The Middle Ages — the loss and the recovery",
+        "The eighteenth century — the toxic bloom",
+        "The nineteenth century — the powder compact",
+        "The twentieth century — the cream blush"
+      ]
+    },
+    "42-mascara-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the kohl and the antimony",
+        "The Middle Ages — the loss and the Islamic recovery",
+        "The Victorian era — the at-home cosmetic",
+        "1913 — the Rimmel cake mascara",
+        "1957 — the Helena Rubinstein wand",
+        "2020s — the modern formulation"
+      ]
+    },
+    "43-the-five-minute-face.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the tinted moisturiser",
+        "Step two — the cream blush",
+        "Step three — the brow gel",
+        "Step four — the mascara",
+        "Step five — the tinted lip balm"
+      ]
+    },
+    "44-cream-versus-powder.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "What cream does",
+        "What powder does",
+        "Where the argument is",
+        "Where both is right"
+      ]
+    },
+    "45-dispatches-foundation-drops.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "What the drop is",
+        "What the drop does",
+        "What the drop does not do",
+        "Who the drop is for",
+        "The price is the issue",
+        "The drop, in sum"
+      ]
+    },
+    "46-the-skin-scent.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the pulse points",
+        "Step two — the moisturised skin",
+        "Step three — the small amount",
+        "Step four — the do not rub",
+        "Step five — the reapplication",
+        "Where the fragrance ends up"
+      ]
+    },
+    "47-vetiver-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the Indian subcontinent",
+        "The colonial period — the export",
+        "The twentieth century — the modern perfumer",
+        "1959 — the Guerlain vetiver",
+        "The 2020s — the genderless vetiver"
+      ]
+    },
+    "48-the-perfume-house-visit.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "The arrival",
+        "The workbench",
+        "The materials",
+        "The organ",
+        "The formula",
+        "The finishing",
+        "The leaving"
+      ]
+    },
+    "49-summer-fragrance-six.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "1. Olivia Mercier — Perfumer, Grasse",
+        "2. Inès Bonnet — Beauty Editor, Paris",
+        "3. Pierre Dubois — Nose, Paris",
+        "4. Camille Lambert — Beauty Director, London",
+        "5. Sara Beltran — Fragrance Buyer, Madrid",
+        "6. Mathilde Vidal — Esthetician, Paris"
+      ]
+    },
+    "50-the-nose-as-craft.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "The craft",
+        "The category",
+        "The nose",
+        "The argument"
+      ]
+    },
+    "51-bob-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "1909 — the first bob",
+        "1920s — the flapper bob",
+        "1960s — the Vidal Sassoon bob",
+        "1990s — the supermodel bob",
+        "2020s — the modern bob"
+      ]
+    },
+    "52-the-blonde-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the sun-bleached",
+        "The Roman period — the saffron",
+        "The Renaissance — the Venetian",
+        "The twentieth century — the peroxide",
+        "The 2020s — the modern blonde"
+      ]
+    },
+    "53-the-daily-hair-routine.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the wash",
+        "Step two — the condition",
+        "Step three — the towel",
+        "Step four — the leave-in",
+        "Step five — the dry"
+      ]
+    },
+    "54-hair-heat-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "The nineteenth century — the first heated iron",
+        "1906 — the Nessler perm",
+        "1960s — the geometric cut, the iron-set style",
+        "2000s — the flat iron boom",
+        "2020s — the modern iron"
+      ]
+    },
+    "55-dispatches-combs.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "The wooden comb",
+        "The metal comb",
+        "The boar-bristle brush",
+        "The modern detangler",
+        "The honest take"
+      ]
+    },
+    "56-the-towel-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the linen",
+        "The Middle Ages — the hemp",
+        "The eighteenth century — the damask",
+        "The twentieth century — the terry",
+        "The 2020s — the modern towel"
+      ]
+    },
+    "57-the-scented-candle.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "The wax",
+        "The wick",
+        "The burn",
+        "The scent"
+      ]
+    },
+    "58-building-the-vanity-shelf.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Object one — the mirror",
+        "Object two — the tray",
+        "Object three — the cleanser",
+        "Object four — the moisturiser",
+        "Object five — the SPF"
+      ]
+    },
+    "59-the-makeup-brush-history.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Antiquity — the finger and the sponge",
+        "The eighteenth century — the sable brush",
+        "The twentieth century — the synthetic brush",
+        "The 2020s — the modern brush",
+        "The washing"
+      ]
+    },
+    "60-the-evening-ritual.md": {
+      "status": "active",
+      "source": "spec-l2",
+      "headings": [
+        "Step one — the cleanse",
+        "Step two — the treatment",
+        "Step three — the hydration",
+        "Step four — the candle",
+        "Step five — the reading"
+      ]
+    },
+    "61-five-step-face-reviewed.md": {
+      "status": "active",
+      "source": "file",
+      "headings": [
+        "the five steps",
+        "hour one",
+        "hour five",
+        "what survived",
+        "the verdict"
+      ]
+    }
+  }
+}
