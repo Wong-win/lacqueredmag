@@ -40,9 +40,7 @@ Scale is where the romance turns expensive. For damask rose, steam distillation 
 
 Other published ratios run higher. Industrial extraction is unhurried too: hexane percolates a charge for five to six hours at 30 °C, the ethanol wash about eight hours at 35–40 °C, then eight hours of chill at −20 °C. Days of plant, for a kilo of concentrate.
 
-The factory has moved into the field. The Mul family, Chanel's exclusive partner since 1987, runs extraction on its own land; Chanel owns an extraction plant in the fields as well; IFF-LMR's Laboratoire Monique Rémy converts concrete into absolute; Robertet, Mane, Firmenich, IFF and Givaudan have put money back into Grasse, where rose plantings have expanded since 2000.
-
-The teaching followed the plants: ISIPCA, founded in 1970 by Jean-Jacques Guerlain in Versailles and later relocated to the Grasse area, sits alongside the GIP and the École Supérieure Internationale du Parfum, which works with the University of Montpellier.
+The factory has moved into the field. The Mul family, Chanel's exclusive partner since 1987, runs extraction on its own land; Chanel owns an extraction plant in the fields as well; IFF-LMR's Laboratoire Monique Rémy converts concrete into absolute; Robertet, Mane, Firmenich, IFF and Givaudan have put money back into Grasse, where rose plantings have expanded since 2000. The teaching followed the plants: ISIPCA, founded in 1970 by Jean-Jacques Guerlain in Versailles and later relocated to the Grasse area, sits alongside the GIP and the École Supérieure Internationale du Parfum, which works with the University of Montpellier.
 
 ## The materials
 
@@ -70,15 +68,15 @@ The narrowing is severe: from hundreds or thousands of materials down to roughly
 
 ## The formula
 
-The people who could still do this work were, for the most part, bought. During the 1960s and 1970s international firms — IFF, Givaudan, Firmenich, Quest — acquired local houses including Chiris and Lautier, severing factories from fields and turning to global sourcing; by the 1970s and 1980s French houses had largely abandoned French flowers. Ernest Beaux's *Chanel No. 5*, made in 1921 in the Chiris laboratory, is the formula that changed what a perfume could be, an aldehyde construction laid over a floral heart.
+The people who could still do this work were, for the most part, bought. During the 1960s and 1970s international firms — IFF, Givaudan, Firmenich, Quest — acquired local houses including Chiris and Lautier, severing factories from fields and turning to global sourcing; by the 1970s and 1980s French houses had largely abandoned French flowers.
 
-Robertet's Julien Maubert: "In the 1980s–1990s, it was far from a given. No single authority governs perfumery classification either, and a fragrance routinely belongs to several families at once. Two narrowings run in parallel through this town — hundreds of materials reduced to roughly fifty by taste, a broad crop reduced to 40 hectares of jasmine by contract — and it is not obvious which is the more fragile.
+Ernest Beaux's *Chanel No. 5*, made in 1921 in the Chiris laboratory, is the formula that changed what a perfume could be, an aldehyde construction laid over a floral heart. Robertet's Julien Maubert: "In the 1980s–1990s, it was far from a given." No single authority governs perfumery classification either, and a fragrance routinely belongs to several families at once.
+
+Two narrowings run in parallel through this town — hundreds of materials reduced to roughly fifty by taste, a broad crop reduced to 40 hectares of jasmine by contract — and it is not obvious which is the more fragile.
 
 ## The finishing
 
-What decides what may be sold is a discipline of its own. IFRA, the International Fragrance Association, was founded in 1973 and works from Geneva, drawing its safety data from RIFM, founded in 1966.
-
-Its 51st Standards Amendment, the latest published, carries guidance documents dated 3 July 2023; the 52nd is not yet in force, its consultation having closed on 12 June 2026, with formal notification pending. Lilial is banned in the EU as of 2022, and a finished absolute must carry less than 10 ppm of residual hexane.
+What decides what may be sold is a discipline of its own. IFRA, the International Fragrance Association, was founded in 1973 and works from Geneva, drawing its safety data from RIFM, founded in 1966. Its 51st Standards Amendment, the latest published, carries guidance documents dated 3 July 2023; the 52nd is not yet in force, its consultation having closed on 12 June 2026, with formal notification pending. Lilial is banned in the EU as of 2022, and a finished absolute must carry less than 10 ppm of residual hexane.
 
 The change that will matter most to a bottle bought next year is EU law. Commission Regulation (EU) 2023/1545, published in July 2023, added 56 fragrance allergens to mandatory on-pack disclosure, taking the number of individually labelled substances from the 25 or 26 labelled since 2003 to more than 80 and bringing substance mixtures and natural extracts into the declaration for the first time.
 
@@ -92,6 +90,4 @@ The United States took €2.8 bn, up 17.6 %; China €1.78 bn, down 8.9 %. Perfu
 
 So France exports more finished fragrance than any other country and buys its flowers abroad, and the two sets of numbers point in opposite directions. Grasse's contribution to the first is a chemical system and a handful of contracts; its contribution to the second is 40 hectares, 43 growers and a three-week window in May.
 
-The industry is not trying to solve the harvest with machines — no mechanical picker appears anywhere in the record — but at the molecular level, with Hedione and its relatives, which is what makes the flowers fragile: they live on an underwriting, not on a market.
-
-What remains in Grasse is not the romance but the compounding — a school, plants in the fields, and contracts that decide, before anything is picked, what will be planted at all.
+The industry is not trying to solve the harvest with machines — no mechanical picker appears anywhere in the record — but at the molecular level, with Hedione and its relatives, which is what makes the flowers fragile: they live on an underwriting, not on a market. What remains in Grasse is not the romance but the compounding — a school, plants in the fields, and contracts that decide, before anything is picked, what will be planted at all.

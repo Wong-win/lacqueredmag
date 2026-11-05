@@ -22,25 +22,21 @@ The heading is a cheat, and worth owning: nothing in the record shows an antiqui
 
 Greek women lightened with boiled saffron, vinegar and lye, sometimes with chalk for shine, and repeated bleaching made the hair break off in clumps; the earliest bleaching known is credited to Greek women, who used olive oil, lemon juice and pollen. Egypt worked with henna and indigo. The sun belongs to Venice; antiquity had a chemistry, not a ray.
 
-Ancient descriptions of blond hair cluster in the north, and the classical authorities are specific. Herodotus, in the fourth book of the *Histories*, records the Budini with deep blue eyes and bright red hair.
-
-Pliny makes the Seres — the Saka of Central Asia — red-haired, blue-eyed and unusually tall. Tacitus, writing the *Germania* around 98 CE, describes reddish-blond Germanic hair, and Virgil hands the Gauls their golden locks. Rome itself was dark-haired; blondness arrived as a barbarian marker before the empire made it fashion.
+Ancient descriptions of blond hair cluster in the north, and the classical authorities are specific. Herodotus, in the fourth book of the *Histories*, records the Budini with deep blue eyes and bright red hair. Pliny makes the Seres — the Saka of Central Asia — red-haired, blue-eyed and unusually tall. Tacitus, writing the *Germania* around 98 CE, describes reddish-blond Germanic hair, and Virgil hands the Gauls their golden locks. Rome itself was dark-haired; blondness arrived as a barbarian marker before the empire made it fashion.
 
 Two caveats point the same way. Sources calling the "Scythians" fair and blond in the fourth and fifth centuries may be describing East Germanic tribes, since Roman writers used the name loosely. And the appetite for manufactured blonde is documented before the recipe: Ibn Fadlan watched Norse men bleach their beards saffron-yellow, while Pliny noted goat fat and beechwood ash reddening hair and beard.
 
 ## The Roman period — the saffron
 
-Rome imported the fashion as surely as it imported the grain. Blonde became popular through contact with the Germans and Gauls, and the palette that took hold included red, black and blonde.
+Rome imported the fashion as surely as it imported the grain. Blonde became popular through contact with the Germans and Gauls, and the palette that took hold included red, black and blonde. Tertullian, in *De Cultu Feminarum* 2:6:1, calls saffron ideal for golden colouring; Ovid, in *Ars Amatoria* 3:158–164, names herbs and saffron for dyeing.
 
-Tertullian, in *De Cultu Feminarum* 2:6:1, calls saffron ideal for golden colouring; Ovid, in *Ars Amatoria* 3:158–164, names herbs and saffron for dyeing. Pliny preserves two recipes: for black hair, leeches "soaked and rotten… kept in red wine for 40 days"; for red hair, animal fat with beech ash. The book numbers come back differently in different summaries, so the recipes are worth more than the citations.
+Pliny preserves two recipes: for black hair, leeches "soaked and rotten… kept in red wine for 40 days"; for red hair, animal fat with beech ash. The book numbers come back differently in different summaries, so the recipes are worth more than the citations.
 
 The rest of the list is no gentler: henna, saffron and bleach, talcum powder, boiled and crushed walnuts, charred ant eggs, rotting game remains, and ant-egg paste daubed on the eyebrows.
 
 Bleach followed by sun gave golden and red tones; harsh bleach gave hair loss, which is where the wigs came from — the full *capillamentum* and the half-wig *galerus*. Emperors Otho, Domitian and Caligula wore wigs, Faustina the Elder reportedly owned around three hundred, and Commodus, reigning from 180 to 192 CE, wore gold dust.
 
-One tradition, repeated often, has Roman prostitutes required to be blond so they could be told apart from other Romans.
-
-The pages carrying it give no date and no ancient citation, so it belongs to legal folklore rather than statute — though the shape survives: in Rome, blondness was an import, rationed by status. What saffron cost a Roman we cannot say; the passage usually cited did not survive our checking.
+One tradition, repeated often, has Roman prostitutes required to be blond so they could be told apart from other Romans. The pages carrying it give no date and no ancient citation, so it belongs to legal folklore rather than statute — though the shape survives: in Rome, blondness was an import, rationed by status. What saffron cost a Roman we cannot say; the passage usually cited did not survive our checking.
 
 ## The Renaissance — the Venetian
 
@@ -54,21 +50,17 @@ And by the recipes themselves the Venetian blonde was a warm gold laid on by rep
 
 ## The twentieth century — the peroxide
 
-The chemistry industrialised in the nineteenth century and reached the bathroom in the twentieth. William Henry Perkin discovered mauveine, the first synthetic dye, in 1856, and by accident: he had been trying to synthesise quinine.
+The chemistry industrialised in the nineteenth century and reached the bathroom in the twentieth. William Henry Perkin discovered mauveine, the first synthetic dye, in 1856, and by accident: he had been trying to synthesise quinine. In 1907 Eugène Schueller, founder of L'Oréal, is credited with the first synthetic hair dye. In 1931 Jean Harlow's platinum was achieved with peroxide, ammonia and bleach flakes, and the surviving account has her using ammonia, Clorox and Lux soap flakes weekly on ash-blonde hair.
 
-In 1907 Eugène Schueller, founder of L'Oréal, is credited with the first synthetic hair dye. In 1931 Jean Harlow's platinum was achieved with peroxide, ammonia and bleach flakes, and the surviving account has her using ammonia, Clorox and Lux soap flakes weekly on ash-blonde hair.
+The cupboard, not the cinema, democratised the blonde. The date usually given is 1947 and the brand usually named is Clairol; the first home hair-colour product of that year was Schwarzkopf's Poly Color, and the Clairol attribution is a conflation. By the mid-1950s the kit sat in the house: in 1973 L'Oréal answered with Preference and "Because you're worth it," written by Ilon Specht against Clairol's dominance.
 
-The cupboard, not the cinema, democratised the blonde. The date usually given is 1947 and the brand usually named is Clairol; the first home hair-colour product of that year was Schwarzkopf's Poly Color, and the Clairol attribution is a conflation.
-
-By the mid-1950s the kit sat in the house: in 1973 L'Oréal answered with Preference and "Because you're worth it," written by Ilon Specht against Clairol's dominance. What the century built was not a colour but a regimen — a permanent colour processed for 30 to 45 minutes, a demi-permanent fading over 20 to 28 shampoos. The Venetian cycle of sun and ash, mechanised and sold in a box.
+What the century built was not a colour but a regimen — a permanent colour processed for 30 to 45 minutes, a demi-permanent fading over 20 to 28 shampoos. The Venetian cycle of sun and ash, mechanised and sold in a box.
 
 ## The 2020s — the modern blonde
 
 Modern bleach is better chemistry than any of its ancestors. Hydrogen peroxide oxidises the melanin in the cortex, most commercial formulas pair the peroxide with persulfate salts, and ammonia or monoethanolamine keeps the mixture alkaline.
 
-How strong it may legally be is a live disagreement: the references contradict each other, one putting the salon ceiling for hydrogen peroxide at 12 per cent and another at 9, with both placing the at-home kit at 6.
-
-The colour is a gradient, not a switch: black hair travels through brown, red, orange and yellow before reaching pale yellow, and where it stops depends on starting level, time and strength.
+How strong it may legally be is a live disagreement: the references contradict each other, one putting the salon ceiling for hydrogen peroxide at 12 per cent and another at 9, with both placing the at-home kit at 6. The colour is a gradient, not a switch: black hair travels through brown, red, orange and yellow before reaching pale yellow, and where it stops depends on starting level, time and strength.
 
 Which is why platinum is a separate business from blonde. Lift gives you yellow; a toner corrects it, violet against yellow and green or blue against red and orange, and purple shampoo is the consumer version of the same correction.
 
@@ -82,7 +74,7 @@ In the United States, coal-tar hair dyes generally require no FDA approval, but 
 
 The agency's protocol is a small domestic law with its own clock: patch-test before every use, and wait at least 14 days after bleaching or perming before dyeing. The agency names PPD as the ingredient implicated more prominently in allergic reactions, and notes that sensitivity can develop after repeated exposure.
 
-The cancer question stays contested: some dyes and process chemicals are classed as mutagenic and carcinogenic, per IARC reviews of 1993 and 2010, the epidemiology is described as limited and inconsistent, and the FDA's position is that it has "no reliable evidence showing a link between cancer and coal-tar hair dyes on the market today.
+The cancer question stays contested: some dyes and process chemicals are classed as mutagenic and carcinogenic, per IARC reviews of 1993 and 2010, the epidemiology is described as limited and inconsistent, and the FDA's position is that it has "no reliable evidence showing a link between cancer and coal-tar hair dyes on the market today."
 
 Scale is not in doubt: US at-home hair-colour sales reached $4.8 billion in 2024 and are forecast to reach $8.2 billion by 2033, and a 2016 PLOS ONE study following 7,684 women for 37 years put hair-dye use at 50 to 80 per cent among women in the United States, Europe and Japan.
 

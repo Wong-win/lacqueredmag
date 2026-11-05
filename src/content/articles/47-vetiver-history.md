@@ -4,61 +4,90 @@ date: 2026-10-18
 slug: "vetiver-history"
 image: "https://images.unsplash.com/photo-1783431412504-dba295fdee4e?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "An abstract golden spiral with bright reflections, photographed close-up in low light."
-imageCaption: "A golden spiral, photographed close-up. The spiral is, in our view, the visual logic of vetiver — the root is, in our view, finally, the hidden architecture under the green leaf."
+imageCaption: "An abstract golden spiral photographed close up, its ridges catching bright reflections in low light."
 categories: ["Fragrance"]
 categorySlugs: ["fragrance"]
-excerpt: "Vetiver is a grass root, mostly invisible, mostly the underside of the green. A short cultural history of the material modern perfumery most under-credits."
+excerpt: "A one-per-cent yield, a scent made without interruption in New Orleans since 1843, and a crop the perfume industry was built on: the cultural history of vetiver."
 author: "Lacquered Editorial"
 kicker: "ARCHIVE"
-dek: "Vetiver is a grass root, mostly invisible, mostly the underside of the green. A short cultural history of the material modern perfumery most under-credits."
+dek: "Vetiver is not a green, woody, masculine note. It is a fixative, a base and a commodity crop, and the century that made it masculine is the century that hid it."
 ---
+The bottle in front of you says nothing about the grass. Vetiver is a perennial bunchgrass, published for years as Vetiveria zizanioides and now generally called *Chrysopogon zizanioides*; its closest relative is sorghum. The part that goes into a fragrance is the root, which grows two to four metres straight down rather than spreading sideways. Digger it up, dry it, steam it, and one hundred kilos of dried root yields one or two kilos of oil. More than ninety-eight per cent of the plant is discarded on the way to the atomiser.
 
-Vetiver is, in our view, a grass. The grass is, in our view, mostly the *Chrysopogon zizanioides* — the *zizanioides* is, in our view, finally, the *Latin* the *botanist* is, in our view, finally, *using* to *name* the *plant* the *modern perfumer* is, in our view, mostly *working with*. The working is, in our view, finally, the *work* the *perfumery* is, in our view, mostly *doing* with the *root*. The root is, in our view, finally, the *part* of the *plant* the *modern perfumer* is, in our view, mostly *interested in*. The interested is, in our view, finally, the *work* this essay is doing.
+Which is roughly how the note behaves in a composition. Vetiver is not the part of a fragrance you can point at; it is the part that holds the rest together and stays on the skin for hours after the florals have gone.
 
-The root is, in our view, finally, the *hidden* part. The hidden is, in our view, finally, the *work* the *grass* is, in our view, mostly *doing* for the *soil*. The soil is, in our view, finally, the *place* the *root* is, in our view, mostly *inhabiting*. The inhabiting is, in our view, finally, the *work* the *root* is, in our view, mostly *doing* for the *terracing* the *tropical farmer* is, in our view, mostly *using* the *plant* for. The terracing is, in our view, finally, the *work* the *vetiver* is, in our view, mostly *most famous* for. The famous is, in our view, finally, the *work* the *modern perfumer* is, in our view, mostly *under-crediting*.
+The common idea of it — a green, woody, masculine accord — is a mid-century marketing construction laid over an older, much less gendered material. Its history is the history of a commodity crop and of the labour that carried it, from Kannauj to Les Cayes.
 
-This essay is, in part, a history of the under-crediting. It is also, in part, an argument that the root, in 2026, has, in our view, finally, become the most important *base note* the *modern perfumer* is, in our view, mostly *working with*.
+---
 
 ## Antiquity — the Indian subcontinent
 
-The earliest vetiver, in the historical record, is mostly *Indian*. The Indian is, in our view, finally, the *place* the *grass* is, in our view, mostly *originating*. The originating is, in our view, finally, the *work* the *grass* is, in our view, mostly *doing* for the *Ganges plain*. The plain is, in our view, finally, the *place* the *vetiver* is, in our view, mostly *growing*.
+Start in India, where the plant is described as originating and is now widely cultivated across the tropics. The name that travelled is Tamil: *veṭṭivēr*, the root that is dug up, which reached English through the French vétyver, still spelled vetyver in perfumery. In the north it is khus, whose etymology Wikipedia flags as needing a citation. The Sanskrit name is *uśīra*, though the synonym list circulating for it reaches me through a summary of the Charaka Samhita Online, not the text itself.
 
-The Indian vetiver was, in our view, finally, mostly *medicinal*. The medicinal is, in our view, finally, the *use* the *Ayurvedic* physician was, in our view, finally, *making* of the *root*. The making is, in our view, finally, the *work* the *vetiver* is, in our view, mostly *doing* for the *body*. The body is, in our view, finally, the *place* the *Ayurvedic* physician was, in our view, mostly *applying* the *vetiver* to. The applying is, in our view, finally, the *work* the *root* is, in our view, mostly *doing* for the *skin*. The skin is, in our view, finally, the *canvas* the *vetiver* is, in our view, mostly *most interested in*.
+The old use was dual, which is the first clue that the root was never only a perfume. It was also a fibre. Roots were woven into scented screens — *khus tatti*, also called chik — hung and sprinkled with water to perfume a room, and distilled into ruh khus. Distillation at Kannauj still runs through a *deg-bhapka*, the vapour condensed into sandalwood oil or plant water, and what comes out is the greener fluid attar the trade still sells.
 
-The Indian vetiver was, in our view, finally, also *woven*. The woven is, in our view, finally, the *form* the *Indian* artisan was, in our view, finally, *making* with the *root*. The making is, in our view, finally, the *work* the *vetiver* is, in our view, mostly *doing* for the *mat*. The mat is, in our view, finally, the *object* the *Indian* household was, in our view, finally, *using* the *root* to *make*.
-
-## The colonial period — the export
-
-The colonial period, in the eighteenth and nineteenth centuries, is, in our view, the period that, in our view, mostly *exported* the *vetiver* to *Europe*. The exporting is, in our view, finally, the *work* the *British* and *Dutch* trading companies were, in our view, mostly *doing* with the *root*. The root is, in our view, finally, the *material* the *European* perfumer was, in our view, finally, *using* to *make* the *perfume*.
-
-The European vetiver was, in our view, finally, mostly *dried*. The dried is, in formulation terms, the *form* the *root* is, in our view, mostly *shipped* in. The shipping is, in our view, finally, the *work* the *trading company* is, in our view, mostly *doing* for the *European* market. The market is, in our view, finally, the *place* the *vetiver* is, in our view, mostly *most interested in*.
-
-The European vetiver was, in our view, finally, also *distilled*. The distilled is, in formulation terms, the *process* the *European* chemist was, in our view, finally, *applying* to the *root*. The applying is, in our view, finally, the *work* the *chemistry* is, in our view, mostly *doing* for the *perfume*. The perfume is, in our view, finally, the *product* the *European* market was, in our view, finally, *most interested in*.
-
-## The twentieth century — the modern perfumer
-
-The twentieth century is, in our view, the period that, in our view, mostly *named* the *vetiver* the *modern perfumer* is, in our view, mostly *working with*. The working is, in our view, finally, the *work* the *modern perfumer* is, in our view, mostly *doing* with the *root*. The root is, in our view, finally, the *material* the *modern perfumer* is, in our view, mostly *most interested in*.
-
-The modern vetiver is, in our view, finally, mostly *Haitian*. The Haitian is, in our view, finally, the *origin* the *modern perfumer* is, in our view, mostly *sourcing* the *root* from. The sourcing is, in our view, finally, the *work* the *modern market* is, in our view, mostly *doing* for the *perfume*. The perfume is, in our view, finally, the *product* the *modern consumer* is, in our view, mostly *most interested in*.
-
-The modern vetiver is, in our view, finally, also *Indonesian*. The Indonesian is, in our view, finally, the *origin* the *modern perfumer* is, in our view, mostly *sourcing* the *root* from. The sourcing is, in our view, finally, the *work* the *modern market* is, in our view, mostly *doing* for the *perfume*. The perfume is, in our view, finally, the *product* the *modern consumer* is, in our view, mostly *most interested in*.
-
-The modern vetiver is, in our view, finally, also *reformed*. The reformed is, in formulation terms, the *process* the *modern perfumer* is, in our view, finally, *applying* to the *root*. The applying is, in our view, finally, the *work* the *modern perfumer* is, in our view, mostly *doing* for the *nose*. The nose is, in our view, finally, the *organ* the *modern consumer* is, in our view, mostly *most interested in*. The interested is, in our view, finally, the *work* the *modern perfumer* is, in our view, mostly *doing* for the *wearer*.
-
-## The 1959 — the Guerlain vetiver
-
-The Guerlain house, in 1959, is, in our view, finally, the house that, in our view, mostly *launched* the *modern* vetiver perfume. The launching is, in our view, finally, the *work* the *Guerlain* house was, in our view, finally, *doing* for the *modern* market. The market is, in our view, finally, the *place* the *vetiver* perfume is, in our view, finally, *most interested in*.
-
-The Guerlain vetiver was, in our view, finally, mostly *masculine*. The masculine is, in our view, finally, the *gender* the *1959* perfume was, in our view, finally, *marketed* to. The marketing is, in our view, finally, the *work* the *brand* is, in our view, mostly *doing* for the *consumer*. The consumer is, in our view, finally, the *man* the *1959* perfume was, in our view, finally, *for*. The for is, in our view, finally, the *vetiver* the *modern* perfumer was, in our view, finally, *most interested in*.
-
-## The 2020s — the genderless vetiver
-
-The modern vetiver, in 2026, is, in our view, finally, mostly *genderless*. The genderless is, in our view, finally, the *gender* the *modern* perfume is, in our view, finally, *marketed* to. The marketing is, in our view, finally, the *work* the *brand* is, in our view, mostly *doing* for the *consumer*. The consumer is, in our view, finally, the *person* the *modern* perfume is, in our view, finally, *for*.
-
-The modern vetiver perfume is, in our view, finally, mostly *clean*. The clean is, in formulation terms, the *smell* the *modern* perfumer is, in our view, mostly *most interested in*. The interested is, in our view, finally, the *work* the *modern* perfumer is, in our view, mostly *doing* for the *nose*. The nose is, in our view, finally, the *organ* the *modern* consumer is, in our view, mostly *most interested in*.
-
-The modern vetiver perfume is, in our view, finally, also *smoky*. The smoky is, in formulation terms, the *smell* the *modern* perfumer is, in our view, mostly *most interested in*. The interested is, in our view, finally, the *work* the *modern* perfumer is, in our view, mostly *doing* for the *nose*. The nose is, in our view, finally, the *organ* the *modern* consumer is, in our view, mostly *most interested in*.
+Kannauj, in the upper Ganges plain, became the great centre of the Indian aromatic trade under Harshavardhan, who reigned from about 606 to 647 CE. A vetiver tax was imposed there — Wikipedia confirms the tax and attaches no date to it. The grass did a second job the state could not tax: growing two to four metres deep, it holds soil and water on slopes. From 1990 the World Bank promoted it as the vetiver system, in India, Nepal, Thailand and Nigeria.
 
 ---
 
-The vetiver, in sum, is the *root* the *modern perfumer* is, in our view, mostly *most under-crediting*. The under-crediting is, in our view, finally, the *work* the *modern market* is, in our view, mostly *doing* for the *brand*. The brand is, in our view, finally, the *place* the *vetiver* is, in our view, finally, *most interested in*. The interested is, in our view, finally, the *work* the *vetiver* is, in our view, mostly *doing* for the *perfume*. The perfume is, in our view, finally, the *product* the *modern consumer* is, in our view, mostly *most interested in*. The interested is, in our view, finally, the *work* the *vetiver* is for.
+## The colonial period — the export
+
+Here the record splits, and the split is the most useful thing in it. Osmetheca, the perfumery encyclopedia, says French planters brought the grass to the Caribbean and the Mascarene islands during the eighteenth century, initially for erosion control and soon for distillation. Vetiver Network International, working from the genetics, says something else: "The British carried it to the Caribbean and Malaysia as recently as the 1930s." Both cannot be the first arrival.
+
+There is a third pathway, and it is the one that matters. In the late nineteenth century sugarcane workers from southern India and Sri Lanka migrated to southern Africa and the Caribbean, and Vetiver Network International notes that they brought their traditional plants with them — for fragrant roots and for permanent boundary hedges, a plant that is both a scent and a fence.
+
+It is that source's leading candidate for how vetiver reached the French Antilles without official introduction. So the grass came into the New World three times over: by French planters, by British introductions in the 1930s, and by contract labourers carrying the one plant from home that made a house smell like home. It never came up the Moorish-Spain galleon route that carried so many Indian aromatics west; it is historically scarce in North Africa and the Middle East.
+
+Two dates survive. In 1809 the first chemical analysis of vetiver oil was made in France, on root extracts imported from Réunion — the first recorded analysis of the oil in the West.
+
+In 1843 a vetiver perfume called *Kus Kus* began being made in New Orleans and has been made in the same city ever since: one smell, uninterrupted, for a hundred and eighty years. Réunion remains the historic home of *vétiver Bourbon*, though production there went rare in the late twentieth century and has returned only as a slow niche revival.
+
+---
+
+## The twentieth century — the modern perfumer
+
+The twentieth century is where vetiver acquires the reputation it still has. Osmetheca is blunt about it: "Western perfumery adopted vetiver as a masculine signature in the mid-twentieth century." The composition that broke vetiver into the mainstream was Carven's Vétiver de Carven, 1957, by Roger Pellegrino, which Osmetheca calls the first house composition built around the material.
+
+What the formula holds is a base note in the technical sense, and the pyramid explains why the popular description of vetiver as a green woody accord misfires. Vetiver opens green or citrus, moves into an earthy, root-like heart and dries down to something smoky and leather-like, remaining present for ten to fourteen hours.
+
+A fine fragrance carries one to eight per cent of Haitian oil, with niche houses pushing to twenty or twenty-five per cent. The chemistry is dense: more than 150 identified components, dominated by sesquiterpenoids like khusimol and the vetivones.
+
+Haitian oil is richer in khusimol, Java carries more vetivone, the north Indian khus is greener. The part that unsettles the marketing is the reach. Wikipedia's article on the grass states that vetiver appears in 90% of Western perfumes and is more common in men's fragrances — a figure with no citation attached, better treated as an indicator than a measurement. Take it as an indicator and the point stands anyway: the same page calls the material a fixative.
+
+Behind the bottle is slow, unforgiving arithmetic. Roots grow eighteen to twenty-four months before the dry-season harvest, and a full cycle on benchmark Haitian grades takes two to three years. World production is around 250 tonnes a year.
+
+Haiti took the industry after the Second World War. Processing was introduced there in the 1940s by Lucien Ganot; in 1958 Franck Léger established a plant at his father Demetrius Léger's distillery; in 1984 Pierre Léger took it over and expanded it to forty-four atmospheric stills, lifting annual production from twenty to sixty tonnes in ten years.
+
+Haiti now supplies roughly half of global output, mostly around Les Cayes, where roots grown in calcareous soil give the driest and smokiest profile of the three grades — the benchmark for Western fine perfumery.
+
+---
+
+## 1959 — the Guerlain vetiver
+
+Two years after Carven came the composition that fixed the reading: Guerlain's Vétiver, dated 1959 and attributed to Jean-Paul Guerlain, sets Haitian vetiver root over tobacco, citrus and tonka, and the inspiration is described as the smell of the composer's gardener's straw hat. Osmetheca calls it "the reference masculine vetiver".
+
+One caveat should be printed: among the sources available here the date and the attribution are confirmed on Osmetheca alone — the English Wikipedia article for the perfume returned a 404 and no house page was checked. Treat the year as well attested rather than settled.
+
+The composition was not the first vetiver fragrance; Carven had got there two years earlier, and Osmetheca says the material's identity as a masculine signature was consolidated by the 1959 composition and by the commercial masculines that followed. Consolidation, not invention. Nor was the bottle a picture of a garden.
+
+The logic of it is a base note made legible — smoky, earthy Haitian root set against tobacco, citrus and tonka, the three things that let an abstract root read as a scent a person can pick out in a room.
+
+The code was rewritten repeatedly in the decade that followed. Frédéric Malle's Vetiver Extraordinaire, 2002, by Dominique Ropion, puts vetiver at roughly a quarter of the formula over cedar and *Iso E Super* — a concentration statement rather than a fougère. Hermès' Vétiver Tonka followed in 2004 (Jean-Claude Ellena), with tonka, hazelnut and grapefruit.
+
+Lalique's Encre Noire in 2006 (Nathalie Lorson) is a gothic, mineral ink-and-stone reading. Chanel's Sycomore came in 2008 (Jacques Polge and Christopher Sheldrake). Tom Ford's Grey Vetiver followed in 2009 (Harry Frémont), clean and dry with orris and nutmeg.
+
+---
+
+## The 2020s — the genderless vetiver
+
+The 2020s section of this history is the weakest, and the honest thing is to say so at the top. There is no market data here, no named genderless vetiver launch and no house quoted on the subject. Wikipedia's article on perfumery offers only undated statements: that modern fragrances are becoming more unisex, and that aquatic scents led to many "androgynous" perfumes. None of that is evidence of a vetiver moment.
+
+So the argument has to be built on what the material does rather than on a trend line. Osmetheca describes vetiver's image as principally masculine, running through Guerlain's 1959 composition and the commercial masculines after it, and nowhere calls the material unisex. It is a base note.
+
+Its gender coding is a mid-century marketing inheritance, and the root has no stake in it. A material that anchors a composition, that stays on the skin for ten to fourteen hours and appears at one to eight per cent of a fine fragrance, is not doing a masculine job. It is doing a structural one, and structure does not come in sizes.
+
+The economics explain why the correction will be commercially awkward. Osmetheca lists Haitian vetiver oil at €250–€450 a kilogram for 2025–2026, with Java at roughly half. The industrial direction of travel is to lighten the material rather than re-badge it: heart cuts concentrate khusimol-rich fractions into cleaner, brighter, sweeter grapefruit-vetiver profiles, while commodity grades get cut with cedar oil or synthetic vetivone.
+
+What it gets is a better story. Vetiver's invisibility is exactly what allowed it to become the substrate of Western perfumery: a grass from the Indian subcontinent, carried by planters and by contract labourers, holding up a market it was never asked to name.
+
+The chain runs from an undated Kannauj tax, through an analysis of Réunion oil in France in 1809 and a scent made without interruption in New Orleans since 1843, to Haitian stills that turn a hundred kilos of root into a kilo of oil. The genderless vetiver of the 2020s is not a discovery. It is the correction of a marketing accident, made possible by a material nobody has had to look at since.

@@ -14,13 +14,13 @@ dek: "Layering is sold as a menu to be ordered correctly. It is closer to a phys
 ---
 The dropper is the whole marketing problem in one object: a pipette, a bead of clear liquid, the underside of the glass holding the light, and behind it a shelf of amber bottles each with a claim and a price. The industry sells layering as a menu to be ordered correctly, as though a list existed that experts had and you did not. There is no such list. The beauty desk hands over a mnemonic — *thinnest first, thickest last* — and treats it as the answer; it is folk wisdom repeated for decades without anyone identifying who said it first, and it is roughly right for the wrong reasons.
 
-What follows the drop lands is physics, and physics is less interested in your choices than the shelf is. A 2026 review in *Skin Pharmacology and Physiology* of twelve studies on sequential application of topical medicines found absorption governed by the state of the barrier and by vehicle interactions, not by whether the bottle says serum or cream. The effects run both ways: a urea emollient roughly doubled steroid delivery, petrolatum applied first reduced it, salicylic acid pretreatment increased betamethasone penetration. No single rule emerges, and no controlled trial on cosmetic application order exists. Two things survive: whether a layer is occluding what sits beneath it, and whether the next layer needs a dry surface or a particular pH.
+What follows the drop lands is physics, and physics is less interested in your choices than the shelf is. A 2026 review in *Skin Pharmacology and Physiology* of twelve studies on sequential application of topical medicines found absorption governed by the state of the barrier and by vehicle interactions, not by whether the bottle says serum or cream.
+
+The effects run both ways: a urea emollient roughly doubled steroid delivery, petrolatum applied first reduced it, salicylic acid pretreatment increased betamethasone penetration. No single rule emerges, and no controlled trial on cosmetic application order exists. Two things survive: whether a layer is occluding what sits beneath it, and whether the next layer needs a dry surface or a particular pH.
 
 ## Step one — the cleanse
 
-The stratum corneum is 10–20 micrometres thick and its lipids make up only about 10% of its weight, yet those lipids perform essentially the entire barrier function.
-
-The brick-and-mortar picture proposed by Elias and Menen in 1983 still holds: anucleate corneocytes, roughly 95% keratin, wrapped in a cross-linked envelope of involucrin and loricrin, the mortar being stacked intercellular lipid bilayers. By mass that mortar runs ceramides at about 40–50%, cholesterol at 20–25%, free fatty acids at 10–15%, the three near a 1:1:1 molar ratio in healthy skin.
+The stratum corneum is 10–20 micrometres thick and its lipids make up only about 10% of its weight, yet those lipids perform essentially the entire barrier function. The brick-and-mortar picture proposed by Elias and Menen in 1983 still holds: anucleate corneocytes, roughly 95% keratin, wrapped in a cross-linked envelope of involucrin and loricrin, the mortar being stacked intercellular lipid bilayers. By mass that mortar runs ceramides at about 40–50%, cholesterol at 20–25%, free fatty acids at 10–15%, the three near a 1:1:1 molar ratio in healthy skin.
 
 The lipids arrive from lamellar bodies, secretory organelles about 0.3 micrometres across that sit in the granular layer carrying the enzymes that mature them, which is why the cleanser matters more than its price suggests.
 
@@ -52,15 +52,13 @@ A 2024 review in the International Journal of Molecular Sciences concluded that 
 
 Vitamin C is governed by a harder constraint. Pinnell's 2001 rule holds that L-ascorbic acid enters skin only when formulated below pH 3.5, below its pKa of roughly 4.1–4.2, where it is uncharged and diffuses passively; absorption rose with concentration to about 20% and then plateaued, tissue saturating in three days with a half-life near four days.
 
-The stabilisation data are just as specific: in Lin and colleagues' 2005 *Burns* paper, 0.5% ferulic acid held more than 90% of the L-ascorbic acid after a month at 45 °C, and a 15% vitamin C, 1% α-tocopherol, 0.5% ferulic acid stack doubled photoprotection from four-fold to eight-fold.
-
-The counter-evidence deserves equal space: a 2020 study found a commercial 15% vitamin C, E and ferulic formulation reduced skin explant viability against saline control.
+The stabilisation data are just as specific: in Lin and colleagues' 2005 *Burns* paper, 0.5% ferulic acid held more than 90% of the L-ascorbic acid after a month at 45 °C, and a 15% vitamin C, 1% α-tocopherol, 0.5% ferulic acid stack doubled photoprotection from four-fold to eight-fold. The counter-evidence deserves equal space: a 2020 study found a commercial 15% vitamin C, E and ferulic formulation reduced skin explant viability against saline control.
 
 ## Step four — the second serum
 
-The retinoid ladder shows how far marketing outruns data. The line that retinal is 11 times stronger than retinol comes from laboratory conversion work, not clean head-to-head human trials, and no trial has titrated retinaldehyde against retinol to find an equivalence point. The direct tolerance data say otherwise: Fluhr and colleagues' 1999 study found retinol and retinaldehyde equally low in irritation potential under 14-day patch testing, with retinoic acid significantly worse.
+The retinoid ladder shows how far marketing outruns data. The line that retinal is 11 times stronger than retinol comes from laboratory conversion work, not clean head-to-head human trials, and no trial has titrated retinaldehyde against retinol to find an equivalence point.
 
-Creidi's 1998 trial of 125 people with photodamage found no significant efficacy difference between 0.05% retinaldehyde and 0.05% retinoic acid. What does scale cleanly is concentration: erythema and flaking ran at about 18% in a 0.05% retinal group against roughly 32% at 0.1%.
+The direct tolerance data say otherwise: Fluhr and colleagues' 1999 study found retinol and retinaldehyde equally low in irritation potential under 14-day patch testing, with retinoic acid significantly worse. Creidi's 1998 trial of 125 people with photodamage found no significant efficacy difference between 0.05% retinaldehyde and 0.05% retinoic acid. What does scale cleanly is concentration: erythema and flaking ran at about 18% in a 0.05% retinal group against roughly 32% at 0.1%.
 
 Azelaic acid is the best-evidenced brightening and acne active that is a cosmetic rather than a drug in most markets, with a regulatory wrinkle: in the United States every FDA-approved gel and foam is 15%, the approved 20% cream is for mild-to-moderate inflammatory acne, and melasma is off-label for all of them.
 
@@ -98,9 +96,7 @@ Composition matters as much as quantity: avobenzone photodegrades, octocrylene s
 
 And products fail: the Hong Kong Consumer Council found only four of fourteen SPF 30–50 samples met EU criteria, and a 2023 Dutch investigation found 36 of 54 products below their labelled claim. None of which makes sunscreen a waste of time.
 
-The anchor is Green and colleagues' randomised trial of 1,689 Australian adults followed for five years, in which daily SPF 50+ use reduced the risk of invasive melanoma by about half and squamous cell carcinoma by roughly 18%.
-
-That is the honest version of the argument: your bottle is not performing as labelled, because nobody applies the dose the label assumes, and the label is a laboratory claim about an application rate nobody achieves. Daily use still halves melanoma risk.
+The anchor is Green and colleagues' randomised trial of 1,689 Australian adults followed for five years, in which daily SPF 50+ use reduced the risk of invasive melanoma by about half and squamous cell carcinoma by roughly 18%. That is the honest version of the argument: your bottle is not performing as labelled, because nobody applies the dose the label assumes, and the label is a laboratory claim about an application rate nobody achieves. Daily use still halves melanoma risk.
 
 Which returns us to the dropper. It is not a decision; it is a quantity. The order in which layers go on is not a rule handed down by experts but a question of whether what you put on last changes the surface, and whether what sits under the film needs to get in.
 

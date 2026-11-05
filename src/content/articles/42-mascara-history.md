@@ -30,9 +30,9 @@ Hatshepsut, in the 18th Dynasty, would grind charred frankincense into her eyeli
 
 ## The Middle Ages — the loss and the Islamic recovery
 
-Every account of this history has a middle chapter in which Europe loses the eye and the Islamic world keeps it — and the record is tidier on the keeping than on the losing.
+Every account of this history has a middle chapter in which Europe loses the eye and the Islamic world keeps it — and the record is tidier on the keeping than on the losing. The survivor is a different mineral: *ithmid*, the Arabic term for stibnite-based kohl, made by grinding stibnite fine and binding it with oil, ghee or rose water.
 
-The survivor is a different mineral: *ithmid*, the Arabic term for stibnite-based kohl, made by grinding stibnite fine and binding it with oil, ghee or rose water. It was a professional trade, and the evidence survives in an unexpected place — a law book. Ibn Abi Shaybah, in a legal compilation, described how to apply kohl to the eye.
+It was a professional trade, and the evidence survives in an unexpected place — a law book. Ibn Abi Shaybah, in a legal compilation, described how to apply kohl to the eye.
 
 The continuity shows in how it is still used. Berber and Semitic-speaking women across North Africa and the Middle East applied kohl to the face, including a vertical line running from the lower lip to the chin and along the nose — a style that originated on the Arabian Peninsula and reached North Africa in the seventh century.
 
@@ -60,9 +60,7 @@ The most repeated date in this history is also the least complete. What Helena R
 
 The brush was a separate piece of hardware. The wand — the object everybody pictures when they picture mascara — came one year later. In 1958 Rubinstein created the first refillable mascara in a tube with an integrated brush for easy application, and called it Mascara Matic.
 
-That is a small correction to a large legend: the popular version says Rubinstein invented the wand in 1957. What the record shows is a two-step invention — a cream in a tube first, an integrated applicator second — and the applicator then took a slow course of its own.
-
-Soon a grooved rod was patented, then altered to the brush used today; mascara became easier to use, and its popularity rose.
+That is a small correction to a large legend: the popular version says Rubinstein invented the wand in 1957. What the record shows is a two-step invention — a cream in a tube first, an integrated applicator second — and the applicator then took a slow course of its own. Soon a grooved rod was patented, then altered to the brush used today; mascara became easier to use, and its popularity rose.
 
 The real change was not the brush but the state of the product. Before 1957 a mascara was a solid you owned — a cake, or a dried tube rewetted each morning. After 1957 it was a liquid you dispensed, and the hazards that follow arrive with it: shelf life, bacterial risk, the rule about not sharing the wand.
 
@@ -74,9 +72,11 @@ The formula inside the tube is still the ancient one. The pigments are usually i
 
 What the last sixty-five years added is a coating. Tubing mascaras use film-forming polymers that coat individual lashes, and lengthening or curling formulas may contain nylon or rayon microfibers. Water resistance is a formulation choice, not a promise: water-resistant versions use hydrophobic ingredients such as dodecane, non-resistant versions a water-soluble base.
 
-And the modern chemistry brought new dangers to an old cosmetic. A 2021 study of 231 products found organic fluorine in more than half, highest in waterproof mascara at 82% of brands tested, with up to 13 individual PFAS compounds in one product; they can enter through skin and tear ducts. A liquid formula also incubates: styes and swollen eyelids are classed as allergic reactions, improper cleaning can leave mascara under the conjunctiva as black lumps, and the product may incubate lash microbes.
+And the modern chemistry brought new dangers to an old cosmetic. A 2021 study of 231 products found organic fluorine in more than half, highest in waterproof mascara at 82% of brands tested, with up to 13 individual PFAS compounds in one product; they can enter through skin and tear ducts.
 
-The reason any of it is regulated is an accident of the twentieth century. In 1933 a woman known on the court record as Mrs Brown consented to have her eyelashes permanently dyed with Lash Lure, which contained para-phenylenediamine; it caused severe burning, ulceration and swelling, blindness in 16 women, and one further death from bacterial infection. Congress gave the FDA authority over cosmetics in 1938.
+A liquid formula also incubates: styes and swollen eyelids are classed as allergic reactions, improper cleaning can leave mascara under the conjunctiva as black lumps, and the product may incubate lash microbes. The reason any of it is regulated is an accident of the twentieth century.
+
+In 1933 a woman known on the court record as Mrs Brown consented to have her eyelashes permanently dyed with Lash Lure, which contained para-phenylenediamine; it caused severe burning, ulceration and swelling, blindness in 16 women, and one further death from bacterial infection. Congress gave the FDA authority over cosmetics in 1938.
 
 The regimes built on that are recent: in Europe it is Regulation EC 1223/2009, in force since 11 July 2013, covering the EU, Iceland, Norway and Switzerland. Minnesota banned intentionally added mercury in cosmetics in 2008. Which brings the oldest thing in the story back to the newest: kohl is not an FDA-approved colour additive, and importing galena kohl into the United States is banned outright because of its lead content, though modern lead-free cosmetics may still sell "kohl" as a shade name.
 

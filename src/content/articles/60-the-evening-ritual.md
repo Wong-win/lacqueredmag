@@ -14,17 +14,17 @@ dek: "The hour before bed is sold as a repair window. The evidence supports some
 ---
 Every bottle on the shelf has a number on it, and the number is usually 5.5. It sits under the phrase *pH-balanced*, the reassurance line of the skincare aisle. The irritation ranking in the peer-reviewed dermatology literature does not run through that number. It runs by surfactant class: anionic systems built on SLS and LAS rank as the most irritating, while nonionic, amphoteric, amino-acid and *syndet* systems come in among the gentlest, in work by Abdollahi in 2025, Baranda in 2002 and Ananthapadmanabhan in 2004. Read the ingredient list.
 
-The evening ritual is sold as a repair sequence: the day does the damage, the night is supposed to undo it. The step carrying the loudest claims is the one whose results arrive over 12 to 44 weeks, which means it cannot be what the hour is for. What the hour can do, tonight, is set conditions — the surfactant you wash with, the light in the room, the book, the gap between the screen going down and the light going off. That is closer to a *transition* than a treatment, and the steps that make it work carry no active ingredient at all.
+The evening ritual is sold as a repair sequence: the day does the damage, the night is supposed to undo it. The step carrying the loudest claims is the one whose results arrive over 12 to 44 weeks, which means it cannot be what the hour is for.
+
+What the hour can do, tonight, is set conditions — the surfactant you wash with, the light in the room, the book, the gap between the screen going down and the light going off. That is closer to a *transition* than a treatment, and the steps that make it work carry no active ingredient at all.
 
 ## Step one — the cleanse
 
-The first failure mode is over-washing, the one dermatologists worry about more than the opposite. The American Academy of Dermatology's guidance fits on the back of a bottle: a mild, alcohol-free cleanser, lukewarm water, the fingertips rather than a cloth, no scrubbing, no more than twice daily.
+The first failure mode is over-washing, the one dermatologists worry about more than the opposite. The American Academy of Dermatology's guidance fits on the back of a bottle: a mild, alcohol-free cleanser, lukewarm water, the fingertips rather than a cloth, no scrubbing, no more than twice daily. Cleveland Clinic's Dr. Jane Wu is blunter — double cleansing is usually not necessary, and one thorough wash with a gentle cleanser is more than adequate.
 
-Cleveland Clinic's Dr. Jane Wu is blunter — double cleansing is usually not necessary, and one thorough wash with a gentle cleanser is more than adequate.
+The pH number does not settle it either. Anionic surfactants bind more tightly to stratum corneum proteins at lower pH, so a bar at 5.5 can strip harder than the same chemistry at neutral pH: label and chemistry can point in opposite directions. And the second step has no trial behind it.
 
-The pH number does not settle it either. Anionic surfactants bind more tightly to stratum corneum proteins at lower pH, so a bar at 5.5 can strip harder than the same chemistry at neutral pH: label and chemistry can point in opposite directions.
-
-And the second step has no trial behind it. A 2023 call-to-action paper in the *Archives of Dermatological Research* notes that the evidence base for sunscreen removal remains limited — no published research has compared an oil cleanser followed by a foaming one.
+A 2023 call-to-action paper in the *Archives of Dermatological Research* notes that the evidence base for sunscreen removal remains limited — no published research has compared an oil cleanser followed by a foaming one.
 
 Oil has a case, and it is a narrow one. Dr. Madalyn Nguyen of Westlake Dermatology notes that oil cleansers excel at long-wear makeup and water-resistant sunscreen, and that a well-formulated single cleanser suffices for dry or sensitive skin — dry, eczema-prone and rosacea-prone faces may do better with one emulsifying-oil cleanse than with two.
 
@@ -36,23 +36,15 @@ This is the step with the most money behind it and the least to say for itself. 
 
 Retinaldehyde at 0.05% against tretinoin at 0.05% and a vehicle, 44 weeks, 125 subjects: not significantly different from either, with tretinoin causing more irritation and lower compliance. Two entries break the pattern: proretinal 0.025% beat tretinoin 0.025% in a 12-week split-face study of 30 subjects, and tazarotene 0.1% significantly bettered tretinoin 0.05% over 24 weeks in 173.
 
-The retail version of that table is a ladder, and the ladder is arithmetic rather than evidence. Retinol is roughly tenfold less potent than tretinoin — 0.25% retinol given as roughly equivalent to 0.025% tretinoin — and retinaldehyde sits between the two in the sequence running from retinyl esters through retinol to retinaldehyde to retinoic acid.
+The retail version of that table is a ladder, and the ladder is arithmetic rather than evidence. Retinol is roughly tenfold less potent than tretinoin — 0.25% retinol given as roughly equivalent to 0.025% tretinoin — and retinaldehyde sits between the two in the sequence running from retinyl esters through retinol to retinaldehyde to retinoic acid. The review is explicit that this ranking does not establish the efficacy of a finished product: formulation, stability, oxidation, delivery and vehicle materially affect outcomes.
 
-The review is explicit that this ranking does not establish the efficacy of a finished product: formulation, stability, oxidation, delivery and vehicle materially affect outcomes.
+The trials behind these actives run from 12 weeks to 44 weeks, the review offers no consistent weeks-to-results table, and there is no evidence base for a single-night effect. Dose is a choice rather than a necessity: retinoid dermatitis is dose-dependent, lower concentrations produced significant improvement with fewer adverse effects, and the guidance is to start low, increase gradually as tolerated, and use moisturisers. A 12-week controlled trial of 0.3% against 0.5% retinol serums found comparable efficacy, with the 0.3% significantly better tolerated, and recommends starting the 0.5% every second or third day.
 
-The trials behind these actives run from 12 weeks to 44 weeks, the review offers no consistent weeks-to-results table, and there is no evidence base for a single-night effect.
-
-Dose is a choice rather than a necessity: retinoid dermatitis is dose-dependent, lower concentrations produced significant improvement with fewer adverse effects, and the guidance is to start low, increase gradually as tolerated, and use moisturisers. A 12-week controlled trial of 0.3% against 0.5% retinol serums found comparable efficacy, with the 0.3% significantly better tolerated, and recommends starting the 0.5% every second or third day.
-
-A short controlled forearm study adds the arithmetic that matters: 0.1% retinol and 0.1% tretinoin both increased epidermal thickness and collagen-related gene expression, with retinol's effects roughly half those of tretinoin.
-
-Half is not nothing, and half is also half the irritation. One caution: the rules for combining actives are not claims we can source, and this guide will not repeat them. The failure mode is not the wrong product. It is the right one judged on the wrong clock.
+A short controlled forearm study adds the arithmetic that matters: 0.1% retinol and 0.1% tretinoin both increased epidermal thickness and collagen-related gene expression, with retinol's effects roughly half those of tretinoin. Half is not nothing, and half is also half the irritation. One caution: the rules for combining actives are not claims we can source, and this guide will not repeat them. The failure mode is not the wrong product. It is the right one judged on the wrong clock.
 
 ## Step three — the hydration
 
-Transepidermal water loss is the continuous, involuntary movement of water from deeper layers through the epidermis, followed by evaporation at the surface — not sweat, whatever the name suggests.
-
-Measured in grams per square metre per hour, it is described in the reference literature as the most reliable objective metric for barrier function, and nobody in the ordinary week measures it.
+Transepidermal water loss is the continuous, involuntary movement of water from deeper layers through the epidermis, followed by evaporation at the surface — not sweat, whatever the name suggests. Measured in grams per square metre per hour, it is described in the reference literature as the most reliable objective metric for barrier function, and nobody in the ordinary week measures it.
 
 Healthy forearm and abdomen skin runs 5 to 10 g/m²/h; mild impairment 10 to 20, moderate 20 to 40, above 40 severe. Palms and soles run 40 to 150. So 20 g/m²/h is the boundary between mild and moderate impairment, not a healthy number.
 
@@ -72,9 +64,7 @@ Both appear on the National Candle Association's expert-tips page, and the quart
 
 Extinguish taper and pillar candles when they get to within two inches of the holder, and votives and containers before the last half-inch of wax starts to melt. A votive wants a few drops of water in the glass before the candle goes in, and only a few: water absorbed by the wick prevents proper burning.
 
-Never take a knife to a glass votive holder, and clear the wax with hot water or a freezer for about an hour.
-
-Then there is the contradiction: the quarter-inch rule is blanket, and the manufacturers of small formats advise against it, because the wick tab on a votive or tealight centres the flame and disperses the heat. Trim only if the flame flickers or smokes in a draft-free environment. The failure mode is a good rule followed past the point where it applies.
+Never take a knife to a glass votive holder, and clear the wax with hot water or a freezer for about an hour. Then there is the contradiction: the quarter-inch rule is blanket, and the manufacturers of small formats advise against it, because the wick tab on a votive or tealight centres the flame and disperses the heat. Trim only if the flame flickers or smokes in a draft-free environment. The failure mode is a good rule followed past the point where it applies.
 
 The numbers here are older than the ones usually quoted. For 2002 an estimated 18,000 home candle fires were reported, causing 130 civilian deaths, 1,350 civilian injuries and $333 million in direct property damage; peak-day findings for 1999 to 2002 put Christmas Day first, with New Year's Day and Christmas Eve tied second.
 

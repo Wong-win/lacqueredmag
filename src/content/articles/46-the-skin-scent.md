@@ -14,43 +14,35 @@ dek: "Same fragrance, same atomiser, different wearers, different fates: what se
 ---
 Two people can spray the same bottle from the same atomiser, and one will still be able to smell it at dinner while the other has lost it by lunchtime. The bottle is not what decides this. The surface does — the lipids on the skin that set the pace of evaporation, determine which molecules survive the day, and decide how a composition opens. Osmetheca's guide to making perfume last longer on skin, by Sabrina Carlier, updated on 31 October 2026, argues the case this guide will make: the substrate is half the formula.
 
-Almost none of it reaches the buyer, because fragrance is sold as application rules — spray here, press here, never here — rather than as a chemistry problem with a surface attached. Two of those rules have taken on the look of physiology. The first says the pulse points are warm, so a fragrance blooms at them. The second says never spray on the neck, because the neck sits over the thyroid. Both make the same move: a narrow physical effect stretched into a body-specific rule with no human data behind it. Perry Romanowski of The Beauty Brains rejects the first; DUBAWA returned a verdict of "Misleading!" on the second in January 2026.
+Almost none of it reaches the buyer, because fragrance is sold as application rules — spray here, press here, never here — rather than as a chemistry problem with a surface attached. Two of those rules have taken on the look of physiology. The first says the pulse points are warm, so a fragrance blooms at them.
+
+The second says never spray on the neck, because the neck sits over the thyroid. Both make the same move: a narrow physical effect stretched into a body-specific rule with no human data behind it. Perry Romanowski of The Beauty Brains rejects the first; DUBAWA returned a verdict of "Misleading!" on the second in January 2026.
 
 ## Step one — the pulse points
 
-The conventional sites are the neck, the nape, the décolleté, the inner wrists and elbows, and the back of the knees.
+The conventional sites are the neck, the nape, the décolleté, the inner wrists and elbows, and the back of the knees. Osmetheca's guide keeps the list and adds the only part of it that survives scrutiny: spread the same amount over two or three of those points rather than concentrating everything in one spot, which extends diffusion without raising the dose. The reason usually offered for the list, however, does not survive at all.
 
-Osmetheca's guide keeps the list and adds the only part of it that survives scrutiny: spread the same amount over two or three of those points rather than concentrating everything in one spot, which extends diffusion without raising the dose. The reason usually offered for the list, however, does not survive at all.
+The reason is heat — pulse points are warmer, so the scent blooms. Romanowski will not have it: there is no evidence, he argues, that the pulse points generate the extra heat the story requires. Jeffrey Schussler, a cardiologist quoted alongside him, notes that body temperature is regulated even where a pulse is easy to feel.
 
-The reason is heat — pulse points are warmer, so the scent blooms. Romanowski will not have it: there is no evidence, he argues, that the pulse points generate the extra heat the story requires.
-
-Jeffrey Schussler, a cardiologist quoted alongside him, notes that body temperature is regulated even where a pulse is easy to feel. Heat does govern fragrance, though, generally rather than locally: warmer skin makes a composition diffuse faster, and the same warmth hurries its volatile materials away. That argues for warm skin out of the shower, not for aiming the atomiser at a wrist.
+Heat does govern fragrance, though, generally rather than locally: warmer skin makes a composition diffuse faster, and the same warmth hurries its volatile materials away. That argues for warm skin out of the shower, not for aiming the atomiser at a wrist.
 
 The thyroid rule travelled furthest, as an Instagram post by @Naturethecure on 12 January 2026 claiming that perfume applied to the neck alters thyroid function. DUBAWA checked it on 24 January 2026 and returned a verdict of "Misleading!". Its summary is blunt: no research paper suggested that perfume on the neck would directly affect thyroid function in humans.
 
 Ireneh Akwara, a dermatologist in Lagos, put the real risk in proportion: perfume can trigger allergies, and that is the end of it. Francis Agbaraolorunpo, a medical lecturer in Lagos, was blunter — there is no scientific evidence for such a claim, and perfume ingredients cannot bypass the barriers to reach the thyroid.
 
-A version of the thyroid claim does survive, though not the version being shared. The endocrine evidence that exists is laboratory-level: a systematic review in the Journal of Environmental Health Science and Engineering, on pollutants in perfumes and their effects on the consumer, notes that compounds such as triclosan may disrupt thyroid function, and the US Food and Drug Administration banned triclosan in 2016.
-
-A separate ScienceDirect study found fragrance compounds in personal-care and cleaning products acting as endocrine disruptors in lab settings. Neither says anything about a spray on the neck. What perfume is documented to do at the neck is duller: allergic reactions, itching and rashes.
+A version of the thyroid claim does survive, though not the version being shared. The endocrine evidence that exists is laboratory-level: a systematic review in the Journal of Environmental Health Science and Engineering, on pollutants in perfumes and their effects on the consumer, notes that compounds such as triclosan may disrupt thyroid function, and the US Food and Drug Administration banned triclosan in 2016. A separate ScienceDirect study found fragrance compounds in personal-care and cleaning products acting as endocrine disruptors in lab settings. Neither says anything about a spray on the neck. What perfume is documented to do at the neck is duller: allergic reactions, itching and rashes.
 
 ## Step two — the moisturised skin
 
-The cheapest step in the procedure is the one nobody performs: an unscented balm, a neutral oil or a discreet fragrance-free moisturiser, applied to the target areas immediately before the perfume.
-
-The mechanism is not folklore but evaporation physics — hydrated skin holds fragrant molecules better than dry skin, because emollients slow their evaporation. Osmetheca's sequence is clean, hydrated, then scented skin. A scented cream is worth avoiding: it might obscure the composition you paid for.
+The cheapest step in the procedure is the one nobody performs: an unscented balm, a neutral oil or a discreet fragrance-free moisturiser, applied to the target areas immediately before the perfume. The mechanism is not folklore but evaporation physics — hydrated skin holds fragrant molecules better than dry skin, because emollients slow their evaporation. Osmetheca's sequence is clean, hydrated, then scented skin. A scented cream is worth avoiding: it might obscure the composition you paid for.
 
 The objection is that this is skincare advice in a fragrance hat, and that skin pH is what matters. Osmetheca's pH essay, published on 29 May 2026, demotes it. The skin surface is a slightly acidic environment known as the *acid mantle*, which the guide puts at pH 4.5 to 5.9; other sources quote different ranges, so treat it as an orientation, not a constant.
 
 What the essay insists on is the ranking: skin pH is a real but secondary variable. If a fragrance vanishes quickly on you, lipid content is the dominant factor rather than pH — and popular discussion habitually credits pH with effects that belong to lipid content, body temperature, the microbiome and hormonal status.
 
-Where pH does show itself is in the first 30 minutes of wear, among the molecules that react rather than merely evaporate.
+Where pH does show itself is in the first 30 minutes of wear, among the molecules that react rather than merely evaporate. Esters, aldehydes and lactones hydrolyze faster in alkaline conditions: benzyl acetate in the jasmine facets, linalyl acetate in the lavender and bergamot, citronellyl acetate in the rose, the C10, C11 and C12 aldehydes of classic florals, lactones for the creamy, milky notes of coconut, peach and tuberose. The consequence is visible: a duller opening and a faster transition to the heart.
 
-Esters, aldehydes and lactones hydrolyze faster in alkaline conditions: benzyl acetate in the jasmine facets, linalyl acetate in the lavender and bergamot, citronellyl acetate in the rose, the C10, C11 and C12 aldehydes of classic florals, lactones for the creamy, milky notes of coconut, peach and tuberose. The consequence is visible: a duller opening and a faster transition to the heart.
-
-The other half of any formula barely cares. Musks, woods, resins and ambers stay largely indifferent across the 4.5 to 6 range: the polycyclic and macrocyclic musks, woody molecules such as Iso E Super and Cedramber, resins such as labdanum and benzoin.
-
-Which means the scents that outlast the day are built largely from materials that were never going to react. It also means moisturising is not a tip but the same variable the pH essay calls dominant — surface lipids.
+The other half of any formula barely cares. Musks, woods, resins and ambers stay largely indifferent across the 4.5 to 6 range: the polycyclic and macrocyclic musks, woody molecules such as Iso E Super and Cedramber, resins such as labdanum and benzoin. Which means the scents that outlast the day are built largely from materials that were never going to react. It also means moisturising is not a tip but the same variable the pH essay calls dominant — surface lipids.
 
 ## Step three — the small amount
 
@@ -64,9 +56,9 @@ There is a second surface that behaves better than skin. Textile holds molecules
 
 ## Step four — the do not rub
 
-The wrist-rubbing gesture is one of the most familiar motions in fragrance and one of the least useful instructions in the guide. The popular explanation is that rubbing crushes the top notes, or breaks the molecules down.
+The wrist-rubbing gesture is one of the most familiar motions in fragrance and one of the least useful instructions in the guide. The popular explanation is that rubbing crushes the top notes, or breaks the molecules down. Osmetheca is dismissive of that account: the belief is largely a myth, because the molecules are not ground up.
 
-Osmetheca is dismissive of that account: the belief is largely a myth, because the molecules are not ground up. What rubbing actually costs is heat — which slightly speeds the departure of the most volatile materials. Better to let the perfume dry on its own. Spray, and leave it.
+What rubbing actually costs is heat — which slightly speeds the departure of the most volatile materials. Better to let the perfume dry on its own. Spray, and leave it.
 
 Nobody has run a controlled trial on wrist rubbing and longevity. The rule rests on evaporation physics and expert guidance rather than evidence, and anyone who tells you otherwise is selling something. What can be said without much risk is that top notes are the first casualties of added heat.
 

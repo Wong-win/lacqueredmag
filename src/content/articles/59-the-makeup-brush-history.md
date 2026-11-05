@@ -18,9 +18,9 @@ The popular history of the makeup brush fits one sentence: DuPont invented nylon
 
 The documented Egyptian cosmetics are containers rather than brushes, and the best of them are cabinetry. The Metropolitan Museum holds the Royal Butler Kemeni's cosmetic box, in cedar with ebony and ivory veneer and silver fittings, 20.3 cm high, dated 1814–1805 BC; the Museo Egizio in Turin holds the toilet box and vessels of Merit, wood, paint, faience, glass and alabaster, 22 × 29.5 × 49 cm, c. 1390–1352 BC, from Deir el-Medina. The pigment is better documented than the applicator: malachite for green, galena for black kohl.
 
-Palettes began as rectangular grinding slabs and later took fish and baboon forms; the Narmer Palette set a cosmetic recess beside an image of the king defeating his enemies, and gold palettes were buried with the dead, which puts religion and magic in the room with vanity.
+Palettes began as rectangular grinding slabs and later took fish and baboon forms; the Narmer Palette set a cosmetic recess beside an image of the king defeating his enemies, and gold palettes were buried with the dead, which puts religion and magic in the room with vanity. How the colour then travelled to the eye is where the record gets thin.
 
-How the colour then travelled to the eye is where the record gets thin. The standard reference article on Egyptian beauty, read for this piece, says nothing about whether fingertips, sticks, brushes, animal hair or reeds applied kohl: it lists the candidates and declines to choose.
+The standard reference article on Egyptian beauty, read for this piece, says nothing about whether fingertips, sticks, brushes, animal hair or reeds applied kohl: it lists the candidates and declines to choose.
 
 A Rosicrucian Egyptian Museum workshop page, quoted at second hand because it could not be opened, gives the conventional sequence: kohl first laid on with the finger, producing thick eye rings, then fibres and animal-hair brushes, producing a thinner liner and eventually the *cat eye*. That sequence is probably right, and it is also the version everybody repeats, resting on one page nobody has read.
 
@@ -32,9 +32,7 @@ Class, on the reference article as read, shows little: styles did not differ con
 
 The fibre at the centre of the whole history is not a sable at all. Kolinsky — the word on which premium brushes are sold — is the tail hair of the Siberian weasel, collected in winter, prized because it behaves like fine sable: strength combined with flexibility, so that a pointed tip recovers after a stroke. The name is said to derive from the Tungus people of Siberia, on thinner evidence than the hair itself.
 
-Winsor & Newton's own account, retailed by a site devoted to the Kolinsky brush, describes the build: assembled by hand, individual hairs sorted and arranged for alignment and smooth paint flow, a seamless nickel ferrule, a handle shaped to support control.
-
-The house was founded in 1832, and in 1866 Queen Victoria asked for exceptionally fine watercolour brushes, specifying size No. 7 — the Series 7 that followed is that brush.
+Winsor & Newton's own account, retailed by a site devoted to the Kolinsky brush, describes the build: assembled by hand, individual hairs sorted and arranged for alignment and smooth paint flow, a seamless nickel ferrule, a handle shaped to support control. The house was founded in 1832, and in 1866 Queen Victoria asked for exceptionally fine watercolour brushes, specifying size No. 7 — the Series 7 that followed is that brush.
 
 These were luxury objects, sold to people who expected to keep them. By the late eighteenth century, one account of the craft holds, Parisian wigmakers were repurposing squirrel-hair wig-powdering brushes for blending lead-based face paints, and brushes kept ivory or silver handles with badger, squirrel or sable bristles. The technique is older still: brushmaking precedents from around 2000 BC in China.
 
@@ -42,9 +40,9 @@ The economics were not neutral. Kolinsky demand peaked in the nineteenth century
 
 ## The twentieth century — the synthetic brush
 
-DuPont developed the first synthetic brush filaments in the United States in the 1950s, for the paintbrush trade. The material was nylon, sold as *Tynex*: extruded, mechanically tapered and tipped to resemble hog bristle, with development boosted by the US ban on imports of Chinese bristles. Nylon stayed common in paintbrushes but was rejected for cosmetic and artist brushes — too stiff, and no fine tips.
+DuPont developed the first synthetic brush filaments in the United States in the 1950s, for the paintbrush trade. The material was nylon, sold as *Tynex*: extruded, mechanically tapered and tipped to resemble hog bristle, with development boosted by the US ban on imports of Chinese bristles.
 
-The real turning point came in the 1970s, when DuPont found a way to chemically taper polyester filaments, which the trade calls the breakthrough for the artist brush market.
+Nylon stayed common in paintbrushes but was rejected for cosmetic and artist brushes — too stiff, and no fine tips. The real turning point came in the 1970s, when DuPont found a way to chemically taper polyester filaments, which the trade calls the breakthrough for the artist brush market.
 
 Judging that market small, the company transferred the patent to Japan's Toray Industries, which developed the fibre with the brushmaker Takamoto and sold it as *Taklon*. After the patent expired in the 1990s the field filled in, and PBT and PET are now the standard polyesters.
 
@@ -60,9 +58,9 @@ Holding it costs nothing; an optional one-time logo licence runs from $500 to $4
 
 ## The 2020s — the modern brush
 
-What changed most recently is geometry. Modern filaments vary in diameter, taper, *crimp*, hollowness and surface texture — the variables that let a polymer behave like hair — and crimped fibre improves pickup while also holding too much product.
+What changed most recently is geometry. Modern filaments vary in diameter, taper, *crimp*, hollowness and surface texture — the variables that let a polymer behave like hair — and crimped fibre improves pickup while also holding too much product. The contemporary brush is a designed cross-section rather than a trimmed bundle.
 
-The contemporary brush is a designed cross-section rather than a trimmed bundle. The copy now says so out loud: Rephr's LC 01 bristles are described as calibrated to mimic the look and feel of natural hair, in development since 2021 and made in China for fibre quality.
+The copy now says so out loud: Rephr's LC 01 bristles are described as calibrated to mimic the look and feel of natural hair, in development since 2021 and made in China for fibre quality.
 
 The comparative verdict is missing. The trade history carrying most of this section concludes that natural kolinsky remains unmatched for artist brushes — a note about paint rather than a face, but the only surviving side-by-side judgement. Reviews of synthetic brushes are split: praised for liquids and precision work, criticised as overpriced and less effective for powders.
 
@@ -70,13 +68,9 @@ Pacifica, cruelty-free since 1996 and 100% vegan, is dual-certified by Leaping B
 
 ## The washing
 
-This is where the material argument becomes a set of instructions, and the standard hygiene story gets complicated. The strongest peer-reviewed evidence is a 2025 paper in the International Journal of Microbiology, which analysed 57 cosmetic brushes — foundation, eye and powder brushes plus beauty blenders — by 16S rRNA sequencing: 81% of isolates Gram-positive, Micrococcus at 31%, Staphylococcus at 23%, Bacillus at 16%.
+This is where the material argument becomes a set of instructions, and the standard hygiene story gets complicated. The strongest peer-reviewed evidence is a 2025 paper in the International Journal of Microbiology, which analysed 57 cosmetic brushes — foundation, eye and powder brushes plus beauty blenders — by 16S rRNA sequencing: 81% of isolates Gram-positive, Micrococcus at 31%, Staphylococcus at 23%, Bacillus at 16%. The same study surveyed 370 people, and p = 0.698 — no statistically significant association between cleaning frequency and reported skin problems.
 
-The same study surveyed 370 people, and p = 0.698 — no statistically significant association between cleaning frequency and reported skin problems.
-
-A Givaudan study found that brush microbiota closely mirrors the wearer's own skin microbiome, and that bacteria enriched on brushes did not proliferate on skin.
-
-The wider bacteriology is real but uneven: an Aston University study found 70–90% of tested makeup products and tools contaminated, and a 2026 Baghdad study of 50 eye-shadow brush samples found Staphylococcus lentus in 64% and Candida albicans in 36%. The dramatic statistics need their footnote — claims about more bacteria than a toilet seat largely trace to marketing-funded testing.
+A Givaudan study found that brush microbiota closely mirrors the wearer's own skin microbiome, and that bacteria enriched on brushes did not proliferate on skin. The wider bacteriology is real but uneven: an Aston University study found 70–90% of tested makeup products and tools contaminated, and a 2026 Baghdad study of 50 eye-shadow brush samples found Staphylococcus lentus in 64% and Candida albicans in 36%. The dramatic statistics need their footnote — claims about more bacteria than a toilet seat largely trace to marketing-funded testing.
 
 Advice is reasonably settled. The American Academy of Dermatology advises cleaning every 7–10 days, and Dr Marisa Garshick gives the same window, on the grounds that you would not reuse a towel for weeks without washing it.
 

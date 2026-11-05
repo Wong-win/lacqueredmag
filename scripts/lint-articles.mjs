@@ -24,12 +24,19 @@
  *   7    the collapse's other habits: italic density, the stock
  *        "most over-X and most under-Y" pair
  *   8    the H2 skeleton against `scripts/article-outlines.json`
+ *   9    a paragraph that stops mid-sentence
+ *  10    paragraph rhythm (a warning)
  *
  * Check 8 exists because prose can pass every other check and still be a
  * broken article: two rewrites came back with no `##` headings at all, so
  * the page had no sections and no argument, and the tic-based checks were
  * green. `scripts/article-outlines.json` records the skeleton each article
  * must have; regenerate it with `npm run lint:outlines`.
+ *
+ * Checks 9 and 10 exist because of what a rewrite batch did that no
+ * sentence-level check could see: one file was truncated mid-clause, and
+ * the whole batch came back with paragraphs averaging 98 words against the
+ * house's 60.
  *
  * BASELINE. `scripts/lint-baseline.json` lists articles that are known to
  * fail and have not been repaired yet — currently the third-wave articles
@@ -347,11 +354,25 @@ function lint(file, vocab, outlines) {
         !p.startsWith("-")
     );
   const truncated = paras.filter(
-    (p) => p.length > 120 && !/[.!?:»)'"*_`]$/.test(p)
+    (p) => p.length > 120 && !/[.!?:»)’”"*_`…]$/.test(p)
   );
   if (truncated.length) {
     for (const p of truncated.slice(0, 3)) {
       errors.push(structure(`paragraph ends mid-sentence: "…${p.slice(-70)}"`));
+    }
+  }
+
+  // 10 — paragraph rhythm. The house runs at a median of 60 words a
+  // paragraph; a rewrite batch that came back from a writer without the
+  // rhythm brief averaged 98, which reads as a wall in a 720px column.
+  // One long paragraph is fine — the house has them up to 177 words — so
+  // this warns on the article average rather than on any single block.
+  if (paras.length) {
+    const mean = paras.reduce((n, p) => n + p.split(/\s+/).length, 0) / paras.length;
+    if (mean > 85) {
+      warns.push(
+        `paragraphs average ${mean.toFixed(0)} words (house median is 60) — split them at sentence boundaries`
+      );
     }
   }
 
