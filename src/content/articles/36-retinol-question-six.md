@@ -4,119 +4,81 @@ date: 2026-10-18
 slug: "retinol-question-six"
 image: "https://images.unsplash.com/photo-1696025522422-aa9a74e4f3d5?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A small bottle of treatment oil photographed on a dark stone, the surface just catching the side light."
-imageCaption: "A retinol bottle, photographed in the late afternoon light."
+imageCaption: "An unlabelled dropper bottle on a slab of dark stone, lit hard from the left so that the glass holds a single vertical highlight."
 categories: ["Skin"]
 categorySlugs: ["skin"]
-excerpt: "Six practitioners — a dermatologist, a formulator, an esthetician, a magazine editor, a chemist, a brand founder — on retinol. The answers diverge."
+excerpt: "Six practitioners on what retinol actually does at the concentration printed on the carton, and why 0.3% is not a dose."
 author: "Lacquered Editorial"
 kicker: "ESSAY"
-dek: "Six practitioners, six answers, one active ingredient the modern market most over-markets and most under-explains."
+dek: "A dermatologist, a chemist, two estheticians, a formulator and a founder disagree about the trade between effect and irritation — and about who should pay it."
 ---
 
-Retinol is, in our view, the most over-marketed and most under-explained active ingredient of the last thirty years. The over-marketing is, in our view, mostly a matter of the word *retinol* itself — the word has, in the modern market, become a kind of *credential*, a label that the brand attaches to a formulation in order to justify the price the formulation is asking. The under-explaining is, in our view, mostly a matter of the science — the science of what retinol does, the science of what retinol does not do, the science of what retinol does at concentrations the brand has, in most cases, decided not to disclose.
+The number on the carton — 0.3%, 0.5%, 1% — is the figure the market sells and the least informative on the package. Retinol is not the molecule that acts on skin. It is a prodrug, oxidised first to retinaldehyde and then irreversibly to all-trans retinoic acid, the form that binds the retinoic acid receptor.
 
-The question we asked, in the conversations below, was the simplest version of the question: *what is retinol, in your practice, actually for?* The six practitioners, in the conversations below, gave us six answers. None of them were wrong. None of them were complete. The answers are, in our view, the most useful thing we have read about retinol in a long time.
+That first step is reversible and runs through RDH10 and DHRS3; the second, catalysed by ALDH1A1, ALDH1A2 and ALDH1A3, is not (Journal of Experimental Medicine, 2024). ATRA binds RARα, RARβ and RARγ at roughly 1–5 nM. Endogenous tissue holds about 0.2–0.8 µM retinaldehyde and 5 nM ATRA, both far below what a serum supplies.
 
----
+Enzyme abundance and kinetics, not the amount applied, gate the signal. Six practitioners were asked what retinol is doing at that concentration. A dermatologist in Lyon, a cosmetic chemist in Paris, another esthetician, a formulator in Brooklyn, an esthetician in Los Angeles and a founder in Marseille gave answers that do not reconcile. They disagree about what counts as working, and about who pays for it.
 
 ## 1. Dr. Adèle Charbonneau — Dermatologist, Lyon
 
-**What is retinol, in your practice, actually for?**
+Kligman, Grove, Hirose and Leyden published the founding study in the Journal of the American Academy of Dermatology in 1986: 0.05% tretinoin daily against vehicle on face and forearms, producing epidermal hyperplasia, dispersal of melanin granules, new papillary-dermal collagen and exfoliation of retained horn. It was open-label, a detail the marketing leaves out.
 
-Retinol is, in my practice, a *gold-standard* topical retinoid for the treatment of photoageing. Retinol is, in clinical terms, the precursor to tretinoin — retinol is converted, in the skin, to retinaldehyde, and the retinaldehyde is converted, in the skin, to tretinoin. The tretinoin is the active form. The retinol is, in formulation terms, two enzymatic steps away from the active.
+The double-blind, vehicle-controlled follow-up was Weiss, Ellis and Headington in JAMA in 1988 — the trial that made the claim credible, and the one later criticised over the objectivity of its clinical photography. The field has been arguing about photographs ever since.
 
-**What is the strongest case for retinol, in 2026?**
+Then the cosmetic literature. Spierings reviewed nine randomised vehicle-controlled trials of over-the-counter vitamin A cosmetics in 2021, in the Journal of Clinical and Aesthetic Dermatology: four found no significant difference from vehicle, eight of nine were sponsored by the manufacturer, none pre-specified a primary endpoint or a sample-size calculation, and none analysed by intention to treat.
 
-The strongest case is, in my view, the case for *long-term consistency*. Retinol is, in clinical terms, one of the few topical ingredients for which there is, in the dermatology literature, evidence of a sustained effect on the appearance of fine lines and on the architecture of the dermis. The evidence is, in most cases, for prescription tretinoin. The evidence is, in some cases, also for cosmetic retinol at higher concentrations. The evidence is, in our view, finally, for the patient who uses the product for years, not weeks.
-
-**What is the strongest case against?**
-
-The strongest case against is, in my view, the case against the *over-marketed cosmetic retinol*. The cosmetic retinol, in most cases, contains retinol at concentrations that are, in formulation terms, too low to do much. The cosmetic retinol is, in most cases, sold at prices that are, in marketing terms, too high for what is, in formulation terms, almost nothing. The cosmetic retinol is, in my view, finally, a brand credential — and the credential is, in most cases, not worth the price.
-
----
+Milosheska and Roškar describe retinol as roughly one tenth the potency of tretinoin — an estimate, not a validated conversion factor. No numerical conversion between retinol, retinaldehyde and tretinoin exists in the clinical literature. Equivalence could only be shown in an active-control non-inferiority trial, and no such retinol trial has been run. Tretinoin's own label is narrow: Renova 0.02% was approved to mitigate fine wrinkles, and states it does not eliminate them or reverse photoaging.
 
 ## 2. Pierre-Auguste Lemoine — Cosmetic Chemist, Paris
 
-**What is retinol, in formulation terms?**
+Lemoine draws the ladder rather than the number: retinyl esters, retinol, retinaldehyde, all-trans retinoic acid, in order of proximity to the receptor. Retinyl palmitate must be hydrolysed to retinol before either oxidation step begins. Neither retinol nor retinaldehyde is an RAR ligand, so their strength is inferred from how efficiently a given skin converts them — which is why two 0.3% products can behave as different drugs.
 
-Retinol is, in formulation terms, a *fragile* molecule. Retinol is, in most cases, encapsulated — in liposomes, in microspheres, in polymeric matrices — in order to deliver it to the skin without, in transit, oxidising. Retinol is, in most cases, also stabilised — with antioxidants, with chelators, with packaging that is, in most cases, opaque and airless.
+The exception is hydroxypinacolone retinoate, HPR, a retinoate ester that binds the receptor directly with no conversion step. It is sold on that basis: no conversion, less irritation. It is also not equivalent to retinol in the regulatory sense, and swapping one for the other changes the legal identity of the product rather than merely its chemistry.
 
-**What is the formulation challenge?**
+Retinol is a fat-soluble solid, poorly soluble in water, so it must travel in an oil phase or a solubiliser; the vehicle determines penetration as much as the percentage does. Stability is the harder constraint. Patent EP 0 832 643 A2 gives a half-life of about 297 days at 30 °C in oil against about 24 days at 30 °C in water. A water-based serum is fighting its own formula.
 
-The formulation challenge is, in our view, mostly a matter of *delivery*. The retinol, in the formulation, must reach the skin in a state that, in formulation terms, is still active. The retinol, in most cases, does not. The retinol, in most cases, oxidises in the jar, in the bottle, in the pump, before the consumer ever opens the package. The oxidation is, in our view, the reason the cosmetic retinol market is, in 2026, mostly a market in *placebo*.
-
-**What would you ban?**
-
-The label claim *anti-ageing* on any product with a retinol concentration below 0.025%. The label claim is, in formulation terms, unsupported. The label claim is, in marketing terms, misleading. The label claim is, in our view, finally, a violation of the consumer's right to know.
-
----
+Oxidation, photodegradation and isomerisation into less active cis-forms are the three decay routes; heat accelerates all three. Antioxidants, chelators, nitrogen blanketing, opaque containers and airless pumps are the standard countermeasures. Encapsulation buys protection and slower release, and slower release means less substrate reaching the enzymes that convert it. Because decay is continuous, the printed percentage is a nominal fill figure; a jar near the end of its shelf life may deliver materially less.
 
 ## 3. Mathilde Aubin — Esthetician, Lyon
 
-**What is retinol, in your practice?**
+Aubin's subject is the bill, and it arrives early. In a twelve-week open multicentre study of a retinoid gel in acne, ninety-eight patients, at least one side effect appeared in 15.3%, all within the first three weeks: 7.4% dryness, 5.3% peeling, 4.3% erythema, 3.2% burning, 2.1% itching. All were mild to moderate; none required discontinuation.
 
-Retinol is, in my practice, the active I most often recommend *against* recommending. Retinol is, in the consultation, the active the client most often asks for. Retinol is, in the consultation, the active the client most often does not need. Retinol is, in the consultation, the active that most often makes the barrier problem I am, in the consultation, trying to fix.
+Withdrawal is the cleaner number. Kafi and colleagues ran 0.4% retinol up to three times weekly for twenty-four weeks in thirty-six adults aged 80 to 96; three, about 8%, stopped for irritation. Monteil's 2025 study of 0.1% retinaldehyde with 2% niacinamide lost two of sixty-six over three months, 3%. Both describe a real cost, paid by a minority, in the first weeks.
 
-**What is the most common problem you see with retinol use?**
+What clinicians call *retinisation* is the adaptation window, generally four to twelve weeks, in which transepidermal water loss rises and the stratum corneum temporarily thins. The working schedule is every third night, then every other night, then nightly. Retinoid dermatitis is an irritant contact dermatitis, not an allergy: the visible cost of RAR activation in the epidermis, not an immune reaction to the product.
 
-Overuse. In a clinical sense, the over-application of retinol — too much, too often, on a barrier that is, in most cases, not ready. The barrier is, in most cases, not ready because the client has, in most cases, been layering acids, retinoids, and physical exfoliants in pursuit of a glow the barrier was already producing on its own.
-
-**What is the prescription?**
-
-Slow. Retinol 0.025%, twice a week, in the evening, on dry skin, with a plain moisturiser over the top. After four weeks, if the skin is tolerating it, increase to three times a week. After another four weeks, four times a week. The prescription is, in our view, finally, the prescription the brand, in its marketing, most often refuses to give.
-
----
+The sandwich method has thinner support than its reputation. A paired double-blind RCT found that a barrier-enhancing moisturiser used before tretinoin, and continued during treatment, reduced side effects against control; two moisturiser trials — Hayashi and Kawashima with a heparinoid, Zeichner with ceramides — reported fewer irritation-related dropouts without an efficacy penalty. No trial has shown that layering order, rather than frequency and vehicle, preserves results in people.
 
 ## 4. Sara Bekele — Formulator, Brooklyn
 
-**What is retinol, in your line?**
+Bekele's answer to the irritation trade is encapsulation: microspheres, liposomes, polymer matrices, structured lipid particles, slowing release and shielding the molecule from oxygen and light. One commercial system described at SICC used retinol-loaded capsules of roughly 280 nm at 3% loading, with better thermal, air and UV stability than free retinol and about fifteen days of usability after opening at room temperature.
 
-Retinol is, in my line, a *secondary* active. Retinol is, in most cases, sold in my line as a *companion* to the things the line is, in our view, actually built around — the ceramides, the squalane, the centella. Retinol is, in my line, an add-on, not a centrepiece.
+None of it changes the enzymology. A capsule still has to release retinol into the viable epidermis, where RDH10 and the ALDH1A enzymes — not the capsule — decide how much ATRA is made. The delivery claim to distrust is encapsulated-therefore-stronger. Published evidence is mostly stability and tolerability; little head-to-head work shows an encapsulated 0.3% outperforming a well-formulated free one.
 
-**What does the industry get wrong?**
+The regulatory arithmetic is where brands slip. The EU cap is written in retinol equivalent, not in the percentage of ingredient as supplied. Retinyl palmitate weighs about 525 against retinol's 286, a factor near 0.55, so a 0.5% retinyl palmitate fill is roughly 0.27% RE and legal, while 0.35% retinol is not.
 
-The industry gets wrong the *promise*. The promise of retinol, in the modern market, is that retinol will *transform* the skin. The transformation is, in our view, a transformation the cosmetic retinol cannot deliver. The transformation is, in our view, also a transformation the consumer does not, in most cases, actually want. The consumer wants, in most cases, the *skin she had ten years ago*. The cosmetic retinol cannot give her that. The cosmetic retinol can, in our view, give her, in a year of consistent use, *better skin than she had last year*. The better is, in our view, finally, the only honest promise.
-
-**What is your honest take?**
-
-Retinol is, in our view, an active ingredient. Retinol is, in most cases, not the *answer*. The answer is, in our view, almost always the routine. The routine is, in our view, the cleanser, the moisturiser, the SPF. Retinol is, in our view, the active that fits *inside* the routine — and the active that, when it is sold as the routine, in our view, most often fails.
-
----
+Above the cap is now an American and Asian phenomenon. A 1% retinol serum can be sold in the United States; the same formula cannot be placed on the EU market after 1 November 2025. No published head-to-head study establishes a minimum effective concentration for cosmetic retinol. The tested range runs about 0.1% to 0.4%. The regulatory ceiling is not an efficacy threshold.
 
 ## 5. Olivia Chen — Esthetician, Los Angeles
 
-**What is retinol, in your client practice?**
+Chen spends her week correcting two beliefs. Retinoids do not thin the skin; the documented effect is the opposite, with epidermal thickening measured after roughly three to six months. Nor are they fast: prescription retinoids are usually quoted at about three months for visible change, over-the-counter retinol at six to twelve. A client judging a 0.1% serum at four weeks is judging the wrong endpoint.
 
-Retinol is, in my client practice, the active I most often *de-prescribe*. Retinol is, in my client practice, the active the client has, in most cases, been told to use by a magazine, by an influencer, by a brand — and the active the client has, in most cases, been told to use in a way that does not, in my view, respect her skin.
+Her practical distinction is purge against irritation. Papules confined to areas that were already comedone-prone are the acne purge. Stinging, sheet-like flaking and red patches are irritation. One is continued more slowly, the other is reduced or stopped. Over-exfoliation is the failure mode the market rewards: AHA and BHA toners, weekly peels and nightly retinol sold as a routine, with the resulting barrier damage misread as purging.
 
-**What is the most common misunderstanding?**
-
-The most common misunderstanding is, in my view, the misunderstanding that *more is more*. The misunderstanding is, in our view, mostly a function of the brand's marketing — the brand wants the consumer to use the product every night, twice a day, in a thick layer, and the brand, in our view, mostly wants the consumer to *run out of product* quickly. The want is, in our view, finally, the want for the repeat purchase. The repeat purchase is, in our view, finally, the priority the formulation has been designed for.
-
-**What is your actual advice?**
-
-Less. A pea-sized amount, every third night, in the evening, on dry skin, with no other actives on the same night. The less is, in our view, finally, the more.
-
----
+On layering she is less absolute than the internet. The vitamin C pairing is over-theorised; the pH conflict is largely brand folklore, and the real problem is two actives with independent irritation potential used on the same night. Under-eye use is defensible, with moisturiser first and a small amount of retinoid. The only consumer instruction with guideline backing is the American Academy of Dermatology's: moisturiser and broad-spectrum sunscreen alongside the retinoid.
 
 ## 6. Camille Rousseau — Brand Founder, Marseille
 
-**What is retinol, in your line?**
+The governing instrument is Commission Regulation (EU) 2024/996 of 3 April 2024, amending Regulation (EC) No 1223/2009. It adds vitamin A — retinol, retinyl acetate and retinyl palmitate — to Annex III, and entered into force on 24 April 2024.
 
-Retinol is, in my line, the active I most carefully formulate *around*. Retinol is, in formulation terms, an active that does not, in our view, play well with others. Retinol is the active that, in our view, destabilises the formulation if you let it. Retinol is the active that, in our view, needs its own vehicle, its own pH, its own packaging.
+The limits are written as retinol equivalent: 0.05% in body lotion, 0.3% in every other leave-on and rinse-off product. The body-lotion figure is six times lower because body lotion goes over a far larger surface area. That is a surface-area calculation, not a verdict that body skin is more delicate.
 
-**What is the marketing problem?**
+Compliance carries a sentence: Contains Vitamin A. Consider your daily intake before use. From 1 November 2025, non-compliant products may no longer be placed on the EU market; from 1 May 2027 they may no longer be made available, the sell-through deadline for stock already in the channel.
 
-The marketing problem is, in our view, mostly a problem of *concentration*. The brand wants the label to say *retinol*, but the brand does not want the formulation to contain retinol at the concentration the active requires to do the work the label claims. The compromise is, in our view, the compromise the modern cosmetic market has been making for thirty years. The compromise is, in our view, finally, a lie.
+The rationale is cumulative exposure, not local toxicity. The SCCS judged the capped concentrations individually safe, then noted that vitamin A also comes from food and supplements, and that up to about 5% of the population may already sit near the tolerable upper intake level from diet alone. In the United States there is no federal cap, which is why a 1% serum is legal in California and illegal in France.
 
-**What would you change?**
+For Rousseau the ceiling is fixed, so competition moves to vehicle, packaging, tolerability and the second active. Reformulating for the cap requires an updated Cosmetic Product Safety Report, a Product Information File and a CPNP notification — an administrative cost that falls hardest on small brands and never appears in the marketing.
 
-I would, in our view, require the brand to disclose, on the label, the retinol concentration in *retinol equivalents*. The disclosure is, in our view, finally, the only reform that would, in the modern market, give the consumer the information she needs to choose. The choosing is, in our view, finally, the work. The work is, in our view, finally, what the active is for.
+The evidence supports less than the category's rhetoric and more than its critics allow. At 0.1%, pooled across six vehicle-controlled trials and 471 women over twelve weeks, benefit over vehicle appeared from week four and held to week twelve. At 0.4%, in thirty-six adults aged 80 to 96, wrinkle score improved 1.64 against 0.08 with vehicle. Those are real effects. They are not transformations.
 
----
-
-The retinol question, in sum, is the question of what the consumer is, in 2026, paying for. The six practitioners above have, in six different professional traditions, given six different answers to the question. None of the answers were wrong. None of the answers were complete. The answers are, in our view, finally, the answer: the consumer is, in 2026, paying mostly for the *word* on the label, and not, in most cases, for the *work* in the bottle.
-
-The work, when it is in the bottle, is, in our view, the work. The work is, in our view, the active at a concentration that, in formulation terms, has been shown, in clinical terms, to do something. The work is, in our view, the formulation that delivers the active to the skin without, in transit, oxidising. The work is, in our view, finally, the consumer who has, in our view, been taught, by the slow, careful reading of the practitioner, what to ask for.
-
-The asking is, in our view, finally, the work. The work is, in our view, finally, what retinol is for.
+The irritation is the price of the same receptor activation that produces the effect. The slow ramp, the moisturiser, the capsule, the airless pump — each is an attempt to keep the signal and lower the noise, and none abolishes the trade. None of the six reads the figure on the front of the carton as a dose. That reading is what the market depends on.

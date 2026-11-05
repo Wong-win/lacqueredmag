@@ -4,115 +4,81 @@ date: 2026-10-18
 slug: "sunscreen-question-six"
 image: "https://images.unsplash.com/photo-1689414748960-0498d6675f20?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A bottle of sun product resting on a beach surface, photographed in warm summer light."
-imageCaption: "A sunscreen bottle, photographed in summer light."
+imageCaption: "A bottle of sun product standing on sand, photographed in low, warm summer light; the shadow runs long to the right of the frame."
 categories: ["Skin"]
 categorySlugs: ["skin"]
-excerpt: "Six voices on mineral versus chemical, SPF rating, reapplication, white cast, daily use. The science is settled; the behaviour is not."
+excerpt: "Six professionals on one product: what the SPF number measures, what the label cannot promise, and why the dose in the bathroom is a third of the dose in the test."
 author: "Lacquered Editorial"
 kicker: "ESSAY"
-dek: "Sunscreen is the most over-researched and under-used category in modern skin care. Six voices on why the science is settled and the behaviour is not."
+dek: "The filters work and the tests are reproducible. What divides the six people below is not chemistry but liability."
 ---
 
-Sunscreen is, in our view, the most over-researched and under-used category in modern skin care. The over-research is, in our view, mostly a function of the *lab*. The lab has, in the last thirty years, generated an enormous body of evidence on what sunscreen does, what concentration is required, what reapplication interval is required, what damage is prevented. The under-use is, in our view, mostly a function of the *consumer*. The consumer has, in most cases, decided the sunscreen is the product that is, in formulation terms, the most *unpleasant* to use. The unpleasantness is, in our view, finally, the cost the consumer is willing to pay for the *not-using*.
+In 2018, thirty-one volunteers in swimwear were photographed under black light after one application of sunscreen. The median dose on their skin was 0.60 mg/cm². The dose the product had been tested at was 2.00 mg/cm².
 
-The six voices below are, in our view, the six most useful voices on sunscreen in the modern market. The not-hearing is, in our view, finally, the reason the science has been settled for thirty years and the behaviour has not.
+That gap is the argument. Sunscreen is the one skincare category where professional consensus and customer behaviour have parted, and neither side is lying: the filters work, the tests are reproducible, and the dose in an ordinary bathroom is roughly a third of the dose in the laboratory.
+
+The six positions below divide not on mineral against chemical but on who carries the cost of being wrong — the dermatologist if a patient develops a melanoma, the esthetician if a client burns, the founder in front of a regulator. The customer is wrong on their own face, and never sees the evidence.
 
 ## 1. Dr. Inès Ferrand — Dermatologist, Paris
 
-**What is the strongest case for daily sunscreen use?**
+Begin with the number, because it is misread. SPF is a ratio of doses, not a percentage: the minimal erythema dose on protected skin divided by the dose on bare skin, measured *in vivo* under ISO 24444, published in 2010 and revised in 2019. The percentage blocked is derived afterwards — 93% for SPF 15, 97% for 30, 98% for 50.
 
-The strongest case is, in my view, the case for *photoageing*. The photoageing is, in clinical terms, the premature ageing of the skin caused by chronic ultraviolet exposure. The photoageing is, in clinical terms, the *single largest* contributor to the visible signs of ageing — larger, in most cases, than genetics, larger than diet, larger than stress. The sunscreen is, in clinical terms, the only topical intervention that has been shown, in the dermatology literature, to *prevent* the photoageing.
+The protocol is fussier. Product goes on the back at 2.00 ± 0.05 mg/cm²; at least ten valid subjects of phototype I–III are required; erythema is read at 16 to 24 hours, and the 95% confidence interval must fall within 17% of the mean. SPF covers UVB. UVA is separate — persistent pigment darkening under ISO 24442, or *in vitro* on PMMA plates under ISO 24443.
 
-**What is the SPF you actually recommend?**
+Europe and America say it differently. An EU sunscreen must meet Recommendation 2006/647/EC: SPF of at least 6, UVA protection at least one-third of the labelled figure, and a critical wavelength of at least 370 nm for a broad-spectrum claim. The circled UVA symbol marks that ratio. The American label prints pass or fail.
 
-SPF 50 PA++++. The fifty is, in clinical terms, the protection factor against UVB — the fifty means, in clinical terms, that the consumer is protected for fifty times longer than she would be unprotected. The PA++++ is, in clinical terms, the protection factor against UVA — the four plus signs is, in clinical terms, the highest grade. The combination is, in my view, finally, the combination the consumer should be using every morning, including the mornings she is staying indoors.
+None of it survives the bathroom. In the 2018 study, only 19% of participants reached 2 mg/cm² even after two applications. A 2021 audit of 51 US sunscreens, labelled SPF 15 to 110, measured values averaging 42% and 59% of the label under two methods.
 
-**What about the indoor?**
-
-The UVA passes through glass. The UVB does not. The UVA is, in clinical terms, the longer wavelength, the wavelength that penetrates deeper into the dermis, the wavelength that, in clinical terms, is responsible for most of the photoageing. The consumer who is sitting by a window, is, in most cases, exposed to UVA without protection.
-
----
+The stake is not theoretical. US figures cited in a 2025 review put melanoma incidence at 27.3 per 100,000 in 2021, against 8.8 in 1975, with 8,243 deaths in 2022. Her advice is unglamorous: reapply every two hours of sustained exposure, and after swimming, heavy sweating or towel drying. That is about film removal, not a filter expiring.
 
 ## 2. Pierre-Auguste Lemoine — Cosmetic Chemist, Paris
 
-**What is the formulation challenge in sunscreen?**
+The American palette is short. The US lists sixteen UV filters in its OTC monograph, in a table compiled on 12 August 2024; the EU regulates filters under Annex VI of Regulation (EC) No 1223/2009, a substantially longer list. Only zinc oxide and titanium dioxide are classified GRASE. Twelve organic filters sit in Category III; PABA and trolamine salicylate are Category II.
 
-The formulation challenge is, in our view, mostly a matter of *the vehicle*. The active ingredients in sunscreen — the mineral filters, the chemical filters — are, in formulation terms, mostly *difficult* to deliver. The mineral filters are, in formulation terms, *particles* — the particles scatter light, the particles give, in most cases, a white cast. The chemical filters are, in formulation terms, *liquids* — the liquids are, in formulation terms, mostly difficult to stabilise, the liquids give, in most cases, a *slimy* feel.
+The ceilings are fixed too: zinc oxide 25%, titanium dioxide 25%, homosalate 15%, octocrylene 10%, oxybenzone 6%, avobenzone 3%. No new UV filter has been approved for the American market since 1999. The 2025 review calls this the central constraint on US formulation: the same actives, at the same ceilings, since the Clinton administration.
 
-**Mineral versus chemical?**
+Avobenzone is the only long-wave UVA organic filter in the monograph, and it is photounstable alone; octocrylene is the conventional stabiliser. Inorganics make it worse unless surface-treated. A Kobo Products study found under 1% of avobenzone remaining after irradiation with untreated titanium dioxide or zinc oxide; silica-treated TiO₂ retained up to 76%, silane-treated anatase 65%.
 
-Both work. Both are, in formulation terms, well-characterised. The mineral is, in our view, the better choice for *sensitive* skin, the better choice for *children*, the better choice for the consumer who has decided she wants to *avoid* chemical filters. The chemical is, in our view, the better choice for *daily use* under makeup, the better choice for *active* lifestyles.
-
-**What is the formulation trend in 2026?**
-
-The trend is, in our view, mostly *hybrid* — the hybrid formulation that uses both mineral and chemical, that gives the broad-spectrum coverage of the chemical, with the gentleness of the mineral. The hybrid is, in formulation terms, finally, the compromise the modern market has mostly settled on.
-
----
+Bemotrizinol is the test case, already used in Europe and under an FDA monograph order request sponsored by DSM-Firmenich at a proposed 6%. The 2025 review expected a GRASE determination in March 2026 — the first new American filter since 1999, if it holds. The safety argument is molecular size: *in vitro* studies put bisoctrizole and bemotrizinol at roughly 0.01% of the applied dose crossing human skin.
 
 ## 3. Mathilde Aubin — Esthetician, Lyon
 
-**What is the most common problem you see with sunscreen use?**
+Aubin does not begin with the label. In the 2018 PLOS ONE study, a single application covered a median 80% of accessible skin: one-fifth was simply missed. A second pass twenty minutes later raised coverage to 91% and the dose from 0.60 to 1.10 mg/cm² — a gain in every region, and still half the tested dose.
 
-Under-application. The consumer applies, in most cases, half the recommended amount. The half-application is, in most cases, a function of the *feel* — the consumer has, in most cases, decided the sunscreen is, in formulation terms, too heavy, and the consumer has, in most cases, decided the routine is, in formulation terms, already too long, and the consumer has, in most cases, applied the sunscreen *thinly* in order to get the routine over with.
+The ears are the outlier, and the paper's most striking result. Women missed a median 80% of ear surface on one application, interquartile range 30 to 100%, and still missed 44% after a second pass. Men missed 8%, then 4%. Elsewhere the single-application rates ran: back of the trunk 26%, arms 25%, instep 24%, thighs 22%, neck 6% and 4%.
 
-**How much should the consumer actually apply?**
+Dose matters as much as coverage. Ou-Yang, testing SPF 30 to 100 at 0.5, 1.0, 1.5 and 2.0 mg/cm², found a linear relationship: an SPF 100 product delivered an actual SPF of about 27 at 0.5 mg/cm². Fujiwara measured real facial application at a median 1.33 mg/cm²; matching SPF 15, 30 and 50 would need labels of roughly 23.8, 47.5 and 79.2.
 
-A quarter teaspoon for the face. A quarter teaspoon is, in our view, the amount that, in clinical terms, gives the SPF rating on the label. The amount that, in most cases, the consumer applies is, in our view, finally, *half* that — and the half is, in clinical terms, finally, *half the protection*. The half-protection is, in our view, finally, the difference between the sunscreen doing the work the consumer thinks it is doing, and the sunscreen doing *less than half* the work the consumer thinks it is doing.
-
-**What is the reapplication interval?**
-
-Every two hours, when the consumer is, in most cases, in direct sun. Every four hours, when the consumer is, in most cases, indoors. The reapplication is, in our view, finally, the most under-discussed part of the sunscreen routine. The reapplication is, in our view, also the most under-practised part of the sunscreen routine. The under-practising is, in our view, finally, the loss.
-
----
+The two-hour rule is a practical cap, not a half-life. Wulf found only a 28% reduction over an eight-hour day in indoor office workers; a beach simulation left roughly 43% of protection after eight hours of activity, bathing and wiping. The reasons to reapply are physical — rubbing, sweat, towel, sand — plus photodegradation. At 34 to 36 g a full-body application, a 50 ml bottle holds about one and a half.
 
 ## 4. Sara Bekele — Formulator, Brooklyn
 
-**What does the industry get wrong about sunscreen?**
+Bekele works inside the same sixteen filters and the same ceilings. The European formulator has bemotrizinol, bisoctrizole, DHHB, Mexoryl 400 and TriAsorB on the list; the American one does not. Texture and elegance are partly a regulatory artefact, not a difference in skill.
 
-The industry gets wrong the *reapplication infrastructure*. The reapplication is, in most cases, the part of the sunscreen routine the consumer most often skips. The skipping is, in formulation terms, a function of the *format*. The format — the cream, the lotion, the stick — is, in most cases, *not* designed for reapplication. The format is, in most cases, designed for the *morning application*, and the morning application is, in our view, finally, the application the consumer has, in most cases, decided to do.
+Zinc oxide and titanium dioxide are capped at 25% each. A high SPF from inorganics alone requires a heavy loading, and that loading causes white cast — the sensory objection that drives people to apply less. The 2021 audit found a problem upstream of behaviour: 51 American sunscreens at 42% and 59% of labelled SPF, and average UVA-PF at 24%.
 
-**What is the solution?**
+SCCS opinions in 2021 recommended cutting oxybenzone to 2.2% in body and spray products and 0.5% elsewhere, and homosalate to 0.5%, against American ceilings of 6% and 15%. A 2019 study found plasma concentrations above the FDA's 0.5 ng/mL threshold for avobenzone, oxybenzone, octocrylene and TDSA; the only common side effect was a mild rash in one participant.
 
-The solution is, in our view, mostly a matter of *format*. The format that, in our view, most encourages reapplication is the *powder*. The powder is, in our view, the format that, in formulation terms, can be applied over makeup, that, in most cases, does not disturb the makeup, that, in most cases, gives the consumer the experience of *freshening up*. The powder is, in our view, finally, the format the modern market has, in our view, mostly under-developed.
-
-**What is the most important reform?**
-
-The most important reform is, in our view, the reform of the *claim*. The claim, in 2026, is, in most cases, *SPF 50*. The claim should, in our view, also be the *reapplication interval*. The reapplication interval is, in our view, the metric the consumer most needs. The metric is, in our view, finally, the metric the brand, in its marketing, has been most reluctant to disclose.
-
----
+Hawaii moved first. Act 104, signed in 2018, banned the sale of sunscreens containing oxybenzone or octinoxate without a prescription from 1 January 2021 — the first state ban of its kind. Attempts to extend it, SB 3001 in 2022 and SB 840 in 2025, drew dermatology groups' opposition: they testified that expansion could remove roughly 64% of available sunscreens.
 
 ## 5. Camille Rousseau — Brand Founder, Marseille
 
-**What is the sunscreen format you have, in your line, most invested in?**
+Rousseau's business is made of words that are legally constrained. The FDA's 2011 labelling rule, 76 FR 35620, published on 17 June 2011, permits exactly two water-resistance claims: "Water Resistant (40 minutes)" and "Water Resistant (80 minutes)". The claim is earned by immersion testing — two twenty-minute immersions for the forty, four for the eighty — with SPF measured afterwards. It measures retention, not a film surviving a day at the beach.
 
-The stick. The stick is, in our view, the format that, in most cases, most respects the consumer's morning routine. The stick is, in formulation terms, easy to apply, does not require the consumer to use her fingers, can be applied over makeup, can be carried in a small bag. The stick is, in our view, finally, the format that has, in the modern market, most under-delivered — and the under-delivering is, in our view, finally, the loss.
+"Waterproof", "sweatproof" and "sunblock" are prohibited claims under the same rule; a brand printing them is outside the American market or outside the law. Broad spectrum requires a critical wavelength of at least 370 nm and SPF of at least 15. Only products meeting both may claim a reduced risk of skin cancer; everything else must carry the Skin Cancer/Skin Aging alert.
 
-**What is the sunscreen format you would like to see more of?**
+The rules have moved, but not finished moving. The FDA's 2021 proposed order would have raised the labelled maximum from 50+ to 60+, required SPF 15 for any broad-spectrum claim and proposed sprays as GRASE; it was never finalised as a whole. In Europe, anything above 50 is labelled 50+. The EU water-resistance test is ISO 16217, also two twenty-minute cycles; the forty and eighty are an American construct.
 
-The mist. The mist is, in formulation terms, finally, the format that most encourages reapplication. The mist is, in most cases, easy to apply, does not require the consumer to touch her face, can be applied over makeup. The mist is, in our view, the format that, in the modern market, has been most over-marketed and most under-delivered. The over-marketing is, in our view, finally, the loss.
-
-**What is the honest take?**
-
-The honest take is, in our view, that the consumer should, in most cases, choose the format she will actually use. The using is, in our view, finally, the work. The best sunscreen is the one that, in formulation terms, gets used. The worst sunscreen is the one that sits in the bathroom drawer.
-
----
+The asymmetry is the business model. An American brand must formulate inside a 1999 palette and pay for drug-level testing; a European brand can buy newer filters, claim a UVA ratio and print 50+. Two products with the same SPF number can be different instruments. Rousseau's point is not that one system is honest, but that the label was written by a regulator, and the two answer different questions.
 
 ## 6. Olivia Chen — Esthetician, Los Angeles
 
-**What is the most common sunscreen myth you have to dispel?**
+The client in Chen's chair applies about 0.60 mg/cm² — 30% of the tested dose, in a study where participants knew they were photographed under black light. A single application leaves a median 20% of accessible skin untouched. The failure is not only thinness but absence, and absence is invisible in a mirror.
 
-The myth of the *high SPF giving double the protection*. The myth is, in our view, mostly a function of the *number*. The number on the bottle — the SPF 30, the SPF 50, the SPF 100 — suggests, in marketing terms, that the protection is, in formulation terms, *proportional* to the number. The protection is, in clinical terms, *not* proportional. The SPF 50 is, in clinical terms, *about 1.3 times* the protection of the SPF 30, not *1.7 times*. The SPF 100 is, in clinical terms, *about 1.4 times* the protection of the SPF 50, not *2 times*.
+The fix is unglamorous and the strongest result in the literature. A second pass twenty minutes after the first moved coverage from 80% to 91% and the dose from 0.60 to 1.10 mg/cm². It costs nothing, needs no new filter, and works everywhere measured. It also leaves the user at 55% of the tested amount. It works, and it is not enough.
 
-**What is the SPF that actually matters?**
+The areas clients miss are consistent — ears, worst for women, then the back of the trunk, arms, instep, thighs, hairline. The ears alone plausibly explain the keratoses and carcinomas seen on the helical rim. The two-hour rule is about removal, not expiry: sweat, water, towel and sand take the film off, while avobenzone degrades under UV. Indoors, with a proper dose, protection falls only about 28% over eight hours; on a beach day, one simulation found roughly 43% remaining.
 
-The SPF that actually matters is, in our view, the SPF 30. The SPF 30 is, in clinical terms, the protection factor that blocks, in clinical terms, about 97% of the UVB. The SPF 50 is, in clinical terms, the protection factor that blocks, in clinical terms, about 98% of the UVB. The difference between the two is, in clinical terms, finally, *one percentage point*. The percentage point is, in our view, finally, less important than the *reapplication*.
+The cost argument appears on no packaging: 34 to 36 g is a full-body application, so a 50 ml bottle is about one and a half, and a family of four at the beach is a bottle. Cosmetic elegance is a clinical variable — the white-cast objection is the documented reason people apply less. Vitamin D is the weakest objection: even SPF 15 use permits good production, and there is no evidence of population-level deficiency.
 
-**What is the one thing you tell every client?**
-
-The one thing I tell every client is, in our view, the same. The one thing is, in our view, the *morning*. The morning application is, in our view, finally, the application the consumer most often *does* do. The morning application is, in our view, finally, the application the consumer most often *skips*. The morning application is, in our view, finally, the application that, in clinical terms, prevents most of the photoageing. The photoageing is, in clinical terms, finally, what the sunscreen is for. The for is, in our view, finally, what the morning is for.
-
----
-
-The sunscreen question, in sum, is the question of whether the consumer is, in 2026, using the product the science has, in most cases, finally, settled on. The science has, in most cases, settled on the *SPF 50, broad spectrum, every morning, every two hours in direct sun*. The behaviour has, in most cases, not settled. The not-settling is, in our view, finally, the loss.
-
-The loss is, in our view, finally, the loss of the photoageing the sunscreen was, in clinical terms, designed to prevent. The photoageing is, in our view, finally, the cost of the not-using. The paying is, in our view, finally, the work. The work is, in our view, finally, what the sunscreen is for.
+Six people, six kinds of liability, and one number nobody can move. The double application remains the best advice available: free, replicable, and worth a third of the gap. The customer who follows it still finishes a beach day at roughly half the dose the product was tested at. That is not a marketing problem. It is what happens when a laboratory standard meets a bathroom.
