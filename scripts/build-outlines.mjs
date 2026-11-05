@@ -116,7 +116,6 @@ console.log(`\n${drift} article(s) differ from their registered outline`);
 
 if (process.argv.includes("--write")) {
   const payload = {
-    generated: new Date().toISOString().slice(0, 10),
     note:
       "Registered H2 skeletons. `active` = the gate fails the build if the " +
       "article's headings drift from this list; `pending` = the third-wave " +

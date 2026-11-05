@@ -1,5 +1,4 @@
 {
-  "generated": "2026-11-04",
   "note": "Registered H2 skeletons. `active` = the gate fails the build if the article's headings drift from this list; `pending` = the third-wave backlog, where the outline is the target and a mismatch only warns. Regenerate with `npm run lint:outlines`.",
   "articles": {
     "01-the-lacquer-files.md": {
