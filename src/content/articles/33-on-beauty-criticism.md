@@ -4,73 +4,83 @@ date: 2026-10-18
 slug: "on-beauty-criticism"
 image: "https://images.unsplash.com/photo-1662749288212-c699d4977093?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A small arrangement of a notebook and pen on a pale desk, side-lit through an unseen window."
-imageCaption: "The desk at which this essay was written. The notebook is the second one in the series. The pen is the only one that has lasted."
+imageCaption: "A closed notebook and a black fountain pen on a pale wooden desk, lit from the left by a window out of frame; a second, thinner notebook sits just behind."
 categories: ["Atelier"]
 categorySlugs: ["atelier"]
-excerpt: "Criticism is the editorial function that protects the reader. A short essay on what beauty criticism is, what it is not, and why it still matters."
+excerpt: "Criticism is not a taste verdict but the verification of three documents — the label, the claim file and the launch economics — and each is only partly public."
 author: "Lacquered Editorial"
 kicker: "ESSAY"
-dek: "Criticism is the editorial function that protects the reader. A short essay on what beauty criticism is, what it is not, and why it still matters."
+dek: "The beauty press inherited the advice column, not the review. What an argument with a standard would require, and where the industry's own paperwork supplies it."
 ---
 
-Beauty criticism is, in our view, the editorial function the modern beauty press most needs and least often performs. The function is, in our view, also the function the modern beauty press most often confuses with the *review*. The review is, in our view, a different animal. The review tells the reader whether the product works. The criticism tells the reader whether the product should exist. The criticism is, in our view, the harder of the two, and the one the modern market most wants to avoid.
+The Good Housekeeping Seal was established in 1909, nine years after the magazine's Experiment Station began operating, and about five thousand products had carried it by 2008. The seal read "Tested and Approved," which is a verdict in two words.
 
-The avoiding is, in our view, also the problem. The cosmetic counter, in 2026, is the cosmetic counter that the criticism did not, in the previous decade, do. The cosmetic counter is, in 2026, full of products that should, by any reasonable standard, not exist — products that are, in formulation terms, indistinguishable from a competitor's product, products that are, in marketing terms, indistinguishable from the brand's last product, products that are, in editorial terms, indistinguishable from anything. The criticism that should have named this is, in most cases, the criticism that was not written.
-
-The criticism, when it is written, is, in our view, the criticism that asks three questions. The first question is: *does the formulation serve the wearer?* The second question is: *does the marketing tell the truth?* The third question is: *does the launch matter?* The three questions are, in our view, the questions that distinguish the criticism from the review. The review is, in our view, mostly the answer to a fourth question — *does it work?* The fourth question is, in our view, also the question the modern market most wants to keep the press asking.
+That wording did not survive the Federal Trade Commission. After the agency challenged Good Housekeeping's claims as misleading between 1939 and 1941, the publisher dropped the phrase; by 1962 the seal guaranteed only "Product or Performance," a promise about the object, not the advertiser's promise for it.
 
 ## What the criticism is not
 
-The criticism is, in our view, not the review. The review is, in our view, a *testimonial* — a reading of a single product, on a single skin, with a verdict at the end. The verdict is, in our view, almost always *yes* or *no* — and the *yes* or *no* is, in the modern market, the answer the consumer most wants. The consumer wants to know whether to buy the product. The review tells her.
+Taste is the category advertising law deliberately leaves alone. The CAP Code permits "obvious exaggerations" the average consumer will not take literally, provided the communication does not materially mislead; the FTC's substantiation doctrine attaches only to objective claims. Both regimes police the falsifiable and ignore the agreeable. That gap is where a critic works.
 
-The criticism is, in our view, also not the *trend report*. The trend report is, in our view, mostly a translation of the industry's marketing brief into something the consumer can understand. The criticism, in our view, asks the marketing brief to justify itself.
+It is not the review, either, and beauty has never quite had one. There is no standard review format comparable to the restaurant guide's star system; the closest documented verdict is Allure's Best of Beauty, which dates only to the mid-1990s. A review says whether a product works on one face. That is a service, not an argument.
 
-The criticism is, in our view, also not the *profile*. The profile is, in our view, almost always flattering, written in cooperation with the subject. The criticism is, in our view, mostly unflattering, written about the *work*, not the worker.
-
-The criticism is, in our view, finally, not the *recommendation*. The recommendation is, in our view, the form the modern market most wants, because the recommendation is the form most monetised. The criticism is, in our view, the form the modern market most resists.
+Nor is it fashion criticism: Roland Barthes published *Rhétorique de la mode* in *Communications* 5 in 1963 and *Système de la mode* in 1967, reading the sign system rather than testing the object. Nor is it activism. The 655/2013 criteria are not a ban list; a failed claim is reworded and the product stays on sale. Legislation, not criticism, removes an ingredient.
 
 ## What the criticism is
 
-The criticism is, in our view, a *reading*. The reading is, in our view, of a single launch, or a single brand, or a single trend — but the reading is, in our view, not a verdict. The reading is, in our view, an *interpretation*. The interpretation asks what the launch means. The interpretation asks who the launch is for. The interpretation asks what the launch is doing, in the larger market, that the consumer cannot see.
+The three questions come from the industry's own paperwork. Regulation 1223/2009 sets what the label discloses; Regulation 655/2013 sets what a claim may assert; the CAP Code and the FTC set what an advertisement may imply. Each document is partly public and partly closed, and criticism begins by establishing which part the reader is holding.
 
-The criticism is, in our view, also a *position*. The position is, in our view, sometimes supportive, sometimes opposed, sometimes both. The position is, in our view, also the position the consumer is, in the end, paying for. The paying is, in our view, also the *protection* — the consumer is paying for the protection of having someone, on her behalf, take a position the brand has not.
+The oldest model is the restaurant guide, a decision machine rather than an essay. The *Guide Michelin* was first published in France in 1900 by the Michelin tyre company as a free motorist handbook. The star arrived in 1926, the hierarchy in 1931, and the criteria in 1936: a very good restaurant, worth a detour, worth a special journey.
 
-The criticism is, in our view, finally, a *conversation*. The conversation is, in our view, between the publication and the consumer and the launch — the conversation is, in our view, the form the criticism most needs to take in 2026, because the conversation is the form that most respects the consumer's intelligence.
+Its method is anonymity and repetition. Inspectors visit unannounced and the guide pays for the meal; every French restaurant it reviews is visited at least every eighteen months. Michelin removed advertising when it began charging for the guide in 1920 and 1922, so its money comes from readers, not from the businesses it judges.
+
+Beauty has no equivalent. Allure's Best of Beauty began in the mid-1990s and runs as two sets, one chosen by editors and one voted by readers, with the advertising department excluded from selections. The page makes no claim to have changed practice. The award is a verdict form, not a standard.
 
 ## The first question: does the formulation serve the wearer?
 
-The first question is, in our view, the question the criticism most often forgets to ask. The forgetting is, in our view, also the reason the modern cosmetic counter is, in 2026, full of formulations that are, in effect, identical. The cosmetic industry has, in the last twenty years, *standardised* its formulations — the standardised formulation does not, in formulation terms, do anything that the consumer could not, with a different brand, also get. The standardised formulation is, in most cases, the formulation the consumer is buying *despite*, not because of.
+Begin with the pack, the only part of the evidence a reader holds. Article 19 of Regulation (EC) No 1223/2009 requires ingredients in descending order of weight when added, with anything at or below 1 per cent free to appear in any order. Colourants go last, nanomaterials are marked "nano," and fragrance appears collectively as "parfum" or "aroma."
 
-The criticism that asks whether the formulation serves the wearer is, in our view, the criticism that, in most cases, finds that the formulation does not. The formulation does not serve the wearer in any meaningful way that another formulation would not also serve. The formulation does, in our view, serve the *brand*.
+The order states rank, not dose. No concentration figure is required; a brand that prints "10% niacinamide" has volunteered the number, and nothing verifies it. The one part of the dossier that appears is the name and address of the Responsible Person under Article 19(1)(a) — the legal entity answerable for the file, and the only thread from pack to evidence.
 
-The criticism is, in our view, also the criticism that has been most often displaced by the *influencer*. The influencer is, in our view, mostly a marketing channel — paid by the brand to say that the formulation serves the wearer. The criticism is, in our view, the opposite of the influencer.
+Proof of effect exists and is private. Article 11(2)(d) requires the Product Information File to contain proof of the claimed effect, and the file is kept ten years after the last batch is sold, accessible to a competent authority, not the public. The EU's guidance adds that an ingredient's properties need data showing it "in an effective concentration."
+
+The German GDCh guidance supplies the corollary: supplier data sheets do not prove a cosmetic's effect, because effect depends on composition, concentration, stability and penetration. The EU guidance then defines the words the industry leans on. "Clinically proven" means human testing under qualified medical or scientific supervision, with a report identifying the tested product and linking it to the one on sale.
+
+"Dermatologically tested" means testing supervised by a dermatologist, and consumer self-perception studies are not appropriate to substantiate it; in the US the phrase has no legal definition. Yet the European menu is wide: Annex II accepts in silico, in vitro, ex vivo, instrumental and biochemical methods, human studies, sensory evaluation and consumer perception tests, alone or combined.
+
+A panel of eight out of ten women agreeing can therefore be properly substantiated with no instrument near it. It can also tell the reader almost nothing about the formula — which is why the first question cannot be answered by a percentage in an advertisement.
+
+Fragrance is the largest deliberate gap. Regulation (EU) 2023/1545 raises the declarable allergen list from 24 substances to 81, at more than 0.001 per cent in leave-on and 0.01 per cent in rinse-off, for products placed on the EU market from 1 August 2026, with sell-through to 31 July 2028. Article 10 requires a safety assessment before sale and certifies nothing about the claim.
 
 ## The second question: does the marketing tell the truth?
 
-The second question is, in our view, the question the modern beauty press most often refuses to ask. The refusing is, in our view, also the reason the modern cosmetic counter is, in 2026, full of marketing that is, in effect, a lie. The lie is, in our view, a small lie — the lie is, in most cases, the lie of *benefit*. The benefit is, in our view, almost always exaggerated, in most cases finally a benefit the formulation does not, in any meaningful sense, deliver.
+In the United States nothing is checked before sale. The FDA states that, apart from colour additives, cosmetics do not require approval before they go on the market. The FTC's 1984 policy asks for "competent and reliable scientific evidence" for objective claims, with the level of proof rising as the claim grows.
 
-The criticism that asks whether the marketing tells the truth is, in our view, the criticism that, in most cases, finds that the marketing does not. The marketing does not, in our view, tell the truth in any meaningful way. The marketing does, in our view, tell the truth about *what the brand wants the consumer to believe*. The belief is, in our view, almost always a belief the brand has spent, on focus groups, several months *engineering*.
+Europe writes the test as six criteria of equal weight: legal compliance, truthfulness, evidential support, honesty, fairness and informed decision-making, consistent with the Product Information File. A cosmetic may not claim approval, because none is given, and the CE mark may not be used for the same reason.
 
-The criticism is, in our view, also the criticism that has been most often *paid for* by the brand. The paying is, in our view, the form the modern market most often uses to silence the criticism. The paying is, in our view, also the test. The criticism that is paid for is, in our view, not criticism.
+Three examples are quotable. "48 hours of hydration" is not permitted if the evidence supports less; "silicone-free" is false if the product contains silicone; "paraben-free" should not be accepted at all, because parabens are safe under the regulation and the claim denigrates the group. The CAP Code reaches the same logic, requiring evidence before publication.
+
+Words with no legal standard are where the money is: "dermatologist tested," "hypoallergenic," "clean," "medical grade" and, in the US, "clinically proven." Enforcement has been thin. In the Sunday Riley case the FTC alleged that executives directed employees and interns to post five-star Sephora reviews under fake accounts; the settlement, approved on 6 November 2020, imposed no redress, disgorgement or penalty.
+
+Two commissioners dissented, calling it "no-money, no-fault." It took a rule to address what reporting described: the FTC banned fake, purchased, sentiment-conditioned and insider reviews on 14 August 2024, five years later. The reader's useful questions — who paid, what was measured, on how many people, for how long, against what comparator, and whether the claim describes the finished product — map onto the file, not the advertisement.
 
 ## The third question: does the launch matter?
 
-The third question is, in our view, the question the criticism most often avoids. The avoiding is, in our view, also the reason the modern cosmetic counter is, in 2026, full of launches that, in any meaningful sense, do not matter. The launch is, in our view, almost always a launch the brand, in its own quarterly report, will, in a year, not remember. The launch is, in our view, also the launch the consumer, in her bathroom, will, in a year, not have used.
+The launch is the weakest signal and the easiest to mistake for a strong one. Beauty Independent asked eleven experts in October 2024 and put an "A-level" launch at $100,000 to $1 million, up from $50,000 to $250,000 a few years earlier. The floor for development, packaging and manufacturing, before marketing, was about $60,000.
 
-The criticism that asks whether the launch matters is, in our view, the criticism that, in most cases, finds that the launch does not. The launch does not, in our view, matter in any way that another launch would not also not matter. The launch does, in our view, matter to the brand.
+Cosmetic chemist Ananya Sharma gave the breakdown: development $100,000 to $300,000; packaging $50,000 to $150,000; branding and marketing $200,000 to $500,000; production $50,000 to $100,000; distribution and logistics $50,000 to $100,000. Marketing is the largest line, up to $500,000 of a $1.2 million launch. Custom development takes nine months to two years, according to Laura Horne of FP Labs.
 
-The criticism is, in our view, also the criticism that has been most often displaced by the *newsletter*. The newsletter is, in our view, mostly a digest of the week's launches, written in the brand's own language. The criticism is, in our view, the editorial function the newsletter most resembles, and the function the newsletter most often performs *badly*.
+Failure is the norm by the industry's own accounting, though the accounting is soft. Trade sources put failure at roughly 78 to 85 per cent within two years: SIS International says 78 per cent of beauty launches, a widely cited Nielsen figure says 85 per cent for consumer packaged goods, and a Dassault Systèmes executive says about 80 per cent within the first year. The definitions differ, so quote the range.
+
+The launch has no evidential gate. In the US no one reviews the claim before sale; in Europe the file is kept, not approved. A launch date certifies that money was spent, not that a claim was tested. If most launches fail and each costs six figures, the rational launch is one designed to be seen rather than repeated.
 
 ## Why the criticism still matters
 
-The criticism still matters, in our view, because the consumer still needs it. The consumer needs the criticism, in our view, because the consumer cannot, on her own, ask the three questions. The consumer cannot ask the first question because the formulation is, in most cases, hidden from her. The consumer cannot ask the second question because the marketing is, in most cases, designed to obscure the question. The consumer cannot ask the third question because the launch is, in most cases, designed to feel, in the moment, like it matters.
+There is no gatekeeper to delegate to. The FDA does not approve cosmetics or their claims; the EU requires a file rather than an authorisation. The reader meets the claim before any independent reader does, and the apparatus is not small: L'Oréal reported advertising and promotion expenses of €14,008.9 million in 2024, 32.2 per cent of €43,486.8 million in sales.
 
-The criticism is, in our view, the editorial function that, on the consumer's behalf, asks the questions the consumer cannot see the questions behind. The criticism is, in our view, also the editorial function that has been most under-funded. The under-funding is, in our view, also the loss.
+Enforcement is retrospective and can be free. The Sunday Riley settlement cost the company nothing in redress, disgorgement or penalty, and two commissioners warned it signalled a zero cost for fake-review fraud. A regulator needs a case, a rule and years; a critic can point out in eight hundred words that a named active sits below the 1 per cent line, where the label's order stops meaning anything.
 
-The criticism is, in our view, also the editorial function the modern market most wants to replace with the *algorithm*. The algorithm is, in our view, mostly a recommendation engine. The recommendation engine tells the consumer what to buy. The criticism tells the consumer what to think about the buy. The thinking is, in our view, finally, the work. The work is, in our view, finally, what the criticism is for.
+Michelin has published its criteria since 1936, used the same hierarchy since 1931, inspected anonymously and paid for its meals. Beauty's best-known verdict dates only to the mid-1990s and runs inside an advertiser-funded magazine. The EU shows a standard is possible: it refuses "paraben-free" as denigrating, defines "clinically proven" as human testing under qualified supervision, and requires evidence of an effective concentration.
 
----
+The trade trained its first writers. Harriet Hubbard Ayer founded and ran Recamier Toilet Preparations in 1886 and from 1896 wrote and edited the women's section of the *New York World*, collecting the essays into a book in 1899. Estée Lauder began in 1946 with four products, reached Saks Fifth Avenue in 1948 and Harrods in 1960, and listed on the New York Stock Exchange on 16 November 1995 at $26 a share.
 
-The criticism, in sum, is the editorial function that protects the reader. The protection is, in our view, mostly a matter of *asking*. The asking is, in our view, mostly a matter of *three questions*. The three questions are, in our view, the questions the modern market most wants the press to stop asking. The campaign to stop the asking is, in our view, also the campaign the criticism most needs to resist. The resistance is, in our view, finally, the work. The work is, in our view, finally, what the criticism is for.
-
-The criticism is, in our view, also the editorial function the modern press most needs to *recover*. The recovery is, in our view, mostly a matter of *independence*. The independence is, in our view, mostly a matter of *the three questions*. The three questions are, in our view, the questions the criticism, in 2026, is most slowly and most carefully — and most publicly — asking. The asking is, in our view, finally, the work. The work is, in our view, finally, what the criticism is for.
+Independence is the exception to be argued for, not an inheritance. The reader's need is narrower: does it do what it says, at the concentration sold, for the price charged. Each can be answered, partly, from the pack, the claim and the launch record — an INCI order, a sentence, a budget — which makes criticism a method rather than a mood. A mood cannot be checked; a method can.
