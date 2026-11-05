@@ -4,65 +4,84 @@ date: 2026-10-18
 slug: "summer-skin-routine"
 image: "https://images.unsplash.com/photo-1784294331171-6deaf6847268?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A glass pipette releasing a yellow liquid, photographed close-up in warm light."
-imageCaption: "A summer serum, photographed in warm light. The serum is, in our view, the lightest coat in the summer wardrobe, not the loudest."
+imageCaption: "A glass pipette releasing a yellow serum into a shallow unglazed dish, lit from one side in warm late light."
 categories: ["Skin"]
 categorySlugs: ["skin"]
-excerpt: "Five steps for hot, humid months. The summer skin routine wants less, not more. A practical Lacquered guide to a lighter counter."
+excerpt: "Summer skin wants the same five steps in a different order of emphasis, and the gel you bought for July may be working against your barrier."
 author: "Lacquered Editorial"
 kicker: "GUIDE"
-dek: "Five steps for the hot, humid months. Summer skin wants less, not more. A practical guide to a lighter counter."
+dek: "What changes between January and July is the water in the air and the oil on the face. The chemistry of the stratum corneum does not move, which is why the routine needs re-ordering rather than replacing."
 ---
+Alongside Kim and colleagues' 2017 study of 440 Chinese women aged 20 to 65 sits a Beijing summer of 26.31 °C and 64.92 per cent relative humidity against a winter of −1.60 °C and 42.58 per cent; Guangzhou, 76.75 per cent in summer against 68.38 in winter. What those numbers make visible is a distinction the summer shelf blurs. Between January and July, what changes is the water in the air and the oil on the face, not the *stratum corneum*.
 
-The summer skin routine is, in our view, the routine the modern consumer most often gets wrong. The getting wrong is, in our view, mostly a function of the *winter*. The consumer has, in most cases, spent the winter building a routine — the routine that, in winter, has, in our view, finally, settled into a kind of *pattern*. The pattern is, in most cases, the *heavy* pattern — the heavy moisturiser, the heavy serum, the heavy treatment. The heavy pattern is, in our view, the pattern the consumer most often *does not change* when summer arrives. The not-changing is, in our view, finally, the loss.
-
-The summer skin wants, in our view, *less, not more*. The less is, in our view, mostly a function of the *humidity*. The humid air is, in our view, the air that, in formulation terms, already contains water. The water in the air is, in formulation terms, finally, the water the heavy moisturiser was, in winter, delivering. The heavy moisturiser is, in summer, in most cases, the product the consumer most often *over-applies* — and the over-application is, in our view, finally, the loss.
-
-The five steps below are, in our view, the practical application of the less. The steps are, in our view, also the steps the summer skin, in 2026, has, in our view, mostly been waiting for. The waiting is, in our view, finally, the work this guide is doing.
+The popular summer routine is a swap: out with the heavy cream, in with a gel, lighter everything. The evidence supports something stranger. A 1972 paper by Grice, Sattar and Baker reported, on figures taken at second hand, that raising ambient humidity from 2–3 per cent to 30–50 per cent made skin leak two to three times more water, because a wetter stratum corneum is a more permeable one. Read by Goad and Gawkrodger's 2016 review of ambient humidity and the skin, it became a verdict: the literature is inconclusive, and some evidence shows low humidity can improve barrier function.
 
 ## Step one — the gel cleanse
 
-The first step is, in our view, the *gel cleanse*. The gel cleanse is, in our view, the cleanser the summer skin most often needs. The gel is, in formulation terms, mostly a water-based cleanser — the water base is, in our view, the base that, in formulation terms, rinses cleanly without, in most cases, leaving the film the cream cleanser often leaves. The film is, in summer, in most cases, the film the consumer most often mistakes for *moisture* — and the mistake is, in our view, finally, the cause of the breakout the consumer most often does not understand.
+Start with the pH story, which marketing tells as a kindness. In 2021, Hawkins, Dasgupta and Ananthapadmanabhan ran forearm controlled application tests comparing syndet bars at skin pH against neutral-pH bars, and found cleansing systems made "solely or predominantly with anionic surfactants under skin pH conditions can result in increased skin dryness and irritation compared to those under neutral pH conditions.
 
-The gel cleanser we would, in our view, use is a *low-pH foaming gel*. The low pH is, in formulation terms, the pH that respects the barrier. The foaming is, in our view, also the texture the summer skin most often responds to. The responding is, in our view, finally, the work the cleanser is doing for the next step.
+Matching the skin's pH is not a gentleness certificate. How long it stays on is another variable: Morris and colleagues traced radiolabelled sodium dodecyl sulfate into human skin at 0.03 to 15 mg/cm² and found penetration over two minutes constant from 50 to 600 mM but rising log-linearly with concentration over five hours, "due to surfactant-induced damage to the skin."
 
-The cleansing is, in summer, in our view, also the step the consumer most often *over-does*. The over-doing is, in our view, mostly a function of the *sweat*. The consumer has, in most cases, decided the sweat is, in our view, *dirt*, and the consumer has, in most cases, decided to *clean* the sweat. The sweat is, in our view, finally, *not dirt* — the sweat is, in formulation terms, mostly water and salt, and the sweat is, in formulation terms, mostly *self-cleaning*. The over-cleaning is, in our view, finally, the loss the consumer most often incurs.
+A humectant in the formula blunts what the surfactant does. In 2008, Ghosh, Kim, So and Blankschtein found that adding 10 wt per cent glycerol to a 1 wt per cent SDS solution "did not significantly induce corneocyte damage." Which gives the summer rule: a mild surfactant system, a humectant in the bottle, lukewarm water, and two minutes of contact rather than five.
 
 ## Step two — the hydrating toner
 
-The second step is, in our view, the hydrating toner. The toner is, in summer, in our view, also the step the consumer most often *over-spends* on. The over-spending is, in our view, mostly a function of the *marketing*. The marketing is, in most cases, telling the consumer that the toner is, in formulation terms, the *most important step*. The toner is, in our view, finally, the step that, in formulation terms, mostly prepares the skin for the next step.
+The toner is the step with the thinnest support and the best single sentence. Goad and Gawkrodger's 2016 review — a narrative one, heterogeneity having made a systematic version infeasible — can point to a single line: "Intervention with a humidifying mist increased the water content of the stratum corneum.
 
-The hydrating toner we would, in our view, use in summer is a *light, watery humectant toner* — the toner that, in formulation terms, mostly contains glycerin, hyaluronic acid at low molecular weight, panthenol. The humectants are, in our view, the ingredients that, in formulation terms, pull water into the skin. The pulling is, in summer, in our view, finally, less necessary than it is in winter — but the toning is, in our view, finally, the work the next step depends on.
+The same review supplies the reason the step is interesting rather than decorative: low humidity was associated with reduced transepidermal water loss, altered stratum corneum water content, decreased elasticity and increased roughness, and more eczema at both low indoor humidity and high outdoor humidity.
 
-The toning is, in summer, in our view, also the step the consumer most often *over-applies*. The over-applying is, in our view, mostly a function of the *patting*. The pad is, in most cases, the cotton pad the consumer is, in our view, finally, *not* supposed to use. The cotton pad is, in formulation terms, the pad that *wastes* the toner — the toner is, in formulation terms, mostly *absorbed by the pad*, and the toner is, in most cases, finally, *not* delivered to the skin. The delivering is, in our view, finally, the work.
+How shallow that water sits is the useful detail. Mayrovitz and colleagues measured forearm water content at 0.5 mm and 2.5 mm in 30 young adults: at 0.5 mm the figure rose from 46.4 ± 10.2 to 51.5 ± 9.1, a rise of 12.6 ± 11.3 per cent; at 2.5 mm, from 39.1 ± 6.6 to 40.6 ± 6.1, a rise of 4.2 ± 5.7 per cent, both at p<0.001.
+
+Humectants work the top half-millimetre three times as hard as at depth, which is why a toner is a water step and not a barrier step: it needs damp skin, and a moisturiser after it to seal. Which leaves the sentence the industry would rather not print: no peer-reviewed literature on toner efficacy was found.
 
 ## Step three — the light serum
 
-The third step is, in our view, the light serum. The light serum is, in our view, the serum the summer skin most often needs. The light is, in formulation terms, mostly a function of the *vehicle*. The vehicle is, in most cases, a water-based gel — the gel is, in formulation terms, the vehicle that, in most cases, does not sit on the skin, does not, in most cases, *occlude* the skin, does not, in most cases, interfere with the next step.
+One piece of evidence should end the argument about what a summer serum should be, and it is not about serum. In 2007, Buraczewska, Berne, Lindberg, Törmä and Lodén randomised 78 volunteers into five groups and treated one volar forearm per person for seven weeks.
 
-The serum we would, in our view, use in summer depends on the concern. For *photoageing*, a low-concentration retinoid — the low is, in formulation terms, the concentration the barrier can, in summer, mostly tolerate. For *hyperpigmentation*, a vitamin C serum at a concentration and pH that, in formulation terms, has been shown to deliver the active. For *hydration*, a hyaluronic acid serum at multiple molecular weights. The choosing is, in our view, finally, the work the consumer is, in most cases, finally, paying for.
+The three simplified creams and the *lipid-free gel* all increased transepidermal water loss and the skin's reaction to sodium lauryl sulphate; the ordinary cream containing 5 per cent urea did the opposite, decreasing water loss and reducing the SLS response.
 
-The serum is, in summer, in our view, also the step the consumer most often *over-loads*. The over-loading is, in our view, mostly a function of the *active*. The consumer has, in most cases, decided the active is, in our view, the *answer*, and the consumer has, in most cases, decided to *use more*. The using-more is, in our view, finally, the loss the consumer most often incurs. The active is, in formulation terms, the active that, in most cases, *does* something at *low* concentrations. The using-more is, in our view, finally, the work the consumer is, in most cases, finally, doing badly.
+All were non-irritant on a 24-hour patch test in eleven volunteers, which is the trap: a product announces nothing in week one about what it does in week seven. Long-term use changes normal skin, and what it changes depends on composition, not on texture.
+
+So light is not the same as kind, and this is the thinnest-evidenced step in the routine: there is no peer-reviewed source on serum vehicles in high humidity, on vitamin C or E stability, or on retinoid use in heat. A serum, on this evidence, is a vehicle for a humectant; whatever active it carries is an editorial preference, and should be presented as one.
+
+What it should not be doing is adding oil: Kim's 2017 data show sebum secretion significantly higher in summer in both cities. For a face that flushes, the American Academy of Dermatology allows only zinc oxide and titanium dioxide filters, bars fragrance and oxybenzone, and asks for a 7 to 10 day patch test.
 
 ## Step four — the gel moisturiser
 
-The fourth step is, in our view, the gel moisturiser. The gel moisturiser is, in our view, the moisturiser the summer skin most often needs. The gel is, in formulation terms, mostly a water-based emulsion — the water base is, in our view, the base that, in formulation terms, delivers hydration without, in most cases, the occlusion the cream moisturiser often delivers. The occlusion is, in summer, in most cases, the occlusion that, in most cases, *traps* the sweat — and the trapping is, in our view, finally, the cause of the breakout the consumer most often does not understand.
+The rule that follows from 2007 is not complicated: pair the humectant gel with a lipid layer on top, or use a gel-cream carrying lipids or ceramides. Texture is not the argument.
 
-The gel moisturiser we would, in our view, use is a *hyaluronic acid gel-cream*. The hyaluronic acid is, in formulation terms, the humectant that, in most cases, holds water in the skin. The gel-cream is, in our view, also the texture the summer skin most often responds to. The responding is, in our view, finally, the work the moisturiser is doing for the next step.
+In an oil-in-water emulsion — the usual gel-cream — the outward-facing phase is water, and water evaporates; in a water-in-oil emulsion, the outward phase is grease, which occludes in the way an occlusive is supposed to. The summer moisturiser you want is the one whose formula mentions ceramides or squalane.
 
-The moisturising is, in summer, in our view, also the step the consumer most often *under-does*. The under-doing is, in our view, mostly a function of the *fear*. The consumer has, in most cases, decided the moisturiser is, in our view, the product that causes the breakout, and the consumer has, in most cases, decided to *not moisturise*. The not-moisturising is, in our view, finally, the loss the consumer most often incurs. The moisturising is, in formulation terms, finally, the work the skin most needs in summer — and the not-needing is, in our view, finally, the lie the modern market most often tells.
+The season's genuine trap is not the humid day; it is the air-conditioned one. Air conditioning cools air over cold coils and condenses water out of it, so a sealed office in July can be drier than the street outside, and a humectant-only gel can work against itself there.
+
+Goad and Gawkrodger found low humidity associated with reduced water loss, altered stratum corneum water content and increased roughness; Mayrovitz's figures show the water a humectant puts in sits in the top half-millimetre. A humectant with nothing over it, in dry air, is a bet on conditions you cannot see from the window.
+
+The sebum half of the argument is better documented than the humidity half. In the same 440-woman study, sebum secretion in women in their twenties and thirties was significantly higher in summer in both regions, sharper in the humid south than the dry north.
+
+Read off the published chart, the twenties group ran to roughly 38 micrograms per square centimetre in a Beijing summer against roughly 11 in winter, and roughly 70 against roughly 13 in Guangzhou. Then the caveat: "the aged skin was influenced by seasonal variation except for sebum secretion. One study of adolescent males found the opposite pattern: sebum lowest in winter, highest in autumn.
 
 ## Step five — the SPF 50
 
-The fifth step is, in our view, the SPF 50. The SPF is, in summer, in our view, the step the consumer most often *does* do — and the step the consumer most often *does badly*. The doing badly is, in our view, mostly a function of the *amount*. The consumer has, in most cases, decided the sunscreen is, in our view, the product that is, in formulation terms, the most unpleasant, and the consumer has, in most cases, decided to *use less*. The using-less is, in our view, finally, the loss the consumer most often incurs.
+The last step is the only one summer genuinely rewrites, and it does so because the regulation says so, not the industry.
 
-The SPF we would, in our view, use in summer is an *SPF 50 PA++++ fluid*. The fluid is, in formulation terms, the texture that, in most cases, most respects the makeup the consumer is, in most cases, going to apply. The fluid is, in our view, also the texture that, in most cases, most respects the humidity the consumer is, in most cases, going to encounter. The encountering is, in our view, finally, the work the SPF is doing for the morning.
+21 CFR 201.327 sets the testing dose at 2 mg/cm² on both test site and standard, requires a wait of at least 15 minutes after application before the sites see ultraviolet radiation, and writes the reapplication directions into the Drug Facts: "reapply: after 40 minutes of swimming or sweating," "immediately after towel drying," "at least every 2 hours. The same section names three words that cannot appear on the box: sunblock, sweatproof, waterproof.
 
-The SPF is, in summer, in our view, also the step the consumer most often *forgets to reapply*. The forgetting is, in our view, mostly a function of the *reapplication infrastructure*. The reapplication is, in most cases, the reapplication the consumer has, in most cases, finally, decided to skip. The skipping is, in our view, finally, the loss. The loss is, in our view, finally, the photoageing the SPF was, in clinical terms, designed to prevent. The preventing is, in our view, finally, the work the SPF is for.
+Because the label number assumes a dose almost nobody uses. Bimczok and colleagues applied three commercial products at 0.5, 1.0 and 2.0 mg/cm² across three test centres, following the International Sun Protection Factor Test Method, and found "the main result was a linear dependence of the SPF on the quantity applied.
 
----
+Wolf and colleagues put the gap plainly: consumers apply only about one-quarter to one-half the thickness used to measure SPF in the laboratory, so a labelled SPF 30 delivers roughly the protection of SPF 15, eroded further by sweating, water immersion, rubbing off and photodegradation.
 
-The summer skin routine, in sum, is the routine the consumer most often *does not adjust* when summer arrives. The adjusting is, in our view, mostly a matter of *less*. The less is, in our view, also a matter of *light*. The light is, in formulation terms, finally, the lighter moisturiser, the lighter serum, the lighter texture.
+Then the numbers get better, awkward for the bottle. Williams and colleagues ran a randomised, double-blind, split-face trial in natural sunlight at Vail, Colorado, in 199 adults over 6.1 ± 1.3 hours of exposure: 55.3 per cent were more sunburned on the SPF 50+ side of the face against 5 per cent on the SPF 100+ side.
 
-The textures are, in our view, finally, the textures the summer skin most often needs. The needs are, in our view, also the needs the modern market has, in our view, mostly *under-marketed*. The under-marketing is, in our view, finally, the loss the consumer most often incurs. The consumer is, in our view, finally, paying for the heavy moisturiser she does not, in summer, mostly need. The paying is, in our view, finally, the work the consumer is, in our view, mostly doing badly.
+Kohli and colleagues repeated the design at the beach over five consecutive days and found the same shape: 31 of 55 more sunburned on the SPF 50+ side against four on the SPF 100+ side, the first sunburn appearing on day one rather than day three.
 
-The doing is, in our view, finally, the work. The work is, in our view, finally, what the summer skin routine is for. The routine is, in our view, finally, the routine that, in our view, mostly *works* in summer. The working is, in our view, finally, the work.
+Both papers carry a caveat they state themselves — several authors are employed by Johnson & Johnson Consumer Inc, the manufacturer of the products tested.
+
+One summer interaction deserves its own paragraph. Heat rash forms when sweat ducts are blocked or inflamed — the eccrine glands — and appears as small itchy red bumps, darker rather than red on darker skin.
+
+Harvard Health advises cooling and drying the skin, loose breathable cotton rather than tight "dry-fit" fabric, and calamine or a topical corticosteroid for the itch — and against baby powder, oily or greasy moisturisers and sunscreen in those areas, since they may block the ducts further. It settles within a day or two of the body cooling.
+
+And the honest footnote belongs with the step. Matta and colleagues, in an FDA-run randomised clinical trial, applied sunscreen at 2 mg/cm² to 75 per cent of body surface area on day one and four times over the following three days; all six active ingredients exceeded the agency's 0.5 ng/mL threshold after one application, oxybenzone reaching 258.1 ng/mL, with rash the most common adverse event in 14 of 48 participants.
+
+The authors did not advise abstention: "These findings do not indicate that individuals should refrain from the use of sunscreen. The Academy's buying advice is duller and more useful — SPF 30 or higher, *broad-spectrum*, water resistant, and the words "non-comedogenic" if your skin breaks out.
+
+The glass, for drivers. Castanedo-Cazares and colleagues found that driving with the windows closed eliminated 98 per cent of UVB and 84 per cent of UVA. The routine that survives July is the same five steps, reordered rather than replaced — and the sunscreen, where the number on the bottle is the smallest part of the protection and the reapplication instruction is the largest.
