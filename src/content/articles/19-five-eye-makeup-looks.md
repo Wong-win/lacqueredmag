@@ -4,85 +4,81 @@ date: 2026-10-17
 slug: "five-eye-makeup-looks"
 image: "https://images.unsplash.com/photo-1709477542149-f4e0e21d590b?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "An editorial eye makeup look photographed in three-quarter profile"
-imageCaption: "The eye in three-quarter profile. The makeup supports the architecture; it does not supply it."
+imageCaption: "A close three-quarter view of the eye, lit from the side so the lid catches a narrow band of light and the lash line sits in shadow."
 categories: ["Makeup"]
 categorySlugs: ["makeup"]
-excerpt: "Five eye makeup looks, drawn from the editorial archive. The eye is a frame; the makeup should support the architecture."
+excerpt: "Five eye looks, five separate jobs: the bare lid leaves the least room for error, the tightline carries the real risk, and the glossy finish is a surface effect."
 author: "Lacquered Editorial"
 kicker: "GUIDE"
-dek: "Five eye looks, each one chosen for a particular kind of day. The eye is a frame."
+dek: "The ladder from bare to graphic is a tutorial fiction. Each look solves a different problem, and the one that looks like nothing is the hardest to build."
 ---
 
-The eye is, in our view, the most expressive feature of the face. The eye is also the feature that the makeup industry has, for the last fifteen years, been most aggressively trying to *re-shape*. The eye has been contoured, smoked, cut, foiled, lined, unlined, lined-only-at-the-outer-corner, glittered, and glazed, and, in some recent iterations, made to look as though it had no makeup on at all.
+A rice grain of primer, one shadow slightly deeper than the skin, and a clean tapered brush worked in wide circles along the outer border. That is the whole first look, and the working time given for it by the how-to sources is five to eight minutes.
 
-The five looks below are, in our view, a counter-argument to the re-shaping — looks that *respect* the architecture of the eye, working with the lid, the crease, the brow bone, the lash line, and the brow itself, rather than against them.
+It is also the look with the least room to hide. No liner sits at the lash line and no dark crease above it distracts from a patchy blend, so the result rests on primer dose, setting order and the outer edge — the three points HandsOn Coach treats as the common failures.
 
-The five looks are the ones we would wear for the morning, the dinner, the photograph, the meeting, and the long evening. The five looks are, in sum, the looks of the lacquered eye.
-
-The lacquered eye is, in our view, the eye that has been *finished*. The eye, finished, is the eye that catches the light along the lid. The eye, finished, is the eye that holds the gaze. The eye, finished, is the eye that is, in our view, the most expressive eye of all.
+Tutorials usually present the sequence as a ladder: bare lid, thin line, smoke, gloss, graphic. The material argues against the ladder. Each of the five is a separate job, answering a separate problem — skin and light, a line, depth, surface, shape — and none of the sources, from Real Techniques to Vogue Singapore, ranks one as a stage toward the next.
 
 ## One — the bare-lid mono
 
-The bare-lid mono is the most discreet of the five looks. The bare-lid mono is, in our view, the look that the contemporary makeup industry has been most aggressively trying to make *the only look*. The bare-lid mono is, in our view, the look that is best understood as one option among many.
+Real Techniques sets the rule for the single shade: matte or velvet finish, slightly deeper than the natural skin tone. The suggested colour runs with depth rather than fashion — taupe, dove grey, heather or peachy brown on fair-to-light skin; khaki, mauve, plum or terracotta on medium; chocolate, burgundy, olive or raisin on dark.
 
-The bare-lid mono is, in application, two steps. The first step is a *matte* or *satin* shadow in a single colour, applied across the lid, blended at the crease. The colour should be, in our view, a colour that is one or two shades deeper than the wearer's skin tone. The colour should not, in our view, be a colour that announces itself. The colour should be, in our view, a colour that the eye, looking at the wearer, sees as *the skin* rather than as *the makeup*.
+Placement follows the same logic. Begin on the lower lid, bare or over primer, and build coverage in light layers moving up toward the crease or higher onto the orbital bone; a deeper shadow in the same hue goes at the lash line, with optional shimmer at the centre of the eye or the inner corner.
 
-The second step is, in our view, a *single* coat of mascara. The mascara should be, in our view, a lengthening mascara rather than a volumizing mascara. The mascara should not, in our view, be the focal point of the look. The mascara should be, in our view, the mascara that *finishes* the lash rather than the mascara that *interrogates* the lash.
+HandsOn Coach supplies the anchor. Press the brush directly against the centre of the mobile lid, along the lash line, where the deepest concentration belongs. Without reloading, work upward in small windshield-wiper motions, holding the brush near the end of the handle so the pressure stays light.
 
-The bare-lid mono is, in our view, the look for the morning. The bare-lid mono is the look for the office. The bare-lid mono is the look for the meeting. The bare-lid mono is, in sum, the look that supports the eye without competing with it.
+Then the border. A clean large tapered brush placed half on the colour and half on bare skin, swept in wide circular motions, is what makes the edge disappear. Two of the guide's listed errors produce the opposite: starting the brush in the crease, which makes the lid look hollow, and gripping it at the ferrule, which leaves blotchy drag marks.
+
+Primer is a rice-grain amount on the ring finger, spread from lash line to just beneath the brow bone but kept at least one millimetre from the lash line and waterline; excess turns gummy and grabs powder unevenly. Setting powder goes from the crease upward only. The lower movable lid is left tacky so shadow adheres, because powdering the whole lid cuts colour payoff in half.
+
+Mascara is the one structural difference between two versions of the same wash. Real Techniques treats the shade as a base and finishes with curled lashes and several coats; the six-step routine from HandsOn Coach ends at the shadow. No source measures what the mascara changes, and there is no peer-reviewed study of one-shade application, primer dose or setting order at all.
 
 ## Two — the lined-and-bare
 
-The lined-and-bare is, in our view, the most editorial of the five looks. The lined-and-bare is the look that, in the hands of a skilled wearer, is the most *controlled* of the five looks. The lined-and-bare is, in our view, the look that the contemporary makeup industry has, in the last ten years, been most afraid of.
+Eyeliner is older than any product now sold under the name. Women in ancient Egypt used green malachite and coal to emphasise the eyes, according to the Danish encyclopedia Lex.dk, which gives no year for the practice. The same entry gives no date, name or country for the invention of the modern pencil.
 
-The lined-and-bare is, in application, two steps. The first step is the bare lid — no shadow, no contour, no colour, only the skin. The bare lid is, in our view, the most counter-intuitive step of the look. The bare lid is, in our view, the step that the wearer is most likely to skip. The bare lid is, in our view, the step that, when it is skipped, ruins the look.
+Its recorded peak is better documented. Eyeliner was very popular in the 1960s and early 1970s, when film stars such as Brigitte Bardot used its cat look, Lex.dk states. A lash-brand blog fills in the kit — Max Factor's Eyeliner or Block Mascara — and the face it was worn with: black rimmed eyes and a sultry peachy nude pout. The line is the whole eye statement, and there is no shadow to soften a flick that sits too high.
 
-The second step is the *line*. The line is, in our view, the most important step of the look. The line should be, in our view, a *liquid* or *gel* liner, applied close to the lash line, in a single, unbroken stroke. The line should be, in our view, as thin as possible. The line should be, in our view, a line that the eye, looking at the wearer, sees as *the lash* rather than as *the line*.
+Tightlining takes the same instinct to its limit. Glam, citing MasterClass, defines it as liner applied directly on the waterline, the line where the meibomian glands are located. The technique is sold as the invisible version of the look, the one that reads as lashes rather than as makeup.
 
-The line can be black, or brown, or plum, depending on the wearer's colouring. The line should not, in our view, be a colour that announces itself. The line should be, in our view, a line that the eye, looking at the wearer, sees as the natural edge of the lash.
+Dr. Ilyse Haberman, an ophthalmologist quoted in the same article, describes the risk: liner applied directly to the waterline can block the meibomian glands, reducing oil production for tears and causing dry eye. The article adds that those glands can atrophy, or form meibomian gland dysfunction, which can be managed and has no cure.
 
-The lined-and-bare is, in our view, the look for the dinner. The lined-and-bare is the look for the evening. The lined-and-bare is the look that, finally, is the most *finished* of the five looks.
+The American Academy of Ophthalmology, cited in the same piece, supplies the anatomy rather than the verdict. The glands produce meibum, a major constituent of tears, and can be blocked or infected by eye makeup, causing MGD. That wording covers blockage generally, not tightlining specifically.
+
+One specialist's opinion, reported without incidence data, is not a quantified risk study. It is nonetheless the only direct clinical statement in these sources about tightlining. The look that reads as least made-up carries the most physiological risk; the line along the lashes is a cosmetic problem, and the line inside them is a gland problem.
 
 ## Three — the smoky-stained
 
-The smoky-stained is, in our view, the most over-considered of the five looks — the one the contemporary makeup industry has, in the last twenty years, been most aggressively trying to *re-interpret*, and the one that has drifted furthest from its origin.
+The earliest dated example is on film, and it is glossy as well as smoked. Josephine Baker wears what Dazed describes as a glossy smoky eye in the 1927 French silent "Siren of the Tropics". The rationale was technical: actors lined their eyes with kohl so they would stand out in black and white.
 
-The smoky-stained is, in origin, a 1920s look — the look that the film studios of the 1920s and 1930s developed to make the eye, on black-and-white film, look *defined*. The smoky-stained is, in its original form, a *single* soft, dark colour, blended across the lid, with no line, no contour, no separation.
+Marlene Dietrich reportedly mixed soot with Vaseline to make a dark grey shadow; a Dutch beauty title gives the ingredient as candle soot and describes the same mixture. Neither account sources a primary document, and neither gives proportions. The Dutch piece dates the look's modern popularity to the 1920s and 1930s and names no inventor.
 
-The smoky-stained is, in application, three steps. The first step is a satin or matte shadow in a single, dark, neutral colour, applied across the lid, blended upward to the brow bone — a colour two or three shades deeper than the wearer's skin, soft rather than sharp.
+Sophia Loren worked with what was available. She used black eyeliner and watered the product down to use as eyeshadow, according to Dazed — the *stain* is literally thinned liner. That is a useful corrective to the idea that the look requires a dedicated palette.
 
-The second step is the *smudge*, which is, in our view, the most important step of the look, and what differentiates the *stained* smoky from the *drawn* smoky. The smudge softens the edge of the shadow — a smudge that the eye, looking at the wearer, sees as *the shadow* rather than as *the makeup*.
+The matte reading arrived later. In the 1980s and 1990s the matte smokey eye reigned supreme, with Kevyn Aucoin and Alexis Vogel named for Pamela Anderson's look; Vogel did the on-set makeup for "Barb Wire" in 1996. Gloss and matte are different decades answering different cameras.
 
-The third step is a *single* coat of a volumizing mascara — the mascara that *thickens* the lash rather than the mascara that *lengthens* it.
-
-The smoky-stained is the look for the late afternoon, the evening, and, finally, the most *warm* of the five looks.
+Fallout is the practical failure mode. Tap excess off the brush and lay loose powder under the eye before the dark shadow goes on, so stray particles land on the powder and can be swept away; HandsOn Coach also warns that loose particles can reach the cornea.
 
 ## Four — the glossy editorial
 
-The glossy editorial is, in our view, the most counter-intuitive of the five looks — the one that, in the hands of a skilled wearer, is the most *unforgettable*, and the one the contemporary makeup industry has, in the last five years, been most aggressively trying to make *a look*.
+The clearest recent recipe comes from Prada's spring 2024 show, reported on 3 November 2023: beige, peach and pink eyeshadows all over the eyelids, followed by a skin serum application that produced what the write-up calls a "mesmerizing wet, lacquered effect resembling glass". The effect read as fetish-y, PVC-inspired, close to the allure of patent leather.
 
-The glossy editorial is, in application, two steps. The first step is a cream or liquid shadow in a single, deep, saturated colour, applied across the lid with the finger or with a synthetic brush. The cream shadow is, in our view, the most under-used product in the contemporary makeup market — the product that *holds* the colour on the lid without setting, and that *allows* the second step.
+The inspiration was the show's viral slime, which descended from the ceiling. The recreation reached for R+Co hair oil and Submission Beauty's Shiny highlighter rather than an eye gloss. That detail matters more than the trend: the wet finish was an *optical* effect, assembled from materials sold for other purposes.
 
-The second step is the *gloss* — a clear lip gloss or eye gloss, applied over the cream shadow, across the centre of the lid. The gloss is, in our view, what gives the lid the *wet* look, and what makes the look *editorial*.
+Elsewhere in the same season the effect had other sources. Roberto Cavalli showed wet lids with bronzy smoky eyes, Rokh had dewy eye tints, and Pat McGrath gave Versace an '80s punk-inspired latex winged liner, per Vogue Singapore's 7 March 2024 report. Prabal Gurung's look, by Romero Jennings, was a '90s grunge mix of dark kohl and gloss.
 
-The glossy editorial is the look for the evening, the look for the photograph, and the most *finished* of the five looks in the lacquered sense of the word. The lid, glossy, is the lid that catches the light. The lid, glossy, is the *finished* lid.
+The revival has its own timeline. Vogue Singapore declared in December 2023 that the wet look reigns supreme, naming Chanel, Anrealage and Giambattista Valli; Allure Philippines, writing in April 2026, traced frosty shadows back to the 1990s and forward to Hailey Bieber, Doja Cat and Nicole Richie, with "Euphoria" and "Pam & Tommy" as the retro drivers.
 
-The glossy editorial is also the most fragile of the five looks — the one that, by definition, does not last. The glossy editorial is the look the wearer wears for the *duration of an evening*, not for the duration of a day.
+Application carries its own rules. The Zoe Report suggests castor oil, a designated eye gloss or a sheer, non-sticky lip gloss, applied sparingly and patted above the lash line, kept off the roots to avoid clumping. Menthol, cinnamon and any plumping gloss stay away from the eye — the last thing a lid needs is a formula designed to swell a lip.
 
 ## Five — the lid-only
 
-The lid-only is, in our view, the most minimal of the five looks. The lid-only is the look that, in the hands of a skilled wearer, is the most *honest* of the five looks. The lid-only is, in our view, the look that the contemporary makeup industry has, in the last ten years, been most aggressively trying to make *a default*.
+The canonical 1960s version is Twiggy's, as described by the lash brand GladGirl: white matte eyeshadow, an exaggerated black eyeliner, and the cut black eyelid crease. Lower lashes were painted on with a liquid liner. Upper lashes were long, thick and, in the source's phrase, over-the-top.
 
-The lid-only is, in application, two steps. The first step is a *satin* shadow in a single colour, applied *only* across the lid, with no blending at the crease. The line where the shadow *ends* and the bare skin *begins* is, in our view, the most important line of the look. The line should be, in our view, a *visible* line. The line should be, in our view, a line that the eye, looking at the wearer, sees as a *deliberate choice* rather than as a *mistake*.
+The same decade offers plainer variants of the same idea. Bardot kept the black rimmed eyes and the peachy nude pout; Cher wore heavy black liner with a flick above and below the eye. The face around the eye was doing as much work as the lid.
 
-The second step is, in our view, *no mascara*. The lid-only is, in our view, the only one of the five looks that does not require mascara. The lid-only is, in our view, the look that is, finally, the most *architectural* of the five looks. The lid, on its own, is the lid. The lash, on its own, is the lash. The two are, in the lid-only, separate.
+What holds the look together is contrast, not shading. A light, opaque base — white or pastel — flattens and brightens the lid, and a dark drawn line supplies the shape. The eye reads because two values meet at a line someone drew on purpose.
 
-The lid-only is, in our view, the look for the morning. The lid-only is the look for the office. The lid-only is the look that, finally, is the most *quiet* of the five looks.
+Set beside the mono, the register changes. Real Techniques builds the wash up toward the crease or higher onto the orbital bone, where it is meant to diffuse; Twiggy's version puts a white matte lid under a drawn black crease. One manages light across a surface. The other draws the architecture and stops at the line.
 
----
-
-The five looks are, in sum, the bare-lid mono, the lined-and-bare, the smoky-stained, the glossy editorial, and the lid-only. The five looks are, in our view, the looks of the lacquered eye. The eye, in each of the five looks, is *finished*. The eye, in each of the five looks, is *architectural*.
-
-The eye is, in our view, the most expressive feature of the face. The eye is also, in our view, the feature that most rewards *less* rather than *more*. The eye, finished in one of the five looks, is the eye that is, finally, the eye that catches the light, holds the gaze, and supports the architecture of the face.
-
-The eye, finished in any of the five looks, is the eye that has stopped performing against itself. The eye, finished, is the eye that has, finally, *agreed* to be looked at. The agreement is, in our view, the work. The work is what the eye is for.
+Five looks, five problems, and no ranking anywhere in the sources — not from Lex.dk's 2015 entry to Allure Philippines in 2026. The one called no makeup demands the most control; the one called heavy is a surface effect, and surface effects are forgiving. Between them sits the tightline, the smallest line in the set and the only one with a gland on the other side of it.
