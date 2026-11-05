@@ -4,75 +4,81 @@ date: 2026-10-17
 slug: "apothecary-bottle-history"
 image: "https://images.unsplash.com/photo-1761482769317-97f8caf7e34c?auto=format&fit=crop&w=2000&q=80"
 imageAlt: "A row of small vintage apothecary bottles arranged on a wooden surface"
-imageCaption: "A row of late-nineteenth-century apothecary bottles, photographed in the editorial light. The amber glass darkened the contents to keep the light out."
+imageCaption: "A row of small amber and clear glass bottles on a wooden surface, lit from the left; several carry paper labels and one is stopped with glass."
 categories: ["Home & Decor"]
 categorySlugs: ["decor"]
-excerpt: "The apothecary bottle is the ancestor of every beauty bottle on the modern shelf. A short visual history, from pharmacy to vanity."
+excerpt: "From the poison bottle you could identify in the dark to the eight-cent amber dropper: how pharmacy glass became the beauty bottle."
 author: "Lacquered Editorial"
 kicker: "ARCHIVE"
-dek: "A short visual history of the apothecary bottle, from the pharmacy to the modern vanity. The ancestor of the beauty bottle."
+dek: "The cosmetic bottle did not graduate from pharmacy by design. It graduated by manufacturing, and the label has been doing the persuading ever since."
 ---
 
-The apothecary bottle is, in our view, the ancestor of every beauty bottle on the modern shelf. The apothecary bottle is, in our view, also the *unrecognised* ancestor. The contemporary beauty bottle has, in most cases, been *re-designed* so that it no longer, in form, *resembles* the apothecary bottle. The contemporary beauty bottle has, in most cases, been *re-imagined* as a piece of *design* — a piece of design that, in its history, has, in most cases, *forgotten* its ancestor.
+The German poison bottle was hexagonal: three smooth sides, three ribbed, and a skull and crossbones on the shoulder. The ribbing was the point. A pharmacist crossing an unlit dispensary at night could tell the poison from the cough syrup by touch, without lifting a lamp or reading a label.
 
-The forgetting is, in our view, a mistake. The apothecary bottle is, in our view, the most *useful* bottle form ever designed for the vanity. The apothecary bottle is, in our view, also the most *beautiful* bottle form ever designed for the vanity. The apothecary bottle is, in our view, also the most *understood* bottle form — the bottle form that, in the modern vanity, has been, in our view, *re-discovered*.
+Britain legislated the same principle in 1868: the Pharmacy Act required poisons in bottles "rendered distinguishable by touch" from ordinary medicine. In the Lords on 16 June, Lord Redesdale moved a clause naming a bottle of "singular Form, corrugated and opaque, to be thenceforth known and described as a Poison Bottle." An 1863 bill had wanted five fluted sides, *Poison* on the sixth, and a £5 penalty.
 
-This essay is, in part, a recovery of the ancestor. It is also, in part, an argument that the apothecary bottle — properly understood, properly chosen, properly placed on the vanity — is, in 2026, the most *useful* beauty bottle the contemporary wearer can own.
+That bottle is the ancestor of the serum bottle on a bathroom shelf in 2026, and the relation is not the one the shelf implies. The descent is industrial rather than aesthetic. The form survived because the industry that made it survived; the meaning changed because the people selling it needed a new one.
 
 ## The pharmacy, 1850–1900
 
-The apothecary bottle is, in origin, a *pharmacy* object. The pharmacy, in the 19th century, was, in most cases, a *small* shop, with a *counter*, and a *wall* of bottles — small, mostly identical, mostly *amber*, mostly *labelled* with the name of the substance they contained. The amber glass was, in formulation terms, doing a particular thing. The amber glass was, in most cases, *protecting* the substance from the light. The amber glass was, in most cases, the *original* cosmetic packaging — the packaging that the contemporary beauty bottle has, in our view, *forgotten*.
+Glass was not the default in a mid-nineteenth-century dispensary. Ceramic held the dry and semi-solid drugs — tin-glazed maiolica albarelli, delftware, later white porcelain — and glass was kept for liquids and anything the pharmacist needed to inspect. The New-York Historical Society's medicine chest, 1840 to 1880, holds both: twenty-odd stoppered glass bottles with paper labels and a round white jar marked "Blue Ointment."
 
-The apothecary bottle was, in the 19th century, a *functional* object. The bottle was, in most cases, *small* — 30ml to 100ml, in most cases. The bottle was, in most cases, *cylindrical* — a straight-walled cylinder, with a *small* neck, and a *cork* or a *screw* closure. The bottle was, in most cases, *labelled* with a *hand-written* or *printed* label, in a particular *pharmaceutical* style.
+Closure was cork, and cork alone. The bottle-dating literature is unambiguous: before 1912 there was no viable alternative, and everything else is a treatment over the cork rather than a replacement — wax, embossed foil, or the German *Tektur*, a paper cap tied with thread and carrying the label. Red labels meant external remedies, white meant something swallowed.
 
-The apothecary bottle was, in the 19th century, also a *uniform* object. The uniformity was, in most cases, the point. The uniformity was, in most cases, the *signal* of the pharmacy — the *system* of the pharmacy, with its *system* of bottles. The uniformity is, in our view, what the contemporary beauty bottle has, in the last thirty years, *most lost* — and what the contemporary beauty bottle has, in the last ten years, *most tried to recover*.
+Uniformity arrived late. Standardised mass-produced medicine bottles date from about 1900; before that most were hand-blown, which is why identical drugs came in non-identical bottles. Remington's Practice of Pharmacy, 1891, records that glass and mica labels cemented on with rosin had largely replaced paper on shop bottles, though paper remained standard at the counter.
+
+The hinge is industrial. Michael Owens' automatic bottle machine was first commercially successful in 1903; the AR model of 1912 averaged 50,400 bottles a day, and the ASME dates cheap, plentiful glass containers to 1912. The druggist's shelf became a public display in those decades: Arizona's Coit Museum holds 20,000 bottles, tins and show globes.
 
 ## The cosmetics transition, 1880–1920
 
-The transition from *pharmacy* to *cosmetics* happened, in the Western tradition, in the late 19th and early 20th centuries. The transition was, in most cases, *slow*. The transition was, in most cases, *partial*. The transition was, in most cases, *unannounced* — the cosmetics industry did not, in the 1880s, *declare* itself a separate industry from the pharmacy. The cosmetics industry, in most cases, *inherited* the bottle forms of the pharmacy, and *adapted* them.
+The transition is usually told with a French law. There is no French statute of 1887 requiring a seller's name and address on cosmetics; the claim circulates in secondary sources and dissolves on inspection. The dated 1887 instrument is German: the Reich law of 5 July 1887, whose §3 covers cosmetic colourants and bans antimony, arsenic, lead, mercury and cadmium.
 
-The first *cosmetic* bottles were, in most cases, *pharmacy* bottles with a *cosmetic* label. The first cosmetic bottles were, in most cases, *amber* glass. The first cosmetic bottles were, in most cases, *small*. The first cosmetic bottles were, in most cases, *labelled* in the same pharmaceutical style.
+France's first dedicated cosmetics statute is loi n° 75-604 of 10 July 1975, which created the product dossier, positive lists and the labelling framework. It followed the Morhange talc affair: hexachlorophene at 6.39% against a 0.1% ceiling, thirty-six infant deaths and 168 poisonings. Before that, cosmetics ran on the 1905 fraud law, the 1924 labelling law and the 1857 trademark law.
 
-The cosmetics transition was, in our view, the moment the apothecary bottle became a *cosmetic* object. The cosmetics transition was, in our view, also the moment the apothecary bottle became a *decorative* object. The decorative moment is, in our view, what the modern vanity has, in the last hundred years, been *remembering*.
+So the names and addresses on an 1890s perfume bottle were commercial, not legal. A surviving Guerlain Bee bottle carries a label: "Eau de Cologne Impériale… Privilège 1890… Guerlain, Parfumeur Distillateur, 68 Avenue des Champs-Élysées, Paris" — maker, trade title, address, decades before any statute asked. The bottle was made in 1853 by Pochet du Courval and dedicated to Empress Eugénie.
+
+The bridge from counter to dressing table dates to a person. In 1900 François Coty had no perfumery training; he learned fragrance from his friend the pharmacist Raymond Goëry, who made colognes from Codex formulas, and launched La Rose Jacqueminot in 1904 after training in Grasse. The trade account has him smashing a bottle at the Grands Magasins du Louvre when no retailer would stock him — a story some sources flag as possibly staged.
+
+Jicky, composed by Aimé Guerlain in 1889, is the cleaner break: the first fragrance said to combine synthetic and natural notes. A perfume stopped being a compounded pharmacy preparation and became an authored formula; the bottle could be authored too.
 
 ## The crystal flacon, 1900–1940
 
-The crystal flacon was, in formulation terms, a *departure* from the apothecary bottle. The crystal flacon was, in most cases, *clear* glass, often *cut* glass, often with a *stopper* of glass or of silver. The crystal flacon was, in most cases, *decorative*. The crystal flacon was, in most cases, *expensive*. The crystal flacon was, in most cases, the bottle of the *luxury* — the bottle of the *parfumerie*, the bottle of the *couture* house.
+Baccarat was a royal decree before it was a brand. Louis XV granted the Verreries de Sainte-Anne in Lorraine on 16 October 1764. The works made soda glass, failed in 1806 and was bought in 1816 by Aimé-Gabriel d'Artigues, who moved his Vonêche works from Namur and began making lead glass. The Compagnie des Cristalleries de Baccarat dates from 1823.
 
-The crystal flacon was, in the early 20th century, the bottle of the *great* perfumers — Guerlain, Coty, Houbigant, Roger & Gallet. The crystal flacon was, in most cases, the bottle that the perfumer *designed* for the launch of a new fragrance. The crystal flacon was, in most cases, the bottle that the perfumer *signed* — with the name of the house, with the name of the fragrance, with the year.
+Crystal is a technical claim, not a synonym for glass: Baccarat only became a crystal house after 1816. The flacon the collector literature treats as its opposite began as a Baccarat product. The V&A's *Cyclamen*, C.1501-1924, was designed in 1909 — press-moulded and mould-blown patinated glass, 14.0 cm high, marked "Coty Paris," "Lalique Deposé" and "Cyclamen Coty Paris."
 
-The crystal flacon was, in our view, the moment the beauty bottle became *sculpture*. The crystal flacon was, in our view, also the moment the beauty bottle became *expensive* in a way that the apothecary bottle had not been. The crystal flacon was, in our view, also the moment the beauty bottle became *collectable* — the bottle that the wearer *kept*, rather than *throwing away* when the fragrance was finished.
+Coty had commissioned Lalique in 1908, and initial production took place at Baccarat; Lalique rented Combs-la-Ville in autumn 1908 and bought it in 1913. The first Lalique bottle, then, was not made by Lalique. Two names the auction catalogues oppose were at the origin a supplier relationship.
+
+Shalimar was composed in 1921 and launched in 1925, in a bottle Raymond Guerlain designed on the garden basins' form, made by Baccarat, with a sapphire-blue crystal stopper, a first of its kind. A French thesis dates the flacon to 1924; LVMH dates the launch to 1925. The stopper was a closure: Guerlain's *dames de table* still seal bottles by *baudruchage*, a thread under the stopper and a shrunk wax sheath over it.
 
 ## The porcelain pot, 1850–1940
 
-The porcelain pot was, in formulation terms, a *return* to the apothecary bottle — with a different material. The porcelain pot was, in most cases, *white* or *pale* porcelain, often with a *painted* or *transfer-printed* decoration. The porcelain pot was, in most cases, *round*, with a *flat* lid, often with a *small* knob. The porcelain pot was, in most case, *small* — 30ml to 100ml, in most cases.
+The porcelain pot is older than the period it is filed under. Chelsea Porcelain Manufactory operated from 1743 to 1769 and closed eighty-one years before 1850. The Gardiner Museum's pair of crimson-ground pomade pots with pastoral figures — soft-paste porcelain, enamel and gold, Sèvres-style *oeil-de-perdrix* gilding — is dated c.1760–1765. It is an eighteenth-century object; repeated captioning will not make it Victorian.
 
-The porcelain pot was, in the 19th century, the pot of the *cold cream*. The porcelain pot was, in most cases, the pot that the cold cream was *sold in*, by the apothecary, by the pharmacy, by the early cosmetics house. The porcelain pot was, in most cases, the pot that the cold cream was *kept in*, by the wearer, on the vanity.
+The V&A's documented pomade pot is also pre-period: C.132&A-1922, Clignancourt, Paris, ca.1790, 5.4 cm high, painted with enamels and gilded, roses and forget-me-nots inside gold-and-purple leaf garlands. What belongs to 1850–1940 is not named-factory ware. It is Limoges industrial vanity ware — powder jars, hair receivers, dresser trays — made for department stores and export.
 
-The porcelain pot was, in our view, the *other* ancestor of the modern beauty bottle. The porcelain pot was, in our view, also the *more* decorative of the two ancestors. The porcelain pot was, in our view, also the *more* under-rated — the porcelain pot has, in the modern vanity, been, in most cases, *replaced* by the *plastic* jar, in a way that has, in our view, *lost* the decorative moment.
+Limoges has solid dates. Kaolin was found at Saint-Yrieix-la-Perche in 1768, confirmed by the chemist Macquer, and the deposit was bought by Louis XV in 1769; the first factory was established in 1771 under Turgot. Four factories in 1819 became thirty-five factories and 120 kilns employing about 8,000 workers by 1900.
+
+The American market shaped the forms. David Haviland arrived in 1842, the railway reached Limoges in 1856, and the city exported heavily to the United States — which is why so many "French" powder jars are American-market ware. The dated object is the vanity set as retail unit: Gerard, Dufraisseix & Abbot, green "GDA France" mark, c.1900–1941, powder jar, hair receiver and tray with wild roses.
+
+Porcelain can be pinned to a year in a way glass cannot: a hand-painted Limoges powder box is signed and dated 1898 on the underside. The material also carried pharmacy — Merck's corporate history holds an early-nineteenth-century white-ground jar labelled "Véritable Graisse d'Ours," real bear fat sold as hair pomade, a cosmetic in a drug jar with a drug label.
 
 ## The amber bottle, 1900–now
 
-The amber bottle is, in our view, the most *under-rated* bottle form in the contemporary vanity. The amber bottle is, in most cases, a *pharmacy* bottle — the same form as the 19th-century apothecary bottle, with the same *amber* glass, with the same *cylindrical* shape, with the same *small* neck. The amber bottle is, in most case, *labelled* in a *modern* style — with a *minimalist* label, with a *single* colour, with a *small* brand mark.
+Amber glass is not a packaging invention. It has been made since at least the sixth century BC, and from the sixteenth century amber glassware was standard for medicines and chemicals to stop light degrading them. Much historic amber was accidental: northern European *Waldglas*, made with potash from bracken and beechwood ash, took green and amber tints from iron impurities and served for apothecary flasks and urinals.
 
-The amber bottle has, in the contemporary market, been *re-introduced*, in the last ten years, by the indie beauty brands. The amber bottle has been *re-introduced*, in our view, for two reasons. The first is *function* — the amber glass is, in formulation terms, *protecting* the substance from the light, in a way that the clear glass does not. The second is *aesthetic* — the amber bottle is, in our view, the most *beautiful* bottle form on the modern vanity.
+The mechanism is a sharp optical cutoff at around 400 nm, not a colour: iron-manganese glass absorbs ultraviolet and short-wavelength visible light while transmitting enough to inspect the contents. The science came later. In 1931 a Columbia pharmacy study tested eight glass types and found Amber A, Amber B and Green B the best protectives; a 2.93% hydrogen peroxide solution fell to 0.02% in clear glass after four months, against 0.48% in amber.
 
-The amber bottle is, in our view, also the bottle form that the contemporary vanity has, in the last ten years, been *most aggressively* trying to *re-discover*. The amber bottle is, in our view, the bottle form that, in the contemporary vanity, has been *most successfully* re-discovered. The amber bottle is, in 2026, on the shelves of *every* contemporary boutique perfumer, *every* contemporary indie skincare line, *every* contemporary apothecary-style beauty brand.
+The modern standard is a number, not a colour. USP <660> and Ph. Eur. 3.2.1 require light-resistant containers to limit spectral transmission across roughly 290–450 nm, typically to under 10%, scaling from about 25% under 1 mL to about 10% over 20 mL. Amber is not automatically correct: some sustained-release formulations interact with it, and 2025 work coats clear vials to meet the same limits.
 
 ## The apothecary bottle today
 
-The apothecary bottle is, in 2026, the bottle form that the contemporary vanity has, in our view, *most successfully* recovered. The recovery is, in our view, a *good* thing. The recovery is, in our view, also a *partial* thing. The recovery is, in our view, mostly a recovery of the *form*. The recovery is, in our view, less a recovery of the *philosophy*.
+Aesop is the proof. Founded in Melbourne in 1987 by the hairdresser Dennis Paphitis, the company built its identity on amber glass apothecary bottles with cream labels, and the amber is functional — light protection for plant actives — as well as rhetorical. L'Oréal bought it in 2023 for $2.5 billion. The Parsley Seed Anti-Oxidant Serum, 100 ml, was listed at £55 at Lookfantastic UK in 2026.
 
-The philosophy of the apothecary bottle was, in the 19th century, the philosophy of *substance* — the bottle was, in the 19th century, a *container* for the substance, and the substance was, in the 19th century, *more important* than the container. The contemporary vanity has, in the last hundred years, *inverted* the relationship — the container is, in the contemporary vanity, in most cases, *more important* than the substance.
+The other end of the same object is a catalogue line. Chinese suppliers quote 5–100 ml amber screw-cap bottles at about $0.08 apiece at 1,000 units, frosted or dropper versions at $0.06–0.12, and $0.15–0.26 at 5,000–10,000 units elsewhere. The category names itself: "amber glass essential oil bottles" in 5, 10, 15, 20, 30, 50 and 100 ml, with "UV Protection" in the product title.
 
-The inversion is, in our view, a mistake. The inversion is, in our view, the mistake that the apothecary bottle is, in 2026, *most trying to correct*. The correction is, in our view, what the amber bottle is, in 2026, *for*.
+The UV claim is largely uncited. Only two suppliers surveyed publish numbers — UVB 290–320 nm under 5%, UVA 320–400 nm under 8%, visible 400–450 nm under 15% — no public ASTM or ISO protocol is posted, and "99% UV block" language carries no report reference. Whatever the eight-cent bottle does, nobody selling it has published the measurement.
 
----
+The word has become the product. Apothékary, founded by Shizu Okusa with a physical store in 2019 and e-commerce in January 2020, reached roughly $25M in revenue and more than 2,000 retail doors. Marks & Spencer's own-brand Apothecary reached £20 million within two years, reported in February 2022, and Eurovetrocap markets a "pharmaceutical look" range to cosmetics clients.
 
-The apothecary bottle, in sum, is the ancestor of every beauty bottle on the modern shelf. The apothecary bottle has, in the last hundred years, been *forgotten*, *re-discovered*, *re-imagined*, and *re-introduced*. The apothecary bottle has, in 2026, finally, *arrived* on the contemporary vanity, in the form of the amber bottle, the porcelain pot, and the crystal flacon.
-
-The arrival is, in our view, the most interesting *return* in the contemporary beauty market. The arrival is, in our view, also the most *useful* return — the return that the contemporary wearer, in our view, *most needed*. The return is, in our view, finally, what the apothecary bottle is for.
-
-The apothecary bottle is, in our view, also the bottle that, on the contemporary vanity, is *most worth owning*. The apothecary bottle is, in our view, the bottle that, on the contemporary vanity, is *most worth displaying*. The apothecary bottle is, in our view, the bottle that, on the contemporary vanity, is *most worth using*.
-
-The using is, in our view, what the apothecary bottle is for. The using is, in our view, what the contemporary vanity has, in the last hundred years, *most forgotten*. The forgetting is, in our view, what the apothecary bottle is, in 2026, *finally correcting*.
+Blackshore argues the look has detached from its meaning and become "a costume" for anyone with a label printer; some craft brands are abandoning it because fluency now reads as conformity. Fat and the Moon moved in September 2025 to printed amber apothecary glass with hemp boxes, keeping the bottle and changing the surface. Eight cents against £55 is the argument in one spread.
