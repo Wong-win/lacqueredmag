@@ -13,7 +13,7 @@
     "lint:articles": "node scripts/lint-articles.mjs",
     "lint:baseline": "node scripts/lint-baseline.mjs",
     "lint:outlines": "node scripts/build-outlines.mjs --write",
-    "prebuild": "node scripts/lint-articles.mjs",
+    "prebuild": "SITE_LANG=en node scripts/check-slug-lang.mjs",
     "astro": "astro"
   },
   "dependencies": {
